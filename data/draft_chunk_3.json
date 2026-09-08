@@ -1,0 +1,1118 @@
+[
+  {
+    "id": "row748",
+    "front": "no eran compatibles",
+    "back": "no tenían las mismas cualidades o intereses para llevarse bien; se usa a menudo para relaciones que terminan. Ej: \"Rompimos porque no eran compatibles.\"",
+    "notes": "they weren't compatible (past, plural — about two people/things)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row750",
+    "front": "todo llegó al pico",
+    "back": "la situación alcanzó su punto máximo o de mayor tensión. Ej: \"Después de meses de discusiones, todo llegó al pico y decidimos separarnos.\"",
+    "notes": "everything came to a head / reached its peak; idiomatic use of \"llegar al pico\"",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "meaning inferred from context; could be 'reached a breaking point' or simply 'reached its peak' — verify intended sense"
+  },
+  {
+    "id": "row752",
+    "front": "se distanció / se retractó",
+    "back": "distanciarse = alejarse emocional o físicamente de alguien (Ej: \"Se distanció de sus amigos después de mudarse.\"); retractarse = admitir que algo que dijo era falso o retirar una declaración (Ej: \"Se retractó de sus palabras tras la disculpa pública.\")",
+    "notes": "he/she distanced themselves / he/she retracted (two distinct pronominal verbs)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": "two separate verbs bundled in one source entry; consider splitting into two cards"
+  },
+  {
+    "id": "row754",
+    "front": "le da \"me gusta\"",
+    "back": "expresión para decir que alguien reacciona con un \"like\" a algo en redes sociales. Ej: \"Le da me gusta a todas mis fotos.\"",
+    "notes": "she likes it / gives it a \"like\" (social media); source text was garbled",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "source text garbled ('le da me gusta' vs likely intended phrasing); reconstructed best guess"
+  },
+  {
+    "id": "row756",
+    "front": "cualidad",
+    "back": "rasgo o característica positiva de la personalidad de alguien. Ej: \"La paciencia es una de sus mejores cualidades.\"",
+    "notes": "(personal) quality/trait — contrast with \"calidad\" (quality of an object)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row757",
+    "front": "calidad",
+    "back": "grado de excelencia o valor de un objeto o servicio. Ej: \"Este producto tiene muy buena calidad.\"",
+    "notes": "quality (of an object/product) — contrast with \"cualidad\" (personal trait)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row759",
+    "front": "el que persevera, alcanza",
+    "back": "refrán que significa que quien persiste en su esfuerzo, finalmente consigue lo que quiere. Ej: \"No te rindas — el que persevera, alcanza.\"",
+    "notes": "\"he who perseveres, achieves\" (proverb, like \"slow and steady wins the race\")",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row767",
+    "front": "no me senté",
+    "back": "forma negativa pronominal del verbo \"sentarse\" en pretérito; significa que la persona no tomó asiento. Ej: \"No me senté porque no había sillas.\"",
+    "notes": "I did NOT sit down (source gloss 'i sat' appears to be an error — this phrase is negative)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "source gloss 'i sat' contradicts the negative 'no me senté' (= 'I did not sit'); flagged for correction"
+  },
+  {
+    "id": "row769",
+    "front": "estaba celoso",
+    "back": "sentía celos, envidia por miedo a perder el afecto o atención de alguien. Ej: \"Estaba celoso porque ella hablaba mucho con su ex.\"",
+    "notes": "he was jealous",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row771",
+    "front": "me quedé",
+    "back": "forma pronominal de \"quedar\" que indica permanecer en un lugar/estado o el resultado de una situación. Ej: \"Me quedé en casa todo el fin de semana.\" / \"Me quedé sorprendido con la noticia.\"",
+    "notes": "I stayed / I ended up (+ adj.) — versatile pronominal verb; source fragment was incomplete",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "source arrow '->' had no continuation; general usage card drafted instead of the specific intended example"
+  },
+  {
+    "id": "row773",
+    "front": "de último minuto",
+    "back": "que ocurre justo antes del plazo o momento final, sin previo aviso. Ej: \"Fue un cambio de último minuto en el itinerario.\"",
+    "notes": "last-minute",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row775",
+    "front": "sentimos mucha química",
+    "back": "hay una fuerte conexión o atracción emocional/física entre dos personas. Ej: \"Desde la primera cita sentimos mucha química.\"",
+    "notes": "we felt a lot of chemistry (romantic/interpersonal spark)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": "corrected typo 'quimica' -> 'química'"
+  },
+  {
+    "id": "row777",
+    "front": "¿cuál fue la impresión de...? / ¿qué impresión tuvo...?",
+    "back": "preguntas para saber la opinión o sensación inicial que alguien tuvo sobre algo o alguien. Ej: \"¿Cuál fue tu impresión de la ciudad la primera vez que la visitaste?\"",
+    "notes": "\"what was [someone]'s impression of...?\" — two equivalent question forms",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": "corrected accent typos (cúal->cuál, impresion->impresión)"
+  },
+  {
+    "id": "row779",
+    "front": "ya sabía",
+    "back": "expresa que la persona ya tenía conocimiento de algo antes de que se lo dijeran. Ej: \"No me sorprendió la noticia, ya sabía.\"",
+    "notes": "I already knew",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row781",
+    "front": "¿te atraigo o no?",
+    "back": "pregunta directa para saber si alguien siente atracción física o romántica hacia uno. Ej: \"Dime la verdad, ¿te atraigo o no?\"",
+    "notes": "\"am I attractive to you or not?\" (direct, informal romantic question)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row783",
+    "front": "no es recíproco",
+    "back": "no hay igual intensidad de sentimiento o acción entre ambas partes; un lado siente/da más que el otro. Ej: \"Me gusta mucho, pero el sentimiento no es recíproco.\"",
+    "notes": "it's not mutual (often about feelings/love)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": "corrected typo 'reciproco' -> 'recíproco'"
+  },
+  {
+    "id": "row785",
+    "front": "epifanía",
+    "back": "momento repentino de comprensión profunda o revelación sobre algo. Ej: \"Tuve una epifanía sobre lo que realmente quiero hacer con mi vida.\"",
+    "notes": "epiphany",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": "corrected typo 'epifania' -> 'epifanía'"
+  },
+  {
+    "id": "row787",
+    "front": "estaba en mi mejor momento, no le alcanzo",
+    "back": "expresa que, aunque la persona estaba en su mejor etapa o rendimiento, no logra igualar o ser suficiente para otra persona/situación. Ej: \"Estaba en mi mejor momento, pero no le alcanzo — siempre quiere más.\"",
+    "notes": "\"I was at my best, [but] I'm not enough for them / I can't measure up to them\"; ambiguous fragment, meaning inferred",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "source phrase is ambiguous/fragmentary; interpreted 'no le alcanzo' as 'I don't measure up to him/her' — verify intended meaning"
+  },
+  {
+    "id": "row789",
+    "front": "lo normal es que no funcione",
+    "back": "se usa para decir que, por experiencia, lo esperable es que algo falle o no dé resultado. Ej: \"Lo normal es que no funcione a la primera, así que no te desanimes.\"",
+    "notes": "\"the normal thing is that it doesn't work\" (source used indicative 'funciona'; corrected to subjunctive 'funcione' as grammatically expected)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "source used indicative 'funciona'; corrected to subjunctive 'funcione' — verify against original intent"
+  },
+  {
+    "id": "row791",
+    "front": "agarrar vuelo",
+    "back": "tomar impulso o velocidad antes de hacer algo, como correr o saltar. Ej: \"Retrocedió unos pasos para agarrar vuelo antes de saltar la zanja.\"",
+    "notes": "to get a running start / build up momentum (source gloss: \"to go back for sprinting\")",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row794",
+    "front": "12 de enero",
+    "back": "forma de leer una fecha en español: día + \"de\" + mes. Ej: \"Mi cita es el 12 de enero.\"",
+    "notes": "January 12 — source row is a bare date stamp (12.01.2026), not real vocabulary; drafted a generic date-reading card",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "source is a date stamp/noise, not a vocab entry — likely should be excluded from the deck"
+  },
+  {
+    "id": "row798",
+    "front": "imperfecto",
+    "back": "tiempo verbal que se usa para describir acciones habituales, en curso o descripciones en el pasado. Ej: \"Cuando era niño, jugaba en el parque todos los días.\"",
+    "notes": "\"use the imperfect [tense]\" — source is a grammar reminder/note, not a standalone vocab item",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "source is a bare grammar instruction with no context ('-> use imperfecto'); not a real vocab entry, best-effort card drafted"
+  },
+  {
+    "id": "row799",
+    "front": "estás brincando de un lugar al otro",
+    "back": "cambias constantemente de sitio, actividad o tema sin quedarte fijo en uno. Ej: \"Estás brincando de un lugar al otro, mejor concéntrate en una sola cosa.\"",
+    "notes": "you're jumping/hopping from one place to another (figurative: lacking focus/consistency)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row804",
+    "front": "atorada",
+    "back": "que no puede avanzar o moverse, bloqueada en una situación o lugar. Ej: \"Estoy atorada en el tráfico desde hace una hora.\"",
+    "notes": "stuck (feminine form; masc. 'atorado'); corrected spelling from 'atorrada' to 'atorada'",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": "corrected likely typo 'atorrada' -> 'atorada'"
+  },
+  {
+    "id": "row806",
+    "front": "perico",
+    "back": "ave pequeña de colores vivos, similar al loro, que puede aprender a imitar sonidos. Ej: \"Tengo un perico verde que sabe decir 'hola'.\"",
+    "notes": "parakeet/small parrot; corrected typo 'perrico' -> 'perico'",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": "corrected typo 'perrico' -> 'perico'"
+  },
+  {
+    "id": "row808",
+    "front": "amarillista",
+    "back": "que exagera o sensacionaliza una noticia para llamar la atención, de forma negativa o poco seria (como la prensa amarilla). Ej: \"Ese noticiero es muy amarillista, siempre exagera todo.\"",
+    "notes": "sensationalist (tabloid-style, negative connotation) — from \"prensa amarilla\" (yellow press)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row815",
+    "front": "tímida",
+    "back": "que se siente incómoda o insegura al hablar o actuar frente a otras personas. Ej: \"Es muy tímida, le cuesta hablar en público.\"",
+    "notes": "shy (feminine form)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": "corrected typo 'timida' -> 'tímida'"
+  },
+  {
+    "id": "row817",
+    "front": "fiesta casera",
+    "back": "reunión informal con amigos en una casa particular, en vez de en un local o discoteca. Ej: \"Este sábado hacemos una fiesta casera en mi apartamento.\"",
+    "notes": "house party (NOT \"fiesta de casa\" — unnatural)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row819",
+    "front": "los dos / ambos",
+    "back": "expresiones para referirse a dos elementos o personas en conjunto. Ej: \"Compré dos camisas y me gustan las dos.\" / \"Ambos llegaron tarde a la reunión.\"",
+    "notes": "both (NOT \"los ambos\" — incorrect, \"ambos\" never takes an article)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row821",
+    "front": "pasamos un buen rato",
+    "back": "expresión natural para decir que se disfrutó un momento o actividad. Ej: \"Pasamos un buen rato en la playa con los amigos.\"",
+    "notes": "we had a good time (NOT \"tuvimos un buen tiempo\" — anglicism, sounds unnatural)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row823",
+    "front": "perder tiempo",
+    "back": "usar el tiempo en algo inútil o sin provecho. Ej: \"No quiero perder tiempo en cosas que no importan.\"",
+    "notes": "to waste time",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row827",
+    "front": "eternidad / eterno",
+    "back": "eternidad = tiempo sin fin (sustantivo); eterno = que dura para siempre (adjetivo). Ej: \"Sentí que la espera duró una eternidad.\" / \"Un amor eterno.\"",
+    "notes": "eternity / eternal (noun + adjective pair)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row831",
+    "front": "28 de enero",
+    "back": "forma de leer una fecha en español: día + \"de\" + mes. Ej: \"La reunión es el 28 de enero.\"",
+    "notes": "January 28 — source row is a bare date stamp (28.01.2026), not real vocabulary",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "source is a date stamp/noise, not a vocab entry — likely should be excluded from the deck"
+  },
+  {
+    "id": "row832",
+    "front": "noche de juegos de mesa",
+    "back": "reunión para jugar juegos de mesa entre amigos o familia, generalmente por la noche. Ej: \"Organizamos una noche de juegos de mesa cada viernes.\"",
+    "notes": "board game night",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row834",
+    "front": "principal preocupación",
+    "back": "el asunto que más inquieta o angustia a alguien. Ej: \"Mi principal preocupación es no encontrar trabajo a tiempo.\"",
+    "notes": "main/biggest concern/worry",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": "corrected typo 'preocupacion' -> 'preocupación'"
+  },
+  {
+    "id": "row836",
+    "front": "los aldeanos",
+    "back": "habitantes de una aldea o pueblo pequeño. Ej: \"Los aldeanos se reunieron en la plaza para celebrar la fiesta.\"",
+    "notes": "the villagers",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row838",
+    "front": "hombres lobo",
+    "back": "seres legendarios que se transforman de hombre a lobo, especialmente en luna llena. Ej: \"En el juego, algunos jugadores son hombres lobo que deben engañar a los demás.\"",
+    "notes": "werewolves (plural of \"hombre lobo\")",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row840",
+    "front": "culpable",
+    "back": "persona responsable de una falta, delito o error. Ej: \"La policía encontró al culpable del robo.\"",
+    "notes": "guilty (person)/culprit",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row842",
+    "front": "alcalde",
+    "back": "autoridad máxima elegida para gobernar un municipio o ciudad. Ej: \"El alcalde inauguró el nuevo parque.\"",
+    "notes": "mayor",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row844",
+    "front": "yo debí haber votado",
+    "back": "expresa un arrepentimiento por no haber votado en el pasado (obligación no cumplida). Ej: \"Yo debí haber votado en esas elecciones, pero se me pasó la fecha.\"",
+    "notes": "I should have voted (regret, \"deber + haber + participio\")",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row846",
+    "front": "a mí siempre se me olvidan las reglas",
+    "back": "construcción con \"se\" para expresar olvidos involuntarios; equivale a decir que uno olvida algo sin querer. Ej: \"A mí siempre se me olvidan las reglas del juego.\"",
+    "notes": "I always forget the rules (involuntary \"se me olvida\" construction)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row848",
+    "front": "fui con mis amigos a jugar",
+    "back": "expresa que la persona fue acompañada por sus amigos a realizar una actividad (jugar). Ej: \"Ayer fui con mis amigos a jugar fútbol en el parque.\"",
+    "notes": "I went with my friends to play (source note 'not fui a' seems to flag a correction, but the exact contrast is unclear)",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "source correction 'not fui a' is unclear/incomplete — exact contrasted phrase could not be reconstructed with confidence"
+  },
+  {
+    "id": "row850",
+    "front": "no lo prometo, pero espero",
+    "back": "se usa para matizar una promesa: no se garantiza, pero se tiene la esperanza de que ocurra. Ej: \"Voy a intentar llegar temprano, no lo prometo, pero espero poder.\"",
+    "notes": "I don't promise it, but I hope [to] — softens a commitment (added 'pero' for natural flow)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "added connector 'pero' between clauses for natural flow; source text ran the two clauses together without it"
+  },
+  {
+    "id": "row852",
+    "front": "julio",
+    "back": "séptimo mes del año, entre junio y agosto. Ej: \"Mi cumpleaños es en julio.\"",
+    "notes": "July — source row was a personal note (\"julio - marci bday\"), not a real vocab entry",
+    "reversible": true,
+    "confidence": "low",
+    "flag_reason": "source is a personal birthday note, not vocabulary content — likely should be excluded from the deck"
+  },
+  {
+    "id": "row854",
+    "front": "República Checa",
+    "back": "país de Europa Central cuya capital es Praga. Ej: \"Visité la República Checa el año pasado.\"",
+    "notes": "Czech Republic; corrected typo 'Czecha' -> 'Checa'",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": "corrected typo 'Czecha' -> 'Checa'"
+  },
+  {
+    "id": "row856",
+    "front": "solo está lloviendo",
+    "back": "se usa para restar importancia a la lluvia, indicando que no es grave. Ej: \"No te preocupes, solo está lloviendo, no hay tormenta.\"",
+    "notes": "it's just raining",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row857",
+    "front": "restaurante hindú",
+    "back": "establecimiento que sirve comida tradicional de la India. Ej: \"Fuimos a un restaurante hindú y probé el curry por primera vez.\"",
+    "notes": "Indian restaurant (\"hindú\" = Indian/Hindu); corrected typo 'hindu' -> 'hindú'",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row858",
+    "front": "las otras dos personas",
+    "back": "se usa para referirse al resto de un grupo, cuando ya se mencionaron algunas personas antes. Ej: \"Yo llegué primero, y las otras dos personas llegaron después.\"",
+    "notes": "the other two people (word order: \"otras dos\", NOT \"dos otras\")",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row859",
+    "front": "me caí",
+    "back": "forma pronominal del verbo \"caer\" en pretérito; indica que la persona perdió el equilibrio y cayó. Ej: \"Me caí de la bicicleta y me lastimé la rodilla.\"",
+    "notes": "I fell (down) — pronominal use of \"caer\"",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row860",
+    "front": "hice mal",
+    "back": "expresión adverbial para decir que se actuó de forma incorrecta o equivocada. Ej: \"Hice mal en no avisarte antes.\"",
+    "notes": "I did [it] wrong / I did badly (adverb \"mal\", NOT the adjective \"malo\")",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row861",
+    "front": "lo tenía sin cuidado",
+    "back": "expresión que significa que algo no le importaba en absoluto a alguien. Ej: \"Le dije lo que pensaba de él, pero lo tenía sin cuidado.\"",
+    "notes": "it didn't matter to him/her at all / he/she couldn't care less",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row862",
+    "front": "como si hubiera",
+    "back": "estructura que introduce una comparación hipotética o irreal, seguida de participio (pluscuamperfecto de subjuntivo). Ej: \"Actuó como si hubiera ganado el premio.\"",
+    "notes": "as if he/she had (+ past participle) — hypothetical comparison",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row863",
+    "front": "se mueve",
+    "back": "forma pronominal de \"mover(se)\" que indica que algo cambia de posición o lugar. Ej: \"El tráfico está tan lento que casi no se mueve.\" (los coches apenas se mueven)",
+    "notes": "it moves / it's moving (pronominal — note the reflexive \"se\")",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row864",
+    "front": "saber / conocer",
+    "back": "\"saber\" se usa para conocimiento de hechos o habilidades (Ej: \"Sé hablar francés.\"); \"conocer\" se usa para estar familiarizado con personas, lugares o cosas (Ej: \"Conozco a tu hermana.\" / \"Conozco ese restaurante.\")",
+    "notes": "to know facts/skills (saber) vs. to know/be familiar with people, places, brands (conocer)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row866",
+    "front": "movido",
+    "back": "dicho de una persona: muy activa, inquieta, con iniciativa, que siempre está haciendo cosas o metida en planes; también puede implicar que es sociable y se mueve bien en su ambiente. Ej: \"Marci me dijo que soy una persona muy movida, siempre metido en mil proyectos.\"",
+    "notes": "energetic/always on the go, a \"live wire\"/social dynamo — compliment Marci gave the user; nuance varies by country (LatAm: also sharp/socially plugged-in)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row867",
+    "front": "cumplido",
+    "back": "elogio o expresión amable que se dice para halagar a alguien. Ej: \"Me hizo un cumplido sobre mi presentación.\" (Nota: no confundir con \"complemento\", que es algo que se añade a otra cosa para completarla.)",
+    "notes": "compliment (praise) — false friend warning: \"cumplido\" is not \"complement\" (something added); that concept is \"complemento\" in Spanish",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "source Front(EN) said 'complement' but Back(ES) 'cumplido' actually means 'compliment' (praise) — likely an EN spelling mix-up in the original; flagged for verification"
+  },
+  {
+    "id": "row868",
+    "front": "visitar a alguien / escribirle a alguien",
+    "back": "los verbos \"visitar\" y \"escribir\" (cuando el objeto es una persona) requieren la preposición \"a\" (a personal). Ej: \"Voy a visitar a mi abuela.\" / \"Le escribí a mi amiga sobre el viaje.\"",
+    "notes": "to visit/write to someone — personal \"a\" required before a person as direct/indirect object",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row869",
+    "front": "lo bueno es que",
+    "back": "expresión natural para introducir un aspecto positivo de una situación. Ej: \"Lo bueno es que ya terminamos el proyecto a tiempo.\"",
+    "notes": "the good thing is that... (NOT \"la cosa buena\" — unnatural/anglicism)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row870",
+    "front": "gente del medio",
+    "back": "personas que forman parte de un sector o ámbito profesional específico. Ej: \"Todos en esa fiesta eran gente del medio tecnológico.\"",
+    "notes": "people in the industry/field (\"medio\" = sector/scene) — more natural than \"gente del mundo de startups\"",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row871",
+    "front": "me tomo",
+    "back": "forma pronominal de \"tomar\" que enfatiza que la acción se hace para uno mismo o con cierta actitud personal. Ej: \"Me tomo un café cada mañana antes de trabajar.\" / \"Me tomo esto muy en serio.\"",
+    "notes": "I take (for myself) / I take [it] (a certain way) — pronominal \"tomarse\"",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "source fragment lacks a full example context; general pronominal usage drafted"
+  },
+  {
+    "id": "row873",
+    "front": "anotar / anotarse",
+    "back": "\"anotar\" = escribir algo para recordarlo, o marcar un gol/punto (Ej: \"Anotó dos goles en el partido.\"); \"anotarse\" = apuntarse o inscribirse a algo (Ej: \"Me anoté en el curso de inglés.\")",
+    "notes": "to write down / to score (a goal) vs. to sign (oneself) up for something",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row874",
+    "front": "presentar a alguien",
+    "back": "dar a conocer a una persona a otra que no la conoce. Ej: \"Quiero presentarte a mi hermana.\"",
+    "notes": "to introduce someone",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row875",
+    "front": "trastes",
+    "back": "utensilios de cocina, como ollas, platos y cubiertos (uso coloquial, especialmente en México y Centroamérica). Ej: \"Voy a lavar los trastes después de cenar.\"",
+    "notes": "dishes/kitchenware (colloquial, common in Mexico/Central America)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row877",
+    "front": "vendas",
+    "back": "tiras de tela o gasa que se usan para cubrir o inmovilizar una herida. Ej: \"El enfermero le puso vendas en el brazo lastimado.\"",
+    "notes": "bandages",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row878",
+    "front": "paciente",
+    "back": "1) persona que recibe atención médica; 2) (adjetivo) que tiene paciencia, capaz de esperar sin molestarse. Ej: \"El médico atendió al paciente.\" / \"Es muy paciente con los niños.\"",
+    "notes": "patient — noun (medical patient) and adjective (having patience); same spelling, different uses",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row879",
+    "front": "volverse",
+    "back": "transformarse gradualmente en algo o alguien diferente, generalmente sin intención ni control, y de forma más permanente (sobre rasgos de carácter). Ej: \"Con los años, se volvió más desconfiado.\"",
+    "notes": "to become (gradual, involuntary, usually a lasting personality trait) — NOT for temporary states like being sick",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row880",
+    "front": "poner los cuernos",
+    "back": "expresión coloquial que significa ser infiel a la pareja. Ej: \"Se enteró de que su novio le puso los cuernos con su mejor amiga.\"",
+    "notes": "to cheat on someone (infidelity) — colloquial idiom, literally \"to put horns on someone\"; source omitted \"los\"",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "source said 'poner cuerno' (singular, no article); standard idiom is 'poner los cuernos' — corrected"
+  },
+  {
+    "id": "row881",
+    "front": "desconfiado",
+    "back": "que no confía fácilmente en los demás, receloso o suspicaz. Ej: \"Es muy desconfiado desde que lo traicionaron.\"",
+    "notes": "distrustful/suspicious",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row882",
+    "front": "fui en tren",
+    "back": "expresión para decir el medio de transporte que se usó para ir a algún lugar. Ej: \"Fui en tren a Madrid porque era más barato que el avión.\"",
+    "notes": "I went by train (medium of transport uses \"en\", not \"con\")",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row883",
+    "front": "qué me queda bien",
+    "back": "se usa para preguntar o afirmar qué prenda de ropa (u otra cosa) le sienta bien a alguien. Ej: \"No sé qué me queda bien para la fiesta de esta noche.\"",
+    "notes": "what looks good on me / what suits me",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row884",
+    "front": "hablar / discutir",
+    "back": "\"hablar\" = conversar de manera neutral (Ej: \"Vamos a hablar sobre el proyecto.\"); \"discutir\" = tener una discusión o pelea, con tono más negativo en español (Ej: \"Discutieron por dinero.\")",
+    "notes": "to talk/discuss (hablar) vs. to argue (discutir) — false-friend warning: Spanish \"discutir\" usually means \"to argue\", not neutral \"discuss\"",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row886",
+    "front": "navegar / recorrer",
+    "back": "\"navegar\" se usa sobre todo para desplazarse en barco (o en internet); para moverse por un lugar en tierra (como explorar una isla en coche o autobús) se usa mejor \"recorrer\" o \"andar por\". Ej: \"Navegamos por el Caribe en velero.\" / \"Recorrimos la isla en autobús.\"",
+    "notes": "to navigate/sail (boats, internet) vs. \"recorrer\"/\"andar por\" for getting around a place on land",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row887",
+    "front": "laico",
+    "back": "que no depende de ninguna religión ni está vinculado a ella, como un estado, país o institución educativa. Ej: \"México es un estado laico.\" / \"Es un colegio laico, no religioso.\"",
+    "notes": "secular (state, school, etc. — not about a person's personal beliefs)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row888",
+    "front": "fijar",
+    "back": "sujetar o colocar algo de forma que no se mueva; dejarlo firme en un lugar. Ej: \"Fijaron el estante a la pared con tornillos.\"",
+    "notes": "to fix/fasten (something) in place, physically immobilize — not \"to fix/repair\" a problem",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row889",
+    "front": "fijarse",
+    "back": "prestar atención a algo o darse cuenta de un detalle (forma pronominal). Ej: \"Fíjate bien antes de cruzar la calle.\"",
+    "notes": "to notice/pay attention (pronominal) — different from \"fijar\" (to fasten physically)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row890",
+    "front": "sureste asiático",
+    "back": "región geográfica que incluye países como Tailandia, Vietnam e Indonesia. Ej: \"Viajamos por varios países del sureste asiático.\"",
+    "notes": "Southeast Asia",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row891",
+    "front": "presentar nuestro producto",
+    "back": "dar a conocer públicamente un producto, mostrando sus características. Ej: \"Vamos a presentar nuestro producto en la feria de tecnología.\" (Nota: no confundir con \"introducir\", que significa meter algo dentro de otra cosa.)",
+    "notes": "to present/launch our product (NOT \"introducir\", which means to insert something inside something else)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row892",
+    "front": "hay sol",
+    "back": "expresión impersonal para describir el clima cuando el sol está presente/brillando. Ej: \"Hoy hay sol, vamos a la playa.\"",
+    "notes": "it's sunny (impersonal \"hay\", NOT \"tiene sol\")",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row894",
+    "front": "criticaba",
+    "back": "forma del pretérito imperfecto de \"criticar\"; expresaba desaprobación o juicio negativo de forma habitual en el pasado. Ej: \"Siempre criticaba el trabajo de los demás sin ofrecer soluciones.\"",
+    "notes": "he/she was criticizing / used to criticize (imperfect tense)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row895",
+    "front": "solo me quedaron 20 minutos",
+    "back": "expresa que a la persona le sobró o le restó poco tiempo (uso pronominal de \"quedar\"). Ej: \"Empecé tarde el examen y solo me quedaron 20 minutos para terminarlo.\"",
+    "notes": "I only had 20 minutes left",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row896",
+    "front": "el sol no da / el sol no pega",
+    "back": "expresiones para decir que la luz del sol no llega directamente a un lugar. Ej: \"En mi apartamento el sol no da por las tardes.\" / \"Aquí el sol no pega mucho.\" (\"pega\" es más común en Latinoamérica)",
+    "notes": "the sun doesn't reach/hit [a place] (NOT \"el sol va a...\" — unnatural); \"pega\" is the LatAm variant",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row898",
+    "front": "logística",
+    "back": "conjunto de procesos para planificar, organizar y ejecutar el transporte, almacenamiento y distribución de bienes. Ej: \"La logística del evento fue complicada por la falta de personal.\"",
+    "notes": "logistics",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": "corrected typo 'logistica' -> 'logística'"
+  },
+  {
+    "id": "row899",
+    "front": "entendería",
+    "back": "forma condicional de \"entender\"; expresa que alguien comprendería algo bajo ciertas circunstancias. Ej: \"Si me lo explicaras de nuevo, creo que entendería mejor.\"",
+    "notes": "I/he/she would understand (conditional tense)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row904",
+    "front": "siguió haciendo",
+    "back": "\"seguir\" + gerundio expresa la continuación de una acción. Ej: \"A pesar de las críticas, siguió haciendo lo que le gustaba.\" (NO \"siguió hacer\" — \"seguir\" requiere gerundio, no infinitivo.)",
+    "notes": "he/she kept on doing (seguir + gerund, NOT infinitive)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row905",
+    "front": "me temo que",
+    "back": "expresión para introducir una noticia o hecho desafortunado con cierta cortesía. Ej: \"Me temo que no vamos a llegar a tiempo.\"",
+    "notes": "I'm afraid that... (softening bad news)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row906",
+    "front": "perro / perra (slang)",
+    "back": "en lenguaje coloquial y callejero, \"perro/a\" puede significar \"difícil\" o, como cumplido, \"muy bueno/a en algo\". Ej: \"Ese examen estuvo bien perro.\" / \"Es perrísimo para el trabajo\" (= es muy bueno). Nota: la forma femenina \"perra\" casi siempre tiene un sentido negativo/vulgar (como \"bitch\" en inglés), a diferencia de \"perro\".",
+    "notes": "very informal/street-level slang — \"perro\" = tough/difficult OR (as compliment) very skilled; \"perra\" (fem.) is almost always negative/vulgar — use with caution",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "highly regional slang with contradictory meanings (difficult vs. skilled) depending on context; register warning — feminine form is vulgar/offensive"
+  },
+  {
+    "id": "row907",
+    "front": "que me vuelva parte del equipo / que me una al equipo",
+    "back": "expresiones (en subjuntivo) para decir que alguien se convierta en miembro de un equipo o grupo. Ej: \"Espero que me vuelva parte del equipo pronto.\" / \"Quiero que me una al proyecto.\"",
+    "notes": "[that] I become part of the team / [that] I join the team (subjunctive, used after expressions of hope/desire)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "source fragment lacks the governing verb (e.g. 'espero que...'); subjunctive forms drafted from context"
+  },
+  {
+    "id": "row954",
+    "front": "subirme de puesto / ascenderme",
+    "back": "expresiones para decir que a alguien lo suben a un cargo o posición más alta en el trabajo. Ej: \"Después de dos años, por fin me van a ascender.\" / \"Espero que me suban de puesto pronto.\"",
+    "notes": "to get promoted / to be promoted (career; part of a promotion-themed set of phrases from the source)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row956",
+    "front": "estaciones",
+    "back": "cada uno de los cuatro periodos del año (primavera, verano, otoño, invierno) marcados por cambios climáticos. Ej: \"Mi estación favorita es el otoño.\"",
+    "notes": "(the) seasons (of the year) — note: \"estación\" is also \"station\" (train station), context-dependent",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row957",
+    "front": "entrenamiento",
+    "back": "preparación física o práctica repetida para mejorar una habilidad, típicamente deportiva o física (también para animales). Ej: \"Tengo entrenamiento de fútbol todos los martes.\" / \"El entrenamiento del perro tomó varios meses.\"",
+    "notes": "training (physical/sports, or animal training) — contrast with \"capacitación\" (professional/job training)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row958",
+    "front": "capacitación",
+    "back": "formación o preparación teórica/profesional para desempeñar mejor un trabajo. Ej: \"La empresa ofrece capacitación a los nuevos empleados.\"",
+    "notes": "(professional/job) training — contrast with \"entrenamiento\" (physical/sports training)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row959",
+    "front": "tomar la decisión",
+    "back": "decidir algo, especialmente tras pensarlo con cuidado. Ej: \"Por fin tomé la decisión de cambiar de trabajo.\"",
+    "notes": "to make the decision",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": "corrected typo 'tomar a decision' -> 'tomar la decisión'"
+  },
+  {
+    "id": "row960",
+    "front": "cambiarme de equipo",
+    "back": "pasar de un equipo o grupo de trabajo a otro. Ej: \"Decidí cambiarme de equipo para tener nuevos retos.\"",
+    "notes": "to switch/change teams",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row961",
+    "front": "reposo",
+    "back": "estado de descanso o quietud, sin movimiento ni actividad; también se usa para la recuperación médica. Ej: \"El médico le mandó una semana de reposo.\" / \"La mariposa estaba en reposo sobre la flor.\"",
+    "notes": "rest/stillness/recovery — also used for an object \"at rest\" (e.g. \"mariposa en reposo\" = butterfly at rest)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row962",
+    "front": "suspensión",
+    "back": "estado de estar detenido, pausado o sostenido en el aire sin moverse. Ej: \"El barco quedó en suspensión, flotando sin avanzar.\" / \"El gobierno anunció la suspensión del vuelo.\"",
+    "notes": "suspension (pause/hold, or physically suspended/floating in the air)",
+    "reversible": true,
+    "confidence": "medium",
+    "flag_reason": "source example ('ship suspended in air') is unusual — likely means the vehicle appeared suspended/floating; verify intended image"
+  },
+  {
+    "id": "row963",
+    "front": "cazar / cazadora",
+    "back": "\"cazar\" = perseguir y capturar animales (o, coloquialmente, conseguir algo con esfuerzo); \"cazadora\" = chaqueta corta, o mujer que caza. Ej: \"Los leones cazan en manada.\" / \"Se compró una cazadora de cuero.\"",
+    "notes": "to hunt (cazar) / bomber-style jacket, or huntress (cazadora) — two related but distinct meanings",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row964",
+    "front": "aletear",
+    "back": "mover las alas rápidamente, como hacen las aves o insectos al volar. Ej: \"El pájaro aleteaba nerviosamente dentro de la jaula.\"",
+    "notes": "to flap (wings)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row965",
+    "front": "asomar(se)",
+    "back": "aparecer o dejarse ver parcialmente por un borde o abertura. Ej: \"El sol asomaba detrás de las montañas.\" / \"Se asomó por la ventana para ver quién tocaba.\"",
+    "notes": "to peek out / appear at the edge of something (e.g. sun peeking over mountains, someone peeking out a window)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "source gave the noun form 'asomo'; card drafted around the more common verb 'asomar(se)' matching the given definition"
+  },
+  {
+    "id": "row966",
+    "front": "corear",
+    "back": "repetir o cantar algo todos juntos, como un lema o una canción. Ej: \"La multitud coreaba el nombre del equipo.\"",
+    "notes": "to chant (together), to chorus",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row967",
+    "front": "sacudida",
+    "back": "movimiento brusco o repentino de algo. Ej: \"Sentimos una sacudida fuerte durante el terremoto.\"",
+    "notes": "a shake/jolt (noun)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row968",
+    "front": "cuentas de rosario",
+    "back": "bolitas ensartadas que forman un rosario, usado para rezar contando oraciones. Ej: \"Sostenía las cuentas de rosario mientras rezaba.\"",
+    "notes": "rosary beads",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row969",
+    "front": "planear",
+    "back": "1) volar sin batir alas, dejándose llevar por el aire (como un planeador o un ave); 2) (más común) hacer planes u organizar algo con anticipación. Ej: \"El águila planeaba sobre el valle.\" / \"Planeamos el viaje con meses de anticipación.\"",
+    "notes": "to glide (aeronautical sense, as given in source) — note this word much more commonly means \"to plan\"; disambiguate by context",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row970",
+    "front": "ser indeciso",
+    "back": "tener dificultad para tomar decisiones, dudar mucho. Ej: \"Es muy indeciso, nunca sabe qué pedir en un restaurante.\"",
+    "notes": "to be indecisive",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row971",
+    "front": "sudar",
+    "back": "expulsar sudor por la piel, generalmente por calor o esfuerzo físico. Ej: \"Estoy sudando mucho porque hace mucho calor.\"",
+    "notes": "to sweat",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row972",
+    "front": "priorizar",
+    "back": "dar más importancia a algo frente a otras cosas, organizando según su urgencia o valor. Ej: \"Tengo que priorizar mis tareas para no sentirme abrumado.\"",
+    "notes": "to prioritize",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row973",
+    "front": "ruedas",
+    "back": "piezas circulares que giran y permiten el movimiento de un vehículo u objeto. Ej: \"El carro tiene las ruedas desinfladas.\"",
+    "notes": "wheels",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row974",
+    "front": "volcar",
+    "back": "hacer que algo se voltee o se caiga de lado, derramando su contenido; también un vehículo que se voltea. Ej: \"El camión volcó en la curva.\" / \"Volcó el vaso de agua sin querer.\"",
+    "notes": "to tip over / overturn / spill",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row975",
+    "front": "grieta",
+    "back": "abertura larga y estrecha que se forma en una superficie dura, como una pared o el suelo. Ej: \"Apareció una grieta en la pared después del terremoto.\"",
+    "notes": "crack (in a surface)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row976",
+    "front": "bocina",
+    "back": "dispositivo que emite sonido, como un altavoz, o el claxon de un carro que suena para avisar. Ej: \"Subí el volumen de la bocina.\" / \"Tocó la bocina para que se apartaran.\"",
+    "notes": "speaker, or car horn (source typo: \"hoop\" -> \"horn\")",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": "corrected likely typo 'hoop' -> 'horn' in source gloss"
+  },
+  {
+    "id": "row977",
+    "front": "convenir",
+    "back": "ser favorable, ventajoso o apropiado para alguien por alguna razón. Ej: \"No te conviene aceptar ese trabajo con ese sueldo tan bajo.\"",
+    "notes": "to be advantageous/suit someone's interests (something is better for a reason)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row978",
+    "front": "contener / contuvo",
+    "back": "\"contener\" = tener algo dentro, o dominar/reprimir una emoción o impulso. Ej: \"No pudo contener la sonrisa al verla.\" (pretérito: \"contuvo\")",
+    "notes": "to contain / to hold back (an emotion, e.g. \"contuvo la sonrisa\" = he held back a smile); \"contuvo\" = preterite form",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row979",
+    "front": "bursátil",
+    "back": "relacionado con la bolsa de valores y el comercio de acciones. Ej: \"El mercado bursátil cayó fuertemente esta semana.\"",
+    "notes": "stock-market related",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row980",
+    "front": "empeñarse",
+    "back": "insistir con determinación en conseguir algo, esforzarse mucho por lograrlo. Ej: \"Se empeñó en terminar el proyecto antes de la fecha límite.\"",
+    "notes": "to insist/be determined, to make a strong effort",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": "corrected typo 'empenyarse' -> 'empeñarse'"
+  },
+  {
+    "id": "row981",
+    "front": "orilla",
+    "back": "borde de un terreno junto al agua, como un río, lago o mar. Ej: \"Caminamos por la orilla del río al atardecer.\"",
+    "notes": "shore/riverbank/edge (of water)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row982",
+    "front": "mendigo",
+    "back": "persona que pide dinero o comida en la calle para sobrevivir. Ej: \"El mendigo pedía limosna afuera de la iglesia.\" (verbo: mendigar = pedir limosna)",
+    "notes": "beggar (verb: mendigar = to beg for alms)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row983",
+    "front": "vagabundo",
+    "back": "persona sin hogar fijo que vive en la calle, pero que no necesariamente pide dinero (a diferencia del mendigo). Ej: \"El vagabundo dormía bajo el puente.\"",
+    "notes": "homeless person/vagrant (does NOT beg for money, unlike \"mendigo\")",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": "corrected typo 'vagabondo' -> 'vagabundo'"
+  },
+  {
+    "id": "row984",
+    "front": "bisnieto",
+    "back": "hijo del nieto o de la nieta de una persona. Ej: \"Mi bisnieto nació el mes pasado.\"",
+    "notes": "great-grandson",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row985",
+    "front": "cantante",
+    "back": "persona que se dedica a cantar, profesionalmente o como afición. Ej: \"Mi cantante favorita es de Colombia.\"",
+    "notes": "singer",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row986",
+    "front": "entrelazar",
+    "back": "cruzar o unir varias cosas entre sí, como hilos o dedos. Ej: \"Entrelazaron los dedos mientras caminaban.\"",
+    "notes": "to interlace/intertwine",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row987",
+    "front": "nudillo",
+    "back": "articulación de los dedos de la mano. Ej: \"Tocó la puerta con los nudillos.\"",
+    "notes": "knuckle",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row988",
+    "front": "apuesta",
+    "back": "cantidad de dinero u otra cosa que se arriesga sobre el resultado de algo incierto. Ej: \"Hicimos una apuesta sobre quién ganaría el partido.\"",
+    "notes": "bet/wager",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row989",
+    "front": "apenas",
+    "back": "adverbio que indica que algo ocurre por muy poco margen, o hace muy poco tiempo. Ej: \"Apenas llegué y ya me tengo que ir.\" / \"Tengo apenas 20 dólares.\"",
+    "notes": "barely/just/hardly (versatile adverb — margin, recency, or scarcity)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row990",
+    "front": "cadena de suministro",
+    "back": "conjunto de procesos y empresas involucrados en producir y entregar un producto al consumidor final. Ej: \"La pandemia afectó mucho la cadena de suministro global.\"",
+    "notes": "supply chain",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row991",
+    "front": "no he descansado mucho",
+    "back": "expresa que la persona no ha tenido suficiente descanso recientemente (pretérito perfecto compuesto). Ej: \"No he descansado mucho esta semana, he tenido mucho trabajo.\"",
+    "notes": "I haven't rested much (present perfect, NOT \"no tenía descanso\" which sounds unnatural/wrong tense)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  }
+]
