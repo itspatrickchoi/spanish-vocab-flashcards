@@ -1,0 +1,380 @@
+[
+  {
+    "id": "row955_6",
+    "front": "internet",
+    "back": "Red mundial de comunicación digital. Ejemplo: \"Busqué la información en internet.\"",
+    "notes": "internet (basic vocabulary word)",
+    "reversible": true,
+    "confidence": "low",
+    "flag_reason": "bare word 'internet' with no surrounding context; appears out of place in a career/promotion-themed cell - verify intended meaning or whether it belongs here",
+    "rows": [
+      955
+    ],
+    "category": "multi_item_cell",
+    "source_text": "internet"
+  },
+  {
+    "id": "row30",
+    "front": "10.07",
+    "back": "No es una palabra o frase de vocabulario reconocible; parece ser una fecha o marca de tiempo (10 de julio) más que una entrada léxica.",
+    "notes": "not real vocabulary - appears to be a stray date/timestamp fragment ('10.07')",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "fragment '10.07' has no vocabulary content - looks like a misclassified date/timestamp; recommend excluding from the deck",
+    "rows": [
+      30
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "10.07"
+  },
+  {
+    "id": "row148",
+    "front": "no hay que tomar las cosas literalmente",
+    "back": "Expresión que advierte que algo (como una novela) no debe interpretarse de manera literal, sino en sentido figurado o simbólico. Ejemplo: \"Esta novela no es para tomarse literalmente; tiene un mensaje más profundo.\"",
+    "notes": "reminder note about a novel: 'don't take things literally' - reading-comprehension note, not a discrete vocabulary item",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "source is a parenthetical reading note, not a clear standalone vocab entry - verify whether it belongs in the deck",
+    "rows": [
+      148
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "(this novel is not to take things literally)"
+  },
+  {
+    "id": "row183",
+    "front": "podcast sobre temas abstractos",
+    "back": "Nota de estudio: escuchar podcasts sobre temas abstractos es más difícil, pero conviene volver a escucharlos varias veces para mejorar la comprensión. Ejemplo: \"Este podcast trata temas abstractos, así que lo voy a escuchar varias veces más.\"",
+    "notes": "personal study note: podcast covers abstract topics - re-listen a few more times to improve understanding (not really a vocab item)",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "looks like a personal study/learning-strategy note rather than a vocabulary item - verify whether to include in the deck",
+    "rows": [
+      183
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "Podcast -> temas abstractos -> but still listen few more times and try to"
+  },
+  {
+    "id": "row214",
+    "front": "alivio",
+    "back": "Sensación de tranquilidad que se siente cuando termina algo molesto o doloroso. Ejemplo: Sentí un gran alivio cuando terminó el examen.",
+    "notes": "relief (guessed word — source only had a dash before the gloss, original Spanish term was lost)",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source text was just '- -> relief' with no actual Spanish word; 'alivio' is a best-guess reconstruction, please verify against the original row.",
+    "rows": [
+      214
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "- -> relief"
+  },
+  {
+    "id": "row236",
+    "front": "(sin contenido)",
+    "back": "Esta fila del origen solo contenía un separador ('---') sin ninguna palabra o frase real.",
+    "notes": "no real content in source row — likely a stray divider that slipped past filtering",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source text is just '---' with no vocabulary content; consider dropping this card.",
+    "rows": [
+      236
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "---"
+  },
+  {
+    "id": "row414",
+    "front": "tomar una decisión / no hacer nada",
+    "back": "Contraste entre actuar decidiendo algo y quedarse sin actuar. Ejemplo: A veces es mejor tomar una decisión que no hacer nada.",
+    "notes": "to make a decision / to not act — fragment contrasting action vs. inaction",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source fragment 'tomar decision / no hacer' was incomplete/ungrammatical; reconstructed with articles added, please verify intended meaning.",
+    "rows": [
+      414
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "tomar decision / no hacer"
+  },
+  {
+    "id": "row462",
+    "front": "sustantivos incontables (como agua o aire)",
+    "back": "Sustantivos que se refieren a algo que no se puede contar en unidades individuales; en ciertos usos no necesitan artículo. Ejemplo: Necesito agua para sobrevivir; no puedo vivir sin aire.",
+    "notes": "uncountable/mass nouns like water or air — the source's note claims they don't need an article, though in practice this depends on context (compare 'el agua es esencial' with article vs. 'quiero agua' without)",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source fragment is a general grammar note, not a clean vocab item; the 'no article needed' claim is context-dependent and should be double-checked against 'el agua' (row241), which does use an article.",
+    "rows": [
+      462
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "Cosas difícil para contar como agua o aire, no necesito artículo"
+  },
+  {
+    "id": "row477",
+    "front": "escribir un resumen",
+    "back": "Hacer un texto breve que recoge las ideas principales de algo más extenso. Ejemplo: Tengo que escribir un resumen de la primera parte de 'La autopista del sur', de Julio Cortázar.",
+    "notes": "to write a summary — this source row is actually a homework assignment note ('Homework: write a summary of the first section of Cortázar's La autopista del sur'), not a vocab entry",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "This row is a homework/task note, not real vocabulary content — consider excluding it from the deck rather than drilling it as a card.",
+    "rows": [
+      477
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "- [x] Homework: Escribe un resumen del texto La Autopista del Sur de Julio Cortázar first section"
+  },
+  {
+    "id": "row492",
+    "front": "desbordes exasperados",
+    "back": "Reacciones o estallidos de frustración intensa que se salen de control ('hacían desbordes exasperados'), del lenguaje literario del cuento 'La autopista del sur' de Cortázar. Ejemplo: Ante la espera interminable, algunos hacían desbordes exasperados.",
+    "notes": "exasperated outbursts/overflows — literary phrase, likely from the Cortázar reading assignment (see row477)",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Obscure literary phrase pulled from a reading assignment; uncommon in everyday speech, verify against the original text before drilling it as core vocab.",
+    "rows": [
+      492
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "hacian desbordes exasperados"
+  },
+  {
+    "id": "row493",
+    "front": "no tenían (corrección de verbo)",
+    "back": "Nota de corrección: el verbo correcto en ese contexto es una forma de 'hacían', no de 'tenían'. Ejemplo de contraste: hacían desbordes exasperados (correcto), no tenían desbordes exasperados (incorrecto).",
+    "notes": "'not tenían' — a correction note (likely tied to row492) pointing out that 'hacían' is the right verb, not 'tenían'",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Very sparse fragment ('-> not tenían') with no clear standalone content; reconstructed as a correction note linked to row492, please verify against the original source row.",
+    "rows": [
+      493
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "-> not tenían"
+  },
+  {
+    "id": "row501",
+    "front": "el tiempo (como sujeto narrativo)",
+    "back": "En narrativa, 'el tiempo' puede funcionar como sujeto gramatical o incluso como una especie de narrador simbólico de la historia. Ejemplo: 'El tiempo mira por el retrovisor y ve pasar los años.'",
+    "notes": "English: 'time' used as the grammatical subject/narrator of a text — clarifies the source's confusion about who the narrator is",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source is a personal reading-comprehension note about a text, not a clean vocab item — reconstructed best guess",
+    "rows": [
+      501
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "In this section of the text, el tiempo is the subject here, that's why I was confused, like I was like who is the subject/narrator/central person, bc who is that person or point of reference who is telling us that on the left is that girl and on the right is the other?"
+  },
+  {
+    "id": "row505",
+    "front": "el tiempo (sujeto/narrador simbólico)",
+    "back": "En estilo de realismo mágico, 'el tiempo' puede describirse con verbos en infinitivo como si actuara, funcionando casi como un narrador poético que observa. Ejemplo: 'el tiempo, mirar por el retrovisor y ver alejarse los días.'",
+    "notes": "Literary device: infinitive verbs describing 'el tiempo' as narrator in magical-realism style texts",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Personal reading note about literary style, not a standalone vocab item — best-effort reconstruction",
+    "rows": [
+      505
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "So she told me to read story again with \"el tiempo\" as subject/narrator. And yes, it's weird that the \"time\" is like apparently looking at the rearview mirror, and all these other actions (infitinitivo verbs), but well, it's a realism fantasy style/epoca, so things don't make literal sense.."
+  },
+  {
+    "id": "row540",
+    "front": "franja",
+    "back": "Banda o tira alargada de algo, o una zona delimitada. Ejemplo: 'La Franja de Gaza' o 'una franja horaria de dos horas.'",
+    "notes": "= strip/band/zone (e.g. time slot, strip of land)",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source itself marks uncertainty with '(?)' — double-check exact nuance intended",
+    "rows": [
+      540
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "franja = linea divisoria, tira (?)"
+  },
+  {
+    "id": "row546",
+    "front": "de trecho en trecho",
+    "back": "A intervalos, cada cierta distancia o tiempo. Ejemplo: 'Había árboles de trecho en trecho a lo largo del camino.'",
+    "notes": "= here and there / at intervals (source's 'moment to moment' is a loose guess — it's really about spaced-out intervals of distance/time)",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source phrase 'trecho y trecho' is likely a garbled version of 'de trecho en trecho'; user's own gloss was marked uncertain",
+    "rows": [
+      546
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "trecho y trecho = moment to moment (?)"
+  },
+  {
+    "id": "row550",
+    "front": "quebrar lo peor de",
+    "back": "Romper o superar la parte más difícil de una situación. Ejemplo: 'Salimos temprano para quebrar lo peor del embotellamiento.'",
+    "notes": "= to get through the worst of (e.g. traffic) — pulled from a reading-comprehension homework checklist",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source was a checklist/homework task, not a vocab note — extracted the embedded phrase as best guess",
+    "rows": [
+      550
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "- [x] Make summary of second paragraph until \"...quebrar lo peor del embotellamiento.\""
+  },
+  {
+    "id": "row561",
+    "front": "MOST cases (encabezado)",
+    "back": "Fragmento que introduce una regla gramatical general sobre modo subjuntivo/indicativo (ver entradas cercanas: 'creo que' + subjuntivo/indicativo).",
+    "notes": "Just a header fragment ('most cases:') from a grammar note, not vocabulary on its own",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Bare section header from the source spreadsheet with no vocabulary content of its own — included per instructions",
+    "rows": [
+      561
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "MOST cases:"
+  },
+  {
+    "id": "row562",
+    "front": "creo que / pienso que + subjuntivo",
+    "back": "Nota: aunque 'creo que' y 'pienso que' en afirmativo normalmente llevan indicativo (expresan certeza), en ciertos contextos de duda se usan con subjuntivo. Ejemplo: 'No creo que sea así' (forma negativa + subjuntivo).",
+    "notes": "Source states 'creo que/pienso que + subjuntivo' — this is atypical for the plain affirmative (which usually takes indicative); likely meant for the negative form 'no creo que'",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source rule as stated conflicts with standard grammar for affirmative 'creo que' — verify whether it was meant for the negative form",
+    "rows": [
+      562
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "Pienso que/creo que + subjuntivo"
+  },
+  {
+    "id": "row628",
+    "front": "mis peligros (encabezado)",
+    "back": "Riesgos o rasgos de riesgo asociados a la personalidad o al signo astrológico de alguien. Ejemplo: 'Uno de mis peligros es ser demasiado terco.'",
+    "notes": "= 'my dangers/pitfalls' — header introducing a list of personal traits/risks in the source's astrology notes",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Bare header line with no specific content of its own",
+    "rows": [
+      628
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "mis peligros:"
+  },
+  {
+    "id": "row643",
+    "front": "(sin contenido)",
+    "back": "Fragmento vacío del origen; no contiene contenido de vocabulario identificable.",
+    "notes": "No usable content — source row was just an ellipsis placeholder",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source content is just '...' with no actual text — likely not real card-worthy content; consider dropping from the deck",
+    "rows": [
+      643
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "- ..."
+  },
+  {
+    "id": "row692",
+    "front": "tener la foto sin viajar",
+    "back": "Expresión coloquial que se refiere a poder mostrar una foto en un lugar famoso sin necesidad de viajar físicamente allí (por ejemplo, con edición digital o IA). Ejemplo: 'Con la inteligencia artificial, ya van a tener la foto sin viajar.'",
+    "notes": "= to get the photo without traveling (likely referring to AI-generated/edited travel photos) — meaning inferred from context",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Fragment pulled from a longer conversation with no surrounding context — meaning inferred, may not be accurate",
+    "rows": [
+      692
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "- ya van a tener la foto sin viajar"
+  },
+  {
+    "id": "row787",
+    "front": "estaba en mi mejor momento, no le alcanzo",
+    "back": "expresa que, aunque la persona estaba en su mejor etapa o rendimiento, no logra igualar o ser suficiente para otra persona/situación. Ej: \"Estaba en mi mejor momento, pero no le alcanzo — siempre quiere más.\"",
+    "notes": "\"I was at my best, [but] I'm not enough for them / I can't measure up to them\"; ambiguous fragment, meaning inferred",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "source phrase is ambiguous/fragmentary; interpreted 'no le alcanzo' as 'I don't measure up to him/her' — verify intended meaning",
+    "rows": [
+      787
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "estaba en mi mejor momento, no le alcanzo"
+  },
+  {
+    "id": "row794",
+    "front": "12 de enero",
+    "back": "forma de leer una fecha en español: día + \"de\" + mes. Ej: \"Mi cita es el 12 de enero.\"",
+    "notes": "January 12 — source row is a bare date stamp (12.01.2026), not real vocabulary; drafted a generic date-reading card",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "source is a date stamp/noise, not a vocab entry — likely should be excluded from the deck",
+    "rows": [
+      794
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "12.01.2026:"
+  },
+  {
+    "id": "row798",
+    "front": "imperfecto",
+    "back": "tiempo verbal que se usa para describir acciones habituales, en curso o descripciones en el pasado. Ej: \"Cuando era niño, jugaba en el parque todos los días.\"",
+    "notes": "\"use the imperfect [tense]\" — source is a grammar reminder/note, not a standalone vocab item",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "source is a bare grammar instruction with no context ('-> use imperfecto'); not a real vocab entry, best-effort card drafted",
+    "rows": [
+      798
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "-> use imperfecto"
+  },
+  {
+    "id": "row831",
+    "front": "28 de enero",
+    "back": "forma de leer una fecha en español: día + \"de\" + mes. Ej: \"La reunión es el 28 de enero.\"",
+    "notes": "January 28 — source row is a bare date stamp (28.01.2026), not real vocabulary",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "source is a date stamp/noise, not a vocab entry — likely should be excluded from the deck",
+    "rows": [
+      831
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "28.01.2026:"
+  },
+  {
+    "id": "row848",
+    "front": "fui con mis amigos a jugar",
+    "back": "expresa que la persona fue acompañada por sus amigos a realizar una actividad (jugar). Ej: \"Ayer fui con mis amigos a jugar fútbol en el parque.\"",
+    "notes": "I went with my friends to play (source note 'not fui a' seems to flag a correction, but the exact contrast is unclear)",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "source correction 'not fui a' is unclear/incomplete — exact contrasted phrase could not be reconstructed with confidence",
+    "rows": [
+      848
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "fui con mis amigos a jugar /not fui a"
+  },
+  {
+    "id": "row852",
+    "front": "julio",
+    "back": "séptimo mes del año, entre junio y agosto. Ej: \"Mi cumpleaños es en julio.\"",
+    "notes": "July — source row was a personal note (\"julio - marci bday\"), not a real vocab entry",
+    "reversible": true,
+    "confidence": "low",
+    "flag_reason": "source is a personal birthday note, not vocabulary content — likely should be excluded from the deck",
+    "rows": [
+      852
+    ],
+    "category": "vocab_spanish_only",
+    "source_text": "julio - marci bday"
+  }
+]

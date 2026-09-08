@@ -22,9 +22,24 @@ from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 
 ROOT = Path(__file__).parent.parent
-DRAFTS = json.load(open(ROOT / "data" / "merged_drafts.json", encoding="utf-8"))
+DRAFTS = json.load(open(ROOT / "data" / "approved_drafts.json", encoding="utf-8"))
+DROPPED_LOW_CONF = json.load(open(ROOT / "data" / "dropped_low_confidence.json", encoding="utf-8"))
 CLASSIFIED = json.load(open(ROOT / "data" / "classified_rows.json", encoding="utf-8"))
 OUT = ROOT / "data" / "review_spanish_flashcards.xlsx"
+
+FORMULA_TRIGGER_CHARS = ("=", "+", "-", "@")
+
+
+def set_text(ws, row, col, value):
+    """Write a plain-text cell, guarding against openpyxl's auto-formula
+    detection: a string starting with =/+/-/@ gets written into the <f>
+    (formula) tag instead of as literal text, which Excel then evaluates
+    and shows as #ERROR!/#NAME? in formula font. Forcing data_type='s'
+    after assignment keeps it as literal text."""
+    cell = ws.cell(row=row, column=col, value=value)
+    if isinstance(value, str) and value.startswith(FORMULA_TRIGGER_CHARS):
+        cell.data_type = "s"
+    return cell
 
 FONT_NAME = "Arial"
 HEADER_FONT = Font(name=FONT_NAME, bold=True, color="FFFFFF")
@@ -80,18 +95,20 @@ def main():
         ("Rows accounted for", counts["physical_rows_accounted_for"]),
         ("Reconciles to source row count", "YES" if counts["reconciles"] else "NO -- CHECK classify_rows.py"),
         ("", ""),
-        ("Draft flashcards produced", len(DRAFTS)),
+        ("Drafted flashcards (before your review)", len(DRAFTS) + len(DROPPED_LOW_CONF)),
+        ("  - dropped by you (confidence: low)", len(DROPPED_LOW_CONF)),
+        ("Approved flashcards (final deck)", len(DRAFTS)),
         ("  - marked reversible (also quizzed meaning->word)", len(reversible)),
         ("  - recognition-only (word->meaning only)", len(DRAFTS) - len(reversible)),
         ("  - confidence: high", conf_counts.get("high", 0)),
         ("  - confidence: medium", conf_counts.get("medium", 0)),
-        ("  - confidence: low", conf_counts.get("low", 0)),
         ("  - flagged for your review (see Review sheet)", len(flagged)),
         ("", ""),
-        ("Rows excluded (noise/duplicate/blank)", sum(excl_cats.values())),
+        ("Rows excluded (noise/duplicate/blank/low-confidence)", sum(excl_cats.values()) + len(DROPPED_LOW_CONF)),
     ]
     for cat, n in sorted(excl_cats.items(), key=lambda x: -x[1]):
         lines.append((f"  - {cat}", n))
+    lines.append(("  - dropped_low_confidence", len(DROPPED_LOW_CONF)))
 
     ws.cell(row=1, column=1, value="Spanish Vocab -> Anki: build summary").font = Font(name=FONT_NAME, bold=True, size=14)
     r = 3
@@ -124,7 +141,7 @@ def main():
             d["source_text"],
         ]
         for col, v in enumerate(vals, start=1):
-            c = ws.cell(row=i, column=col, value=v)
+            c = set_text(ws, i, col, v)
             c.font = BODY_FONT
             c.alignment = WRAP if col in (4, 5, 8, 9) else TOP
         fill = CONF_FILL.get(d.get("confidence", "high"))
@@ -139,19 +156,33 @@ def main():
     style_header(ws, headers)
     set_widths(ws, [14, 20, 46, 50])
     excl_sorted = sorted(CLASSIFIED["excluded_rows"], key=lambda e: min(e["rows"]))
-    for i, e in enumerate(excl_sorted, start=2):
-        raw0 = e["raw"][0]
-        raw_preview = raw0.get("front_raw") or raw0.get("back_raw") or raw0.get("overflow_raw") or ""
+    dropped_rows_for_sheet = [
+        {
+            "rows": d["rows"],
+            "category": "dropped_low_confidence",
+            "reason": "Dropped by user request after review (was flagged confidence: low)",
+        }
+        for d in DROPPED_LOW_CONF
+    ]
+    all_excluded = excl_sorted + dropped_rows_for_sheet
+    all_excluded.sort(key=lambda e: min(e["rows"]))
+
+    for i, e in enumerate(all_excluded, start=2):
+        if "raw" in e:
+            raw0 = e["raw"][0]
+            raw_preview = raw0.get("front_raw") or raw0.get("back_raw") or raw0.get("overflow_raw") or ""
+        else:
+            raw_preview = "(see Review sheet history / merged_drafts.json for the drafted card that was dropped)"
         vals = [rows_str(e["rows"]), e["category"], e["reason"], raw_preview]
         for col, v in enumerate(vals, start=1):
-            c = ws.cell(row=i, column=col, value=v)
+            c = set_text(ws, i, col, v)
             c.font = BODY_FONT
             c.alignment = WRAP if col == 4 else TOP
-    ws.auto_filter.ref = f"A1:{get_column_letter(len(headers))}{len(excl_sorted) + 1}"
+    ws.auto_filter.ref = f"A1:{get_column_letter(len(headers))}{len(all_excluded) + 1}"
 
     wb.save(OUT)
     print(f"Wrote {OUT}")
-    print(f"Review rows: {len(drafts_sorted)}, Excluded rows: {sum(len(e['rows']) for e in excl_sorted)}")
+    print(f"Review rows: {len(drafts_sorted)}, Excluded rows: {sum(len(e['rows']) for e in all_excluded)}")
 
 
 if __name__ == "__main__":
