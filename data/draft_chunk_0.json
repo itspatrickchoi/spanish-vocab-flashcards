@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "descanchado",
+    "front": "descanchado/a",
+    "back": "Que está falto de práctica o destreza en algo, \"oxidado\" en una habilidad (viene de \"cancha\" = campo/court deportivo). Ejemplo: \"Estoy bien descanchado para el fútbol, ya no juego tanto.\"",
+    "notes": "rusty / out of practice (NOT about being physically off a sports court); colloquial",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "colloquial slang term reconstructed from a multi-part explanation - confirm regional usage and exact spelling"
+  },
+  {
+    "id": "puede_verse_drill",
+    "front": "se puede ver / puede verse",
+    "back": "Construcción impersonal para decir que algo es visible u observable, sin especificar quién realiza la acción. Ejemplo: \"En la historia de Octavio, se puede ver a este hombre mayor.\" (equivalente a \"puede verse a este hombre mayor\").",
+    "notes": "impersonal 'you can see / it can be seen' - needs 'se' (se puede ver) or the -se suffix (puede verse), not just 'puede ver'",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "reconstructed from several garbled rewrite attempts of the same practice sentence; verify best phrasing"
+  },
+  {
+    "id": "row955_0",
+    "front": "ascenso",
+    "back": "Sustantivo que significa el hecho de subir a un puesto de mayor categoría en el trabajo. Ejemplo: \"Por fin me dieron el ascenso que tanto quería.\"",
+    "notes": "promotion (noun); part of a career/promotion vocab cluster",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row955_1",
+    "front": "ascender (a alguien)",
+    "back": "Subir a alguien a un puesto de mayor categoría en el trabajo. Ejemplo: \"Mi jefe me ascendió a gerente.\"",
+    "notes": "to promote (someone); source example: 'mi jefe ME ascendió' = my boss promoted me",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row955_2",
+    "front": "ascender (uso intransitivo)",
+    "back": "Usado sin objeto directo, significa subir uno mismo de puesto en el trabajo. Ejemplo: \"Yo puedo ascender si sigo esforzándome.\"",
+    "notes": "intransitive use: 'I can move up/get promoted' (contrast with transitive 'ascender a alguien' = to promote someone, from the same cell)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "short fragment - likely meant as a contrast drill against the transitive 'ascender' entry from the same cell"
+  },
+  {
+    "id": "row955_3",
+    "front": "promoverme",
+    "back": "De \"promover\", sinónimo de \"ascender\" en contexto laboral: dar a alguien un puesto superior. Ejemplo: \"Quiero que me promuevan al puesto de gerente.\"",
+    "notes": "to promote me (career context); synonym of 'ascender' in this cluster",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "fragment gives only the pronoun form 'promoverme' - meaning inferred from career-cluster context"
+  },
+  {
+    "id": "row955_4",
+    "front": "darme un aumento",
+    "back": "Expresión que significa que alguien te aumente el sueldo. Ejemplo: \"Espero que me den un aumento este año.\"",
+    "notes": "to give me a raise (salary increase); career/promotion vocab cluster",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row955_5",
+    "front": "cambiar de puesto / subir de puesto",
+    "back": "Expresiones para referirse a cambiar de posición laboral o ascender a un puesto más alto. Ejemplo: \"Quiero subir de puesto antes de fin de año.\"",
+    "notes": "to change positions / move up a position (job)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row955_6",
+    "front": "internet",
+    "back": "Red mundial de comunicación digital. Ejemplo: \"Busqué la información en internet.\"",
+    "notes": "internet (basic vocabulary word)",
+    "reversible": true,
+    "confidence": "low",
+    "flag_reason": "bare word 'internet' with no surrounding context; appears out of place in a career/promotion-themed cell - verify intended meaning or whether it belongs here"
+  },
+  {
+    "id": "row2",
+    "front": "cuerpo cortado",
+    "back": "Expresión coloquial (usada en México) para decir que uno se siente mal o adolorido en general, como si fuera a enfermarse. Ejemplo: \"Traigo el cuerpo cortado, creo que me voy a resfriar.\"",
+    "notes": "feeling achy/run-down, like you're about to get sick; colloquial, Mexican Spanish",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "regional idiom - confirm exact register/geography"
+  },
+  {
+    "id": "row3",
+    "front": "hospedarse",
+    "back": "Alojarse temporalmente en un lugar, como un hotel u hostal. Ejemplo: \"Nos hospedamos en un hostal cerca del centro.\"",
+    "notes": "to stay (in accommodation - not used for staying with friends)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row4",
+    "front": "hostales",
+    "back": "Alojamientos económicos, generalmente con habitaciones compartidas, populares entre viajeros jóvenes. Ejemplo: \"Nos quedamos en hostales durante todo el viaje por Sudamérica.\"",
+    "notes": "hostels",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row5",
+    "front": "no me arrepiento",
+    "back": "Expresión para decir que uno no siente pesar por una decisión tomada. Ejemplo: \"No me arrepiento de haber estudiado español.\"",
+    "notes": "I don't regret it",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row6",
+    "front": "meterse a internet",
+    "back": "Conectarse a internet o navegar en la red. Ejemplo: \"De joven me metía a internet todas las tardes.\"",
+    "notes": "to go online/get on the internet (source used imperfect: 'me metía' = I used to go online)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row7",
+    "front": "pelusas",
+    "back": "Pequeñas fibras o hilachas que se desprenden de la ropa, como las que suelta una toalla. Ejemplo: \"La toalla dejó pelusas en mi suéter negro.\"",
+    "notes": "fluff/lint (e.g. from towels or fabric)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row8",
+    "front": "pretexto",
+    "back": "Motivo o excusa, a veces falsa, que se da para justificar algo. Ejemplo: \"Usó el tráfico como pretexto para llegar tarde.\"",
+    "notes": "excuse/pretext",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row9",
+    "front": "sudar / sudado",
+    "back": "\"Sudar\": expulsar sudor por la piel, generalmente por calor o ejercicio. \"Sudado\": que está cubierto de sudor. Ejemplo: \"Después de correr, llegué todo sudado.\"",
+    "notes": "to sweat / sweaty",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row10",
+    "front": "hace mucho calor",
+    "back": "Expresión para describir una temperatura alta. Ejemplo: \"Hoy hace mucho calor, casi 40 grados.\"",
+    "notes": "it's very hot - use 'mucho' with 'calor', NOT 'muy' (\"hace muy calor\" is incorrect)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row11",
+    "front": "Depende de la hora cuando me despierto si desayuno o si no.",
+    "back": "Oración que expresa que una acción depende de una condición. Ejemplo de uso: \"Depende de la hora cuando me despierto si desayuno o si no.\"",
+    "notes": "depends what time I wake up whether I have breakfast or not - repeat 'si' both times, don't say \"...si desayuno o no\"",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row12",
+    "front": "poner atención / prestar atención / concentrarme / enfoque",
+    "back": "Formas de expresar la idea de \"enfocarse\" en español: \"poner/prestar atención\" (verbo, fijar la atención en algo), \"concentrarme\" (enfocar la mente), \"enfoque\" (sustantivo). Ejemplo: \"Necesito concentrarme para terminar este proyecto.\"",
+    "notes": "to focus / focus (noun) - there's no direct verb like English 'to focus'; use these alternatives depending on context",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row13",
+    "front": "hacerse experto en algo / dominar algo",
+    "back": "Llegar a tener mucha habilidad o conocimiento en algo. Ejemplo: \"Me he hecho experto en cocinar tacos.\" / \"He dominado el arte de la paciencia.\"",
+    "notes": "to become a master at / to have gotten good at something (source had a typo, 'me hecho' -> corrected to 'me he hecho')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row14",
+    "front": "en movimiento / estático",
+    "back": "\"En movimiento\" describe algo que se está moviendo; \"estático\" describe algo quieto, sin movimiento. Ejemplo: \"La imagen está estática, no en movimiento.\"",
+    "notes": "moving / static (contrast pair)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row15",
+    "front": "el miedo",
+    "back": "Sensación de angustia provocada por un peligro real o imaginario. Ejemplo: \"Le tiene miedo a las alturas.\"",
+    "notes": "fear",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row16",
+    "front": "regresarle la emoción (a alguien)",
+    "back": "Expresión que significa volver a sentir entusiasmo o ilusión por algo. Ejemplo: \"Cuando vi la noticia, me regresó la emoción por el viaje.\"",
+    "notes": "to get excited again / the excitement comes back",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "generalized from the source's specific example 'te regresa la emoción' - verify preferred phrasing"
+  },
+  {
+    "id": "row17",
+    "front": "platillo",
+    "back": "Comida preparada de cierta manera y servida como parte de una comida; en muchos países de Latinoamérica se prefiere sobre \"plato\" (que suele referirse al objeto físico o implica una porción muy grande). Ejemplo: \"Mi platillo favorito es el mole poblano.\"",
+    "notes": "a dish (of food) - 'platillo' preferred over 'plato' in this sense; somewhat regional (e.g. Mexico)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "regional usage note - confirm how universal this preference is outside Mexico"
+  },
+  {
+    "id": "row18",
+    "front": "caerle pesado (algo a alguien)",
+    "back": "Expresión para decir que una comida no sentó bien, causando incomodidad estomacal sin llegar a ser una enfermedad grave. Ejemplo: \"La cena de anoche me cayó pesada.\"",
+    "notes": "food not sitting well / feeling heavy-uncomfortable after eating (not actually sick)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row19",
+    "front": "cubeta",
+    "back": "Recipiente, generalmente de plástico o metal, con asa, usado para llevar líquidos u otras cosas. Ejemplo: \"Llené la cubeta con agua para trapear.\"",
+    "notes": "bucket (Mexican Spanish; 'cubo' in Spain)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row20",
+    "front": "pegajoso/a",
+    "back": "Que se pega o se adhiere fácilmente al tacto. Ejemplo: \"Mis manos quedaron pegajosas después de comer el mango.\"",
+    "notes": "sticky",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row21",
+    "front": "antojarse (se me antoja / se te antoja...)",
+    "back": "Verbo pronominal para expresar un deseo repentino de algo, generalmente comida; se construye como \"gustar\", con pronombre de objeto indirecto: \"se me antoja / se te antoja + [sustantivo]\". Ejemplo: \"Se me antoja una pizza esta noche.\"",
+    "notes": "to crave - impersonal construction like 'gustar': se + [pronoun] + antoja + [thing craved]",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row23",
+    "front": "taquería / puesto de comida",
+    "back": "Lugar, a menudo informal o callejero, donde se venden tacos u otra comida rápida. Ejemplo: \"Fuimos a la taquería de la esquina a cenar.\"",
+    "notes": "taco stand / food stall (source gloss used German 'Imbiss' = snack stand)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row25",
+    "front": "ha estado haciendo",
+    "back": "Presente perfecto continuo, usado para describir una acción que comenzó en el pasado y continúa hasta ahora. Ejemplo: \"Ha estado haciendo ejercicio toda la semana.\"",
+    "notes": "he/she has been doing (present perfect continuous)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row27",
+    "front": "apegado (a algo)",
+    "back": "Que siente un vínculo fuerte o dependencia hacia algo o alguien, a veces con connotación negativa (como el apego excesivo al dinero). Ejemplo: \"Está muy apegado al dinero, le cuesta gastar.\"",
+    "notes": "attached (to something), often with a negative connotation, e.g. attachment to money",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "source itself was unsure of the alternate expression 'tener pego' - that part is unverified and was dropped from this card"
+  },
+  {
+    "id": "row30",
+    "front": "10.07",
+    "back": "No es una palabra o frase de vocabulario reconocible; parece ser una fecha o marca de tiempo (10 de julio) más que una entrada léxica.",
+    "notes": "not real vocabulary - appears to be a stray date/timestamp fragment ('10.07')",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "fragment '10.07' has no vocabulary content - looks like a misclassified date/timestamp; recommend excluding from the deck"
+  },
+  {
+    "id": "row31",
+    "front": "traje completo",
+    "back": "Conjunto de saco y pantalón (y a veces chaleco) del mismo material, usado en ocasiones formales. Ejemplo: \"Para la boda tuve que rentar un traje completo.\"",
+    "notes": "a full suit (jacket + pants)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row32",
+    "front": "saco",
+    "back": "Prenda de vestir formal que se usa sobre la camisa, parte de un traje. Ejemplo: \"Se puso el saco antes de entrar a la reunión.\"",
+    "notes": "suit jacket/blazer",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row33",
+    "front": "corbata",
+    "back": "Prenda de tela que se anuda alrededor del cuello, usada con camisa formal. Ejemplo: \"Llevaba una corbata azul con el traje.\"",
+    "notes": "necktie",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row35",
+    "front": "un amigo se va a quedar en Roma un día",
+    "back": "Oración de ejemplo con el verbo \"quedarse\" (permanecer en un lugar). Ejemplo: \"Un amigo se va a quedar en Roma un día antes de continuar su viaje.\"",
+    "notes": "a friend is going to stay in Rome for a day - practicing 'quedarse' = to stay/remain (in a place)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row37",
+    "front": "berenjenas",
+    "back": "Verdura de piel morada brillante, usada en muchos platillos. Ejemplo: \"Preparé berenjenas al horno con queso.\"",
+    "notes": "eggplants",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row39",
+    "front": "vídeo",
+    "back": "Grabación de imágenes en movimiento. Ejemplo: \"Grabé un video de la fiesta.\"",
+    "notes": "video - stress falls on the 'í' (VÍ-de-o), not on 'de' as in some other varieties",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row41",
+    "front": "la gente le compra a la gente",
+    "back": "Expresión usada en ventas/negocios para decir que las personas prefieren comprarle a otras personas (por confianza y relación), no solo a marcas o empresas. Ejemplo: \"En los negocios, la gente le compra a la gente, no solo a las empresas.\"",
+    "notes": "people buy from people (business/sales expression about trust and relationships)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "business-idiom intent inferred from a bare sentence with no source gloss"
+  },
+  {
+    "id": "row43",
+    "front": "confianza",
+    "back": "Seguridad o fe que se tiene en alguien o algo. Ejemplo: \"Le tengo mucha confianza a mi mejor amiga.\"",
+    "notes": "trust/confidence",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row45",
+    "front": "no es como que voy a ser reemplazado",
+    "back": "Expresión coloquial para restar importancia a una posibilidad. Ejemplo: \"No es como que voy a ser reemplazado tan fácilmente.\"",
+    "notes": "it's not like I'm going to be replaced (colloquial hedge: 'no es como que...')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row47",
+    "front": "almacén",
+    "back": "Lugar donde se guardan mercancías o productos, generalmente grande. Ejemplo: \"Los productos se guardan en el almacén antes de enviarse.\"",
+    "notes": "warehouse (in some regions can also mean 'department store')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row49",
+    "front": "en pantalla",
+    "back": "Que aparece visible en un dispositivo con pantalla. Ejemplo: \"El error apareció en pantalla justo cuando iba a guardar.\"",
+    "notes": "on screen",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row51",
+    "front": "contrapeso",
+    "back": "Peso que se usa para equilibrar o compensar otro; también en sentido figurado, algo que compensa o equilibra una situación. Ejemplo: \"El ejercicio es un buen contrapeso al estrés del trabajo.\"",
+    "notes": "counterweight/counterbalance (literal and figurative)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row53",
+    "front": "blanco y negro",
+    "back": "Combinación sin color, usada para describir fotos o películas sin color. Ejemplo: \"Me encantan las fotos en blanco y negro.\"",
+    "notes": "black and white - say 'blanco y negro' (white first), NOT 'negro y blanco'",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row55",
+    "front": "matices",
+    "back": "Diferencias sutiles de significado, tono o color. Ejemplo: \"Hay muchos matices en el uso de este verbo.\"",
+    "notes": "nuances / subtle shades (of meaning or color)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row59",
+    "front": "madrugada",
+    "back": "Las primeras horas del día, entre la medianoche y el amanecer. Ejemplo: \"Llegamos a casa a las tres de la madrugada.\"",
+    "notes": "the early morning hours (after midnight, before dawn)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row60",
+    "front": "medianoche",
+    "back": "Las doce de la noche, el punto medio entre un día y otro. Ejemplo: \"La fiesta empezó a la medianoche.\"",
+    "notes": "midnight",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row62",
+    "front": "desde las 6 hasta las 10 y media",
+    "back": "Estructura para expresar un rango de horas, usando el artículo \"las\" antes del número de la hora. Ejemplo: \"Trabajé desde las 6 hasta las 10 y media de la noche.\"",
+    "notes": "from 6 to 10:30 - remember the article 'las' before the hour in time ranges",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row64",
+    "front": "canapés",
+    "back": "Pequeños bocadillos servidos como aperitivo, generalmente sobre pan o galleta. Ejemplo: \"Sirvieron canapés de salmón en la recepción.\"",
+    "notes": "canapés (hors d'oeuvres/appetizers)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row66",
+    "front": "orador",
+    "back": "Persona que habla en público, generalmente de forma formal, como en una conferencia o evento. Ejemplo: \"El orador principal habló sobre el cambio climático.\"",
+    "notes": "speaker (public speaker/orator)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row68",
+    "front": "intérprete",
+    "back": "Persona que traduce oralmente de un idioma a otro en tiempo real. Ejemplo: \"El intérprete tradujo el discurso al español.\"",
+    "notes": "interpreter (spoken translation, as opposed to 'traductor' for written translation)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row70",
+    "front": "eran dos chicas",
+    "back": "Uso del imperfecto de \"ser\" para describir una situación o escena en el pasado. Ejemplo: \"Eran dos chicas las que esperaban en la fila.\"",
+    "notes": "there were two girls (imperfect 'ser' for describing a past scene/background)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "grammar-point intent inferred from a bare example sentence with no source gloss"
+  },
+  {
+    "id": "row72",
+    "front": "apoyar vs. soportar",
+    "back": "\"Apoyar\" significa dar respaldo o ánimo a alguien. \"Soportar\" significa aguantar o tolerar algo, a menudo desagradable. Ejemplo: \"Te apoyo en tu decisión\" vs. \"No soporto el ruido.\"",
+    "notes": "apoyar = to support/back (someone) != soportar = to endure/tolerate (NOT 'to support' despite looking like the English word)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row74",
+    "front": "ubicar",
+    "back": "En varios países (como México), significa reconocer o identificar algo o a alguien, además de su sentido literal de \"localizar\". Ejemplo: \"Sí lo ubico, es el actor de esa serie.\"",
+    "notes": "to recognize/place (someone or something) - colloquial extended meaning beyond literal 'to locate'",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row75",
+    "front": "lo ubico",
+    "back": "Frase coloquial que significa \"lo reconozco\" o \"sé quién/qué es\". Ejemplo: \"Sí, lo ubico, es el personaje de esa caricatura.\"",
+    "notes": "I recognize it/him (colloquial, from 'ubicar')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row77",
+    "front": "ingeniería",
+    "back": "Disciplina que aplica principios científicos y matemáticos para diseñar y construir estructuras, máquinas o sistemas. Ejemplo: \"Estudió ingeniería civil en la universidad.\"",
+    "notes": "engineering",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row79",
+    "front": "modificar",
+    "back": "Cambiar o alterar algo, como un documento o archivo. Ejemplo: \"Necesito modificar el contrato antes de enviarlo.\"",
+    "notes": "to edit/modify (note: 'editar' is also common and more directly matches 'edit' for text/media)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "source glossed 'edit' as 'modificar', but 'editar' is a common alternative - verify intended nuance"
+  },
+  {
+    "id": "row81",
+    "front": "ADN",
+    "back": "Ácido desoxirribonucleico, molécula que contiene la información genética de los seres vivos. Ejemplo: \"Hicieron una prueba de ADN para confirmar la paternidad.\"",
+    "notes": "DNA",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row83",
+    "front": "doblar",
+    "back": "Plegar algo sobre sí mismo, como ropa o papel; también puede significar girar (doblar a la derecha) o duplicar una cantidad. Ejemplo: \"Doblé la ropa limpia y la guardé en el clóset.\"",
+    "notes": "to fold (also: to turn, or to dub a film, depending on context)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row85",
+    "front": "duplicar",
+    "back": "Hacer que algo se vuelva el doble, o hacer una copia idéntica de algo. Ejemplo: \"La empresa logró duplicar sus ventas este año.\"",
+    "notes": "to duplicate / to double",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row86",
+    "front": "se duplica la expectativa de vida",
+    "back": "Oración de ejemplo con \"duplicar\" en forma pronominal. Ejemplo: \"Con estos avances médicos, se duplica la expectativa de vida.\"",
+    "notes": "life expectancy doubles - example use of 'duplicarse' (pronominal)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row88",
+    "front": "propósito / razón",
+    "back": "\"Propósito\": el objetivo o fin de algo. \"Razón\": el motivo por el cual algo se hace. Ejemplo: \"Mi propósito este año es aprender español.\"",
+    "notes": "purpose - 'propósito' (goal/intention) or 'razón' (reason)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row90",
+    "front": "me parece vs. aparecer",
+    "back": "\"Me parece\" significa \"creo que\" o \"en mi opinión\" (del verbo \"parecer\", opinar). \"Aparecer\" significa volverse visible o surgir. Ejemplo: \"Me parece buena idea\" vs. \"De repente apareció en la puerta.\"",
+    "notes": "me parece = it seems to me/I think (NOT related to 'aparecer' = to appear/show up, despite the similar spelling)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row92",
+    "front": "Marte",
+    "back": "El cuarto planeta del sistema solar, conocido como el planeta rojo. Ejemplo: \"Los científicos enviaron un róver a Marte.\"",
+    "notes": "Mars (planet)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row94",
+    "front": "rueda",
+    "back": "Objeto circular que gira sobre un eje, usado para el movimiento de vehículos. Ejemplo: \"Se le ponchó una rueda al carro.\"",
+    "notes": "wheel",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row96",
+    "front": "juntarme (con alguien)",
+    "back": "Verbo preferido para decir que uno se reúne con alguien socialmente; suena más natural que \"encontrarme\" en muchos contextos. Ejemplo: \"Voy a juntarme con mis amigos el sábado.\"",
+    "notes": "to meet up/hang out with someone - 'juntarme' preferred over 'encontrarme' here",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "source note is terse ('!= encontrarme -> better juntarme') - context/example reconstructed"
+  },
+  {
+    "id": "row98",
+    "front": "ir de compras",
+    "back": "Salir a comprar cosas, generalmente ropa u otros artículos, no solo comestibles. Ejemplo: \"Fuimos de compras al centro comercial.\"",
+    "notes": "to go shopping",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row100",
+    "front": "la gente va y viene",
+    "back": "Expresión para describir el flujo constante de personas entrando y saliendo de un lugar. Ejemplo: \"En la estación, la gente va y viene todo el día.\"",
+    "notes": "people come and go",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row102",
+    "front": "sobreponer",
+    "back": "Poner algo encima de otra cosa, o superponer(se); se usa para hablar de elementos que se solapan. Ejemplo: \"Sobrepuso una imagen sobre la otra en el diseño.\"",
+    "notes": "to overlay/superimpose (used when talking about overlaps)",
+    "reversible": true,
+    "confidence": "medium",
+    "flag_reason": "source only gives usage context ('if talking about overlaps'), no example - verify against 'superponer'"
+  },
+  {
+    "id": "row104",
+    "front": "mientras crecíamos",
+    "back": "Expresión temporal usada para narrar el trasfondo de una historia en el pasado, junto con el imperfecto. Ejemplo: \"Mientras crecíamos juntos, nos volvimos muy unidos.\"",
+    "notes": "while we were growing up - use with imperfecto for extended past background narration (imperfecto alone can otherwise imply a missing interrupting event with indefinido)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row106",
+    "front": "nuestros caminos se separaron",
+    "back": "Expresión figurada para decir que dos personas dejaron de estar juntas o de seguir la misma dirección en la vida. Ejemplo: \"Fuimos amigos por años, pero nuestros caminos se separaron.\"",
+    "notes": "our paths went separate ways (figurative)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row108",
+    "front": "Japón está en mi lista",
+    "back": "Oración de ejemplo con \"estar\" para hablar de ubicación (o pertenencia a una lista). Ejemplo: \"Japón está en mi lista de países para visitar.\"",
+    "notes": "Japan is on my list - 'estar' used because it expresses location/being on a list",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "grammar point (ser/estar) inferred from a bare source note 'bc location'"
+  },
+  {
+    "id": "row110",
+    "front": "mandíbula",
+    "back": "Hueso de la cara donde están los dientes inferiores; parte de la boca. Ejemplo: \"Me duele la mandíbula de tanto masticar chicle.\"",
+    "notes": "jaw",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row112",
+    "front": "por tres semanas",
+    "back": "Uso de \"por\" para expresar duración de tiempo. Ejemplo: \"Viajé por tres semanas por Europa.\"",
+    "notes": "for three weeks - use 'por' for duration, NOT 'para'",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row114",
+    "front": "en cuanto ella muriera",
+    "back": "Uso del imperfecto de subjuntivo con \"en cuanto\" para expresar una acción futura hipotética vista desde el pasado. Ejemplo: \"Dijo que se iría en cuanto ella muriera.\"",
+    "notes": "as soon as she died/would die - subjunctive after 'en cuanto' for a hypothetical/anticipated event seen from a past perspective",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row116",
+    "front": "pues",
+    "back": "Palabra muy común usada como muletilla o conector, similar a \"well\" o \"so\" en inglés; también puede indicar causa (\"ya que\"). Ejemplo: \"Pues, no sé qué hacer.\"",
+    "notes": "well.../so... (filler word/discourse marker, extremely common)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row118",
+    "front": "en un plan de",
+    "back": "Expresión coloquial para decir que alguien está con ganas o en la disposición de hacer algo. Ejemplo: \"Hoy ando en un plan de no hacer nada.\"",
+    "notes": "in the mood for / in the vibe of (colloquial)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "colloquial/regional expression - exact register not specified in source"
+  },
+  {
+    "id": "row120",
+    "front": "no dejes de...",
+    "back": "Expresión imperativa que anima a alguien a seguir haciendo algo importante, o a no dejar de hacerlo. Ejemplo: \"No dejes de perseguir tus sueños.\"",
+    "notes": "don't stop.../don't fail to... (emphatic encouragement, very important)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row124",
+    "front": "se lo seguí diciendo",
+    "back": "Uso de \"seguir + gerundio\" en pasado para expresar una acción repetida o continua. Ejemplo: \"Se lo seguí diciendo, pero no me hizo caso.\"",
+    "notes": "I kept telling her/him (that) - 'seguir + gerundio' for a continued/repeated action",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row125",
+    "front": "zafarse",
+    "back": "Liberarse o escaparse de una situación, compromiso o agarre, a veces de forma astuta. Ejemplo: \"Logró zafarse del compromiso con una excusa.\"",
+    "notes": "to get out of/wriggle free from something (synonym given in source: liberarse)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row127",
+    "front": "costarle trabajo (a alguien)",
+    "back": "Expresión muy común en México para decir que algo requirió esfuerzo. Ejemplo: \"Les costó mucho trabajo terminar el proyecto a tiempo.\"",
+    "notes": "it took (them) a lot of effort - very common expression in Mexico",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row129",
+    "front": "exígelo",
+    "back": "Forma imperativa de \"exigir\", que significa pedir algo de manera firme y como un derecho, no como un favor. Ejemplo: \"¿No te dieron tu reembolso? ¡Exígelo!\"",
+    "notes": "demand it! (imperative of 'exigir' - a firm, mandatory request, not a polite one)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row131",
+    "front": "cobrarse",
+    "back": "Pedir o recibir el pago de algo, o cobrar una deuda o favor. Ejemplo: \"El mesero se acercó a cobrarse la cuenta.\"",
+    "notes": "to charge/collect payment (pronominal form of 'cobrar')",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "pronominal nuance vs. plain 'cobrar' - verify exact usage difference"
+  },
+  {
+    "id": "row133",
+    "front": "darle vuelo (a alguien/algo)",
+    "back": "Expresión coloquial para decir que se anima o entusiasma mucho a alguien sobre algo, a veces de forma exagerada. Ejemplo: \"No le des tanto vuelo a la idea, todavía no es seguro.\"",
+    "notes": "to hype someone/something up, get overly excited about it (colloquial, not necessarily negative)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "colloquial/regional idiom - confirm exact connotation"
+  },
+  {
+    "id": "row138",
+    "front": "canícula",
+    "back": "Período del año, generalmente unos 40 días, con las temperaturas más altas del verano; el término se usa en México, España y otros países hispanohablantes. Ejemplo: \"Estamos en plena canícula, no se aguanta el calor.\"",
+    "notes": "dog days of summer / hottest ~40 days of the year (used in Mexico, Spain, and elsewhere)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row140",
+    "front": "soplar",
+    "back": "Expulsar aire con fuerza por la boca, o referirse al movimiento del viento. Ejemplo: \"Sopló las velas del pastel de un solo golpe.\"",
+    "notes": "to blow",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row142",
+    "front": "envenenar",
+    "back": "Dar veneno a alguien o algo, o contaminar con una sustancia tóxica. Ejemplo: \"El villano intentó envenenar el agua del pueblo.\"",
+    "notes": "to poison",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row143",
+    "front": "podrido",
+    "back": "Que se ha descompuesto o echado a perder, generalmente comida. Ejemplo: \"Tiré la fruta porque ya estaba podrida.\"",
+    "notes": "rotten/spoiled (source glossed as 'expired', but it more precisely means 'gone bad/rotten', e.g. food)",
+    "reversible": true,
+    "confidence": "medium",
+    "flag_reason": "source gloss 'expired' is imprecise for 'podrido' (= rotten/spoiled) - verify intended meaning"
+  },
+  {
+    "id": "row144",
+    "front": "saponarias",
+    "back": "Planta con flores, del género Saponaria, cuyas raíces contienen sustancias que producen espuma al mezclarse con agua (de ahí su relación con \"jabón\"). Ejemplo: \"Sembramos saponarias en el jardín este año.\"",
+    "notes": "saponaria/soapwort (a flowering plant)",
+    "reversible": true,
+    "confidence": "medium",
+    "flag_reason": "uncommon botanical term - verify spelling and exact species intended"
+  },
+  {
+    "id": "row146",
+    "front": "según",
+    "back": "Preposición que indica conformidad con una opinión, fuente o condición; equivale a \"de acuerdo con\" o \"dependiendo de\". Ejemplo: \"Según el clima, iremos a la playa o nos quedaremos en casa.\"",
+    "notes": "according to / depending on",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row148",
+    "front": "no hay que tomar las cosas literalmente",
+    "back": "Expresión que advierte que algo (como una novela) no debe interpretarse de manera literal, sino en sentido figurado o simbólico. Ejemplo: \"Esta novela no es para tomarse literalmente; tiene un mensaje más profundo.\"",
+    "notes": "reminder note about a novel: 'don't take things literally' - reading-comprehension note, not a discrete vocabulary item",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "source is a parenthetical reading note, not a clear standalone vocab entry - verify whether it belongs in the deck"
+  },
+  {
+    "id": "row150",
+    "front": "capacitación",
+    "back": "Proceso de enseñar o entrenar a alguien para que adquiera habilidades necesarias para un trabajo. Ejemplo: \"La empresa ofrece capacitación a los nuevos empleados.\"",
+    "notes": "training (job/professional)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row152",
+    "front": "zoológico",
+    "back": "Lugar donde se exhiben animales de diferentes especies para que el público los observe. Ejemplo: \"Fuimos al zoológico a ver los leones.\"",
+    "notes": "zoo",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row155",
+    "front": "similar a",
+    "back": "Expresión para comparar dos cosas que se parecen. Ejemplo: \"Este plato es similar a uno que probé en Italia.\"",
+    "notes": "similar to",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row157",
+    "front": "derretir",
+    "back": "Convertir un sólido en líquido mediante calor. Ejemplo: \"Derretí el chocolate en el microondas.\"",
+    "notes": "to melt (transitive)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row158",
+    "front": "derretido",
+    "back": "Participio de \"derretir\"; que ha pasado de estado sólido a líquido por el calor. Ejemplo: \"El helado ya está derretido.\"",
+    "notes": "melted",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row160",
+    "front": "auroras boreales",
+    "back": "Fenómeno luminoso que se observa en el cielo nocturno cerca de los polos, causado por partículas solares que interactúan con la atmósfera. Ejemplo: \"Viajamos a Islandia para ver las auroras boreales.\"",
+    "notes": "northern lights / aurora borealis",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row162",
+    "front": "las nubes",
+    "back": "Masas visibles de agua condensada que flotan en el cielo. Ejemplo: \"Hoy el cielo está lleno de nubes grises.\"",
+    "notes": "the clouds",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row164",
+    "front": "anotar",
+    "back": "Escribir algo brevemente para no olvidarlo, como apuntes o datos. Ejemplo: \"Anoté la dirección en mi teléfono.\"",
+    "notes": "to write down/take note of",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row165",
+    "front": "notar",
+    "back": "Percibir o darse cuenta de algo mediante los sentidos o la observación. Ejemplo: \"Noté que estabas triste hoy.\"",
+    "notes": "to notice (contrast with 'anotar' = to write down/take note of)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row167",
+    "front": "sean",
+    "back": "Forma del presente de subjuntivo del verbo \"ser\" (ellos/ellas/ustedes). Se usa en oraciones que expresan deseo, duda o mandato. Ejemplo: \"Espero que sean felices.\"",
+    "notes": "may they be / that they be (present subjunctive of 'ser', 3rd person plural)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "bare conjugated form with no source context - example/meaning reconstructed generically"
+  },
+  {
+    "id": "row169",
+    "front": "afectivos",
+    "back": "Relacionado con los sentimientos o las emociones. Ejemplo: \"Tiene problemas afectivos que le cuesta expresar.\"",
+    "notes": "affective/emotional (adjective, masculine plural form)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row170",
+    "front": "afecto",
+    "back": "Sentimiento de cariño o cercanía hacia alguien. Ejemplo: \"Le tengo mucho afecto a mi abuela.\"",
+    "notes": "affection",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row172",
+    "front": "cálido/a",
+    "back": "Que transmite calidez, cercanía o amabilidad, dicho de una persona. Ejemplo: \"Es una persona muy cálida, siempre te hace sentir bienvenido.\"",
+    "notes": "warm (describing a person's personality) - corrected accent from source 'calida' -> 'cálida'",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row174",
+    "front": "educar, criar",
+    "back": "\"Criar\" se refiere a cuidar y alimentar a un niño hasta que crezca; \"educar\" se refiere a formar sus valores y conocimientos. Ejemplo: \"Mis padres me criaron con mucho cariño y me educaron para ser honesto.\"",
+    "notes": "to raise / bring up (children) - 'criar' (nurture/care) vs 'educar' (instill values/teach)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row179",
+    "front": "Alemania es conocida por...",
+    "back": "Ejemplo de concordancia de género: \"Alemania\" es un sustantivo femenino, por lo que los adjetivos deben concordar en femenino. Ejemplo: \"Alemania es conocida por su cerveza y su cultura.\"",
+    "notes": "Germany is known for... - 'Alemania' is grammatically feminine (adjective agreement: 'conocida', not 'conocido')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row181",
+    "front": "trabajadores calificados",
+    "back": "Ejemplo de concordancia de género masculino plural: trabajadores con formación o habilidades específicas. Ejemplo: \"La empresa busca trabajadores calificados para el nuevo proyecto.\"",
+    "notes": "skilled workers - masculine plural agreement example ('calificados')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row183",
+    "front": "podcast sobre temas abstractos",
+    "back": "Nota de estudio: escuchar podcasts sobre temas abstractos es más difícil, pero conviene volver a escucharlos varias veces para mejorar la comprensión. Ejemplo: \"Este podcast trata temas abstractos, así que lo voy a escuchar varias veces más.\"",
+    "notes": "personal study note: podcast covers abstract topics - re-listen a few more times to improve understanding (not really a vocab item)",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "looks like a personal study/learning-strategy note rather than a vocabulary item - verify whether to include in the deck"
+  },
+  {
+    "id": "row185",
+    "front": "la gente mayor",
+    "back": "Las personas de edad avanzada. Ejemplo: \"Hay que tener paciencia y respeto con la gente mayor.\"",
+    "notes": "older/elderly people",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row187",
+    "front": "conformarse",
+    "back": "Aceptar algo tal como es, sin buscar más o sin quejarse, a veces con resignación. Ejemplo: \"No te conformes con menos de lo que mereces.\"",
+    "notes": "to settle for / resign oneself to (something) - corrected typo from source 'comformarse'",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row189",
+    "front": "parecer",
+    "back": "Dar la impresión de ser de cierta manera, u opinar. Ejemplo: \"Ese plan me parece buena idea.\"",
+    "notes": "to seem/appear (corrected typo from source 'paracer')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row191",
+    "front": "educado/a",
+    "back": "Que tiene buenos modales y trata a los demás con respeto. Ejemplo: \"Es un niño muy educado, siempre da las gracias.\"",
+    "notes": "polite (literally 'well-raised/well-mannered', functions as 'polite' in context)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row193",
+    "front": "cuestionarse algo",
+    "back": "Poner en duda o reflexionar críticamente sobre algo, especialmente las propias creencias o decisiones. Ejemplo: \"Empecé a cuestionarme si esa era la carrera correcta para mí.\"",
+    "notes": "to question/second-guess something (reflexive)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row195",
+    "front": "grosero/a",
+    "back": "Que es descortés o falta el respeto a los demás en su manera de hablar o actuar. Ejemplo: \"No seas grosero con los meseros.\"",
+    "notes": "rude/impolite",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row197",
+    "front": "más de cien euros",
+    "back": "Expresión para indicar una cantidad superior a cien euros. Ejemplo: \"El vestido costó más de cien euros.\"",
+    "notes": "more than 100 euros ('más de' + number, not 'más que')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row199",
+    "front": "envuelto/a",
+    "back": "Cubierto o rodeado con algo, como papel o tela. Ejemplo: \"El regalo estaba envuelto en papel dorado.\"",
+    "notes": "wrapped",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row200",
+    "front": "involucrado/a",
+    "back": "Que participa o tiene relación con un asunto, a veces de forma comprometida. Ejemplo: \"Estuvo involucrado en el proyecto desde el principio.\"",
+    "notes": "involved",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row202",
+    "front": "políticos",
+    "back": "Personas que se dedican profesionalmente a la política, como legisladores o gobernantes. Ejemplo: \"Los políticos debatieron sobre la nueva ley.\"",
+    "notes": "politicians",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row203",
+    "front": "la política",
+    "back": "Actividad relacionada con el gobierno y la administración de un país o comunidad. Ejemplo: \"No me gusta hablar de política en las reuniones familiares.\"",
+    "notes": "politics (singular noun in Spanish, unlike English 'politics' which looks plural)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row205",
+    "front": "la gente se vuelve más de derecha",
+    "back": "Expresión para describir un cambio de tendencia política hacia posturas conservadoras. Ejemplo: \"En los últimos años, la gente se vuelve más de derecha en varios países.\"",
+    "notes": "people are becoming more right-wing (politically)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row207",
+    "front": "deprimente",
+    "back": "Que causa tristeza o desánimo. Ejemplo: \"Las noticias de hoy fueron muy deprimentes.\"",
+    "notes": "depressing",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row209",
+    "front": "que apoyen sus opiniones",
+    "back": "Uso del subjuntivo con \"que\" para expresar deseo o búsqueda de apoyo hacia las opiniones de alguien, típico tras un antecedente indefinido. Ejemplo: \"Busca personas que apoyen sus opiniones sobre el tema.\"",
+    "notes": "that (they) support their opinions (subjunctive after an indefinite antecedent, e.g. 'personas que...')",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "fragment lacks full context - full sentence and grammar point reconstructed"
+  },
+  {
+    "id": "row212",
+    "front": "aliviado/a",
+    "back": "Que siente alivio, generalmente después de que termina una preocupación o dolor. Ejemplo: \"Estoy aliviado de que todo saliera bien.\"",
+    "notes": "relieved",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row213",
+    "front": "alivio",
+    "back": "Sensación de tranquilidad que se siente cuando termina un dolor, preocupación o tensión. Ejemplo: \"Sentí un gran alivio cuando supe que estaba bien.\"",
+    "notes": "relief (noun, related to 'aliviado' = relieved)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  }
+]
