@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "row498",
+    "front": "a personal (regla)",
+    "back": "En español, se usa la 'a personal' antes del objeto directo cuando la persona (o entidad) es muy específica o conocida. Ejemplo: 'Vi a mi hermano en el parque.'",
+    "notes": "Grammar note: personal 'a' used because the referent is very specific",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Fragment from a grammar discussion, not a standalone vocab word — reconstructed the rule from context"
+  },
+  {
+    "id": "row501",
+    "front": "el tiempo (como sujeto narrativo)",
+    "back": "En narrativa, 'el tiempo' puede funcionar como sujeto gramatical o incluso como una especie de narrador simbólico de la historia. Ejemplo: 'El tiempo mira por el retrovisor y ve pasar los años.'",
+    "notes": "English: 'time' used as the grammatical subject/narrator of a text — clarifies the source's confusion about who the narrator is",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source is a personal reading-comprehension note about a text, not a clean vocab item — reconstructed best guess"
+  },
+  {
+    "id": "row503",
+    "front": "cambiar vs. intercambiar",
+    "back": "'Cambiar' significa hacer diferente o reemplazar algo; 'intercambiar' significa dar y recibir algo mutuamente entre dos partes. Ejemplo: 'Vamos a intercambiar regalos' (más preciso que 'cambiar regalos').",
+    "notes": "cambiar = to change; intercambiar = to exchange (mutual) — teacher flagged 'cambiando' where 'intercambiando' was more precise, though context can make 'cambiar' acceptable",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row505",
+    "front": "el tiempo (sujeto/narrador simbólico)",
+    "back": "En estilo de realismo mágico, 'el tiempo' puede describirse con verbos en infinitivo como si actuara, funcionando casi como un narrador poético que observa. Ejemplo: 'el tiempo, mirar por el retrovisor y ver alejarse los días.'",
+    "notes": "Literary device: infinitive verbs describing 'el tiempo' as narrator in magical-realism style texts",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Personal reading note about literary style, not a standalone vocab item — best-effort reconstruction"
+  },
+  {
+    "id": "row513",
+    "front": "me di cuenta (de que)",
+    "back": "Expresión que significa notar o comprender algo de repente. Ejemplo: 'Me di cuenta de que había olvidado las llaves.'",
+    "notes": "= 'I realized'; correction: don't say 'realicé' for this (false friend — realizar means 'to carry out/accomplish', not 'to realize')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row515",
+    "front": "colina",
+    "back": "Elevación de terreno menor que una montaña. Ejemplo: 'Subimos a la colina para ver la puesta de sol.'",
+    "notes": "= hill",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row517",
+    "front": "música en vivo",
+    "back": "Música tocada por artistas en el momento, no grabada. Ejemplo: 'El bar tiene música en vivo los viernes.'",
+    "notes": "= live music",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row521",
+    "front": "a personal (con personas)",
+    "back": "La 'a personal' se usa siempre antes de un objeto directo que es una persona. Ejemplo: 'Vi a Juan en la fiesta.'",
+    "notes": "Rule: with people as direct object, always use the personal 'a'",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Fragment of a grammar rule split across rows 498/521/522 — reconstructed individually"
+  },
+  {
+    "id": "row522",
+    "front": "a personal (con objetos/animales)",
+    "back": "Con objetos o animales (no personas), normalmente no se usa la 'a personal', excepto cuando el referente es muy específico o conocido. Ejemplo: 'Vi a mi perro Rex' pero 'Vi un perro en la calle.'",
+    "notes": "Rule: no personal 'a' with objects/animals unless the referent is specific/well-known (e.g. a named pet)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Fragment of a grammar rule, reconstructed from a short note"
+  },
+  {
+    "id": "row525",
+    "front": "con todo",
+    "back": "Expresión que significa hacer algo con toda la energía o esfuerzo posible. Ejemplo: '¡Vamos con todo en este proyecto!'",
+    "notes": "= go for it / all out",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row527",
+    "front": "embotellamiento",
+    "back": "Situación en la que el tráfico está detenido o muy lento por exceso de vehículos. Ejemplo: 'Llegué tarde por el embotellamiento en la autopista.'",
+    "notes": "= traffic jam",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row528",
+    "front": "enervante",
+    "back": "Que causa gran irritación o nerviosismo. Ejemplo: 'El ruido constante del tráfico es enervante.'",
+    "notes": "= very frustrating/irritating. False friend: in English 'enervating' means draining/weakening, but Spanish 'enervante' means irritating/nerve-wracking",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "False friend risk — flagged so it isn't confused with the English word 'enervating'"
+  },
+  {
+    "id": "row530",
+    "front": "sumarse",
+    "back": "Añadirse o incorporarse a algo. Ejemplo: 'Muchas personas se sumaron a la protesta.'",
+    "notes": "= to add oneself / to join; also used impersonally, 'se suma' = it adds up / gets added",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row532",
+    "front": "a ras (de)",
+    "back": "Muy cerca de la superficie o al mismo nivel que algo, casi tocándolo. Ejemplo: 'El avión volaba a ras del agua.'",
+    "notes": "= right at / level with the surface, flush with (more extreme than 'al borde')",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row534",
+    "front": "rapado a ras",
+    "back": "Cortar el pelo muy corto, casi al nivel de la piel. Ejemplo: 'Se rapó la cabeza a ras.'",
+    "notes": "= shave the head to the skin / very close buzz cut",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row536",
+    "front": "orilla",
+    "back": "Línea donde termina una superficie, especialmente de un río, mar o lago. Ejemplo: 'Caminamos por la orilla del mar.'",
+    "notes": "= shore/edge/bank",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row538",
+    "front": "para colmo",
+    "back": "Expresión que introduce el último de una serie de eventos negativos, el peor de todos. Ejemplo: 'Perdí el tren, y para colmo, empezó a llover.'",
+    "notes": "= to top it all off / on top of that (stronger/more negative than 'encima')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row540",
+    "front": "franja",
+    "back": "Banda o tira alargada de algo, o una zona delimitada. Ejemplo: 'La Franja de Gaza' o 'una franja horaria de dos horas.'",
+    "notes": "= strip/band/zone (e.g. time slot, strip of land)",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source itself marks uncertainty with '(?)' — double-check exact nuance intended"
+  },
+  {
+    "id": "row542",
+    "front": "salvo",
+    "back": "Con excepción de, menos. Ejemplo: 'Vinieron todos, salvo Marta.'",
+    "notes": "= except, save for (synonym: excepto)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row544",
+    "front": "antipático",
+    "back": "Que no es agradable en el trato, poco amable. Ejemplo: 'El camarero fue muy antipático con nosotros.'",
+    "notes": "= unpleasant/unfriendly (person), not exactly 'negative attitude' but close",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source marked uncertainty with '(?)'"
+  },
+  {
+    "id": "row546",
+    "front": "de trecho en trecho",
+    "back": "A intervalos, cada cierta distancia o tiempo. Ejemplo: 'Había árboles de trecho en trecho a lo largo del camino.'",
+    "notes": "= here and there / at intervals (source's 'moment to moment' is a loose guess — it's really about spaced-out intervals of distance/time)",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source phrase 'trecho y trecho' is likely a garbled version of 'de trecho en trecho'; user's own gloss was marked uncertain"
+  },
+  {
+    "id": "row548",
+    "front": "quebrar",
+    "back": "Romper o fracturar algo; también significa ir a la bancarrota un negocio. Ejemplo: 'La empresa quebró después de la crisis.'",
+    "notes": "= to break / to go bankrupt (synonym given in source: romper)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row550",
+    "front": "quebrar lo peor de",
+    "back": "Romper o superar la parte más difícil de una situación. Ejemplo: 'Salimos temprano para quebrar lo peor del embotellamiento.'",
+    "notes": "= to get through the worst of (e.g. traffic) — pulled from a reading-comprehension homework checklist",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source was a checklist/homework task, not a vocab note — extracted the embedded phrase as best guess"
+  },
+  {
+    "id": "row555",
+    "front": "a mediados de diciembre",
+    "back": "Expresión que indica el punto medio de un mes, alrededor del día 15. Ejemplo: 'Nos vemos a mediados de diciembre.'",
+    "notes": "= in mid-December ('a mediados de' + month = 'in mid-')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row557",
+    "front": "darse cuenta de",
+    "back": "Notar, percatarse o comprender algo. Ejemplo: 'Me di cuenta de que llegaba tarde.'",
+    "notes": "= to realize (note the preposition 'de' — always 'darse cuenta DE algo')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row559",
+    "front": "ajetreado",
+    "back": "Que tiene mucha actividad o movimiento, agitado. Ejemplo: 'Tuve una semana muy ajetreada en el trabajo.'",
+    "notes": "= hectic (source's own translation was 'muy intenso'; 'ajetreado' is the more precise/idiomatic word)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source's own gloss 'muy intenso' is a loose approximation of 'hectic' — 'ajetreado' fits better"
+  },
+  {
+    "id": "row561",
+    "front": "MOST cases (encabezado)",
+    "back": "Fragmento que introduce una regla gramatical general sobre modo subjuntivo/indicativo (ver entradas cercanas: 'creo que' + subjuntivo/indicativo).",
+    "notes": "Just a header fragment ('most cases:') from a grammar note, not vocabulary on its own",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Bare section header from the source spreadsheet with no vocabulary content of its own — included per instructions"
+  },
+  {
+    "id": "row562",
+    "front": "creo que / pienso que + subjuntivo",
+    "back": "Nota: aunque 'creo que' y 'pienso que' en afirmativo normalmente llevan indicativo (expresan certeza), en ciertos contextos de duda se usan con subjuntivo. Ejemplo: 'No creo que sea así' (forma negativa + subjuntivo).",
+    "notes": "Source states 'creo que/pienso que + subjuntivo' — this is atypical for the plain affirmative (which usually takes indicative); likely meant for the negative form 'no creo que'",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source rule as stated conflicts with standard grammar for affirmative 'creo que' — verify whether it was meant for the negative form"
+  },
+  {
+    "id": "row564",
+    "front": "seguro que + indicativo",
+    "back": "'Seguro que' expresa certeza y va seguido de modo indicativo. Ejemplo: 'Seguro que llega tarde.'",
+    "notes": "= 'surely/I'm sure that' + indicative (expresses certainty)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row566",
+    "front": "caber",
+    "back": "Tener espacio suficiente para algo, entrar en un espacio. Ejemplo: 'No caben todos los libros en la maleta.'",
+    "notes": "= to fit",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row567",
+    "front": "no cabe duda",
+    "back": "Expresión que significa que algo es completamente cierto, sin lugar a dudas. Ejemplo: 'No cabe duda de que es el mejor candidato.'",
+    "notes": "= there's no doubt / without a doubt",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row569",
+    "front": "frase sentenciosa",
+    "back": "Frase corta que expresa una verdad general o una máxima, a menudo en tono moralizante. Ejemplo: 'Más vale tarde que nunca' es una frase sentenciosa.",
+    "notes": "= a sententious phrase / maxim-like statement (source left the gloss incomplete)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source left this fragment incomplete (trailing arrow, no gloss) — best-guess definition supplied"
+  },
+  {
+    "id": "row571",
+    "front": "condena",
+    "back": "Sentencia o pena impuesta por un delito. Ejemplo: 'Recibió una condena de diez años de prisión.'",
+    "notes": "= (criminal) conviction/sentence",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row573",
+    "front": "convenir / convenido",
+    "back": "'Convenir' significa ser útil o adecuado, o ponerse de acuerdo sobre algo; 'convenido' es su participio, usado como 'acordado'. Ejemplo: 'Nos conviene salir temprano.' / 'Quedamos en el precio convenido.'",
+    "notes": "convenir = to suit/be convenient, to agree on; convenido = agreed-upon (source's gloss 'convenience verb' is imprecise but points at 'convenir')",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source gloss 'convenience verb' is imprecise — clarified the actual meaning of convenir/convenido"
+  },
+  {
+    "id": "row575",
+    "front": "huerto",
+    "back": "Terreno pequeño donde se cultivan frutas, verduras o plantas, distinto de un jardín ornamental. Ejemplo: 'Cultivamos tomates en el huerto de la abuela.'",
+    "notes": "= (vegetable/fruit) garden, orchard — not just any 'jardín'",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row577",
+    "front": "hortalizas",
+    "back": "Plantas comestibles cultivadas en huerta, principalmente verduras y legumbres. Ejemplo: 'El mercado vende hortalizas frescas todos los días.'",
+    "notes": "= vegetables/produce (source's gloss included 'frutas', but 'hortalizas' mainly refers to vegetables/greens, not fruit)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source's gloss includes 'frutas' but 'hortalizas' technically refers mainly to vegetables — worth double-checking"
+  },
+  {
+    "id": "row579",
+    "front": "cocinera",
+    "back": "Mujer que cocina, ya sea profesionalmente o en casa. Ejemplo: 'Mi tía es cocinera en un restaurante famoso.'",
+    "notes": "= (female) cook/chef",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row581",
+    "front": "atropello",
+    "back": "Accidente en el que un vehículo golpea a una persona o animal. Ejemplo: 'Hubo un atropello en la esquina esta mañana.'",
+    "notes": "= a hit (by a vehicle); precise 'hit-and-run' is 'atropello con fuga' / 'atropello y fuga'",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "'Atropello' alone just means 'a hit/running over' — the 'and-run' (fleeing) part needs 'y fuga' added"
+  },
+  {
+    "id": "row582",
+    "front": "atropellar",
+    "back": "Golpear con un vehículo a una persona o animal. Ejemplo: 'El coche atropelló a un peatón.'",
+    "notes": "= to run over (with a vehicle)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row584",
+    "front": "millar",
+    "back": "Conjunto de mil unidades. Ejemplo: 'Vendieron un millar de entradas para el concierto.'",
+    "notes": "= a thousand (as a unit/group), often used for round counts",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row585",
+    "front": "millares",
+    "back": "Plural de millar; se usa para referirse a una cantidad grande e indeterminada de miles. Ejemplo: 'Acudieron millares de personas a la manifestación.'",
+    "notes": "= thousands (plural, emphasizing a large indeterminate number)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row587",
+    "front": "someter",
+    "back": "Hacer que alguien o algo se sujete a una autoridad, proceso o condición. Ejemplo: 'Sometieron el proyecto a votación.'",
+    "notes": "= to submit/subject (to a process or authority); reflexive 'someterse a' = to undergo",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row589",
+    "front": "por principio",
+    "back": "Por una cuestión de ética o convicción personal, no por otra razón. Ejemplo: 'No miento, por principio.'",
+    "notes": "= as a matter of principle — contrast: 'al principio' = at the beginning (different meaning, don't confuse)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row594",
+    "front": "Mercurio retrógrado",
+    "back": "Fenómeno astrológico en el que, según la creencia popular, el planeta Mercurio parece moverse hacia atrás, y se dice que afecta la comunicación y la tecnología. Ejemplo: 'No firmes contratos ahora, ¡está Mercurio retrógrado!'",
+    "notes": "= Mercury retrograde (astrology term; believed to disrupt communication)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "This is a proper-noun astrology term rather than typical vocab — included per instructions"
+  },
+  {
+    "id": "row597",
+    "front": "TOC (trastorno obsesivo-compulsivo)",
+    "back": "Trastorno mental caracterizado por pensamientos obsesivos y comportamientos compulsivos repetitivos. Ejemplo: 'Le diagnosticaron TOC el año pasado.'",
+    "notes": "= OCD (obsessive-compulsive disorder)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row612",
+    "front": "buscar agradar (a los demás)",
+    "back": "Tener la tendencia de intentar complacer a otras personas constantemente, a veces a costa de uno mismo. Ejemplo: 'Siempre busca agradar a todo el mundo, hasta le cuesta decir que no.'",
+    "notes": "= to be a people pleaser (lit. 'to seek to please')",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row616",
+    "front": "carta astral",
+    "back": "Diagrama que representa la posición de los planetas en el momento del nacimiento de una persona. Ejemplo: 'Hice mi carta astral con una astróloga.'",
+    "notes": "= astrology/birth chart (source line is just a header introducing the astrology section)",
+    "reversible": true,
+    "confidence": "medium",
+    "flag_reason": "Source is a header line only ('my astrology chart:'), no explicit Spanish term given — supplied 'carta astral' as the standard term"
+  },
+  {
+    "id": "row617",
+    "front": "Acuario",
+    "back": "Undécimo signo del zodiaco, asociado con el elemento aire. Ejemplo: 'Soy Acuario, nací en febrero.'",
+    "notes": "= Aquarius (zodiac sign)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row618",
+    "front": "lo que me favorece",
+    "back": "Lo que resulta beneficioso o ventajoso para mí. Ejemplo: 'El horario flexible es lo que me favorece más en este trabajo.'",
+    "notes": "= what favors/benefits me (source phrase 'lo que me favorecen' has an agreement slip — corrected to singular 'favorece')",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source phrasing appears to have a grammar slip ('me favorecen' vs 'me favorece') — corrected for clarity"
+  },
+  {
+    "id": "row619",
+    "front": "cuidar el corazón",
+    "back": "Prestar atención a la salud cardíaca, mediante dieta, ejercicio, etc. Ejemplo: 'A partir de los 40, hay que cuidar más el corazón.'",
+    "notes": "= to take care of one's heart (cardiac health) — corazón = heart; cardíaco/a = cardiac (adj)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row620",
+    "front": "miércoles",
+    "back": "Día de la semana entre el martes y el jueves. Ejemplo: 'Tengo clase de español los miércoles.'",
+    "notes": "= Wednesday (note the accent: miércoles)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row621",
+    "front": "azul eléctrico",
+    "back": "Tono de azul muy brillante e intenso. Ejemplo: 'Se pintó las uñas de azul eléctrico.'",
+    "notes": "= electric blue (color)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row622",
+    "front": "amatista",
+    "back": "Piedra semipreciosa de color violeta, variedad de cuarzo. Ejemplo: 'Lleva un anillo con una amatista.'",
+    "notes": "= amethyst",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row623",
+    "front": "orquídea",
+    "back": "Flor exótica de formas delicadas, de la familia Orchidaceae. Ejemplo: 'Le regalé una orquídea para su cumpleaños.'",
+    "notes": "= orchid (source spelled it 'orchidia' — correct Spanish spelling is 'orquídea')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row624",
+    "front": "árboles frutales",
+    "back": "Árboles que producen fruta comestible. Ejemplo: 'En el huerto hay varios árboles frutales: manzanos, perales y naranjos.'",
+    "notes": "= fruit trees",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row625",
+    "front": "uranio",
+    "back": "Elemento químico metálico, radiactivo, usado en energía nuclear. Ejemplo: 'El uranio se usa como combustible en centrales nucleares.'",
+    "notes": "= uranium",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row626",
+    "front": "animales grandes",
+    "back": "Animales de gran tamaño, como elefantes o ballenas. Ejemplo: 'En la sabana africana viven muchos animales grandes.'",
+    "notes": "= large animals",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row628",
+    "front": "mis peligros (encabezado)",
+    "back": "Riesgos o rasgos de riesgo asociados a la personalidad o al signo astrológico de alguien. Ejemplo: 'Uno de mis peligros es ser demasiado terco.'",
+    "notes": "= 'my dangers/pitfalls' — header introducing a list of personal traits/risks in the source's astrology notes",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Bare header line with no specific content of its own"
+  },
+  {
+    "id": "row629",
+    "front": "poco convencional",
+    "back": "Que no sigue las normas o costumbres habituales, original. Ejemplo: 'Tiene un estilo de vida poco convencional.'",
+    "notes": "= unconventional (paired in source with 'innovador' = innovative)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row630",
+    "front": "gente poco abierta",
+    "back": "Personas que no son receptivas a nuevas ideas, cerradas de mente. Ejemplo: 'No me llevo bien con gente poco abierta.'",
+    "notes": "= closed-minded people (lit. 'not very open people')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row631",
+    "front": "meterse en situaciones extrañas",
+    "back": "Involucrarse, a veces sin querer, en circunstancias raras o complicadas. Ejemplo: 'A veces me meto en situaciones extrañas sin darme cuenta.'",
+    "notes": "= to get into strange/odd situations",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row632",
+    "front": "visionario",
+    "back": "Persona que tiene ideas o proyectos innovadores orientados al futuro. Ejemplo: 'Es un visionario, siempre piensa en el futuro.'",
+    "notes": "= visionary",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row633",
+    "front": "gente original",
+    "back": "Personas con ideas o estilo propio, poco comunes. Ejemplo: 'Me gusta rodearme de gente original.'",
+    "notes": "= original/creative people",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row634",
+    "front": "poco ortodoxo",
+    "back": "Que no sigue las normas tradicionales o convencionales. Ejemplo: 'Su método de enseñanza es poco ortodoxo pero funciona.'",
+    "notes": "= unorthodox",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row635",
+    "front": "seguir a la multitud",
+    "back": "Imitar lo que hace la mayoría de la gente, sin pensar de forma independiente. Ejemplo: 'No le gusta seguir a la multitud, prefiere pensar por sí mismo.'",
+    "notes": "= to follow the crowd",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row636",
+    "front": "hacer las cosas a su manera",
+    "back": "Actuar según el propio criterio, sin seguir las convenciones de los demás. Ejemplo: 'Siempre hace las cosas a su manera, sin importarle la opinión ajena.'",
+    "notes": "= to do things one's own way",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row637",
+    "front": "capacidad intelectual independiente",
+    "back": "Habilidad de pensar y razonar de forma autónoma, sin depender de las opiniones de otros. Ejemplo: 'Tiene una capacidad intelectual muy independiente, siempre cuestiona todo.'",
+    "notes": "= a very independent intellectual capacity (source typo 'intellectual' corrected to Spanish 'intelectual')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row638",
+    "front": "opiniones firmes",
+    "back": "Puntos de vista sólidos y difíciles de cambiar. Ejemplo: 'Tiene opiniones firmes sobre política.'",
+    "notes": "= firm/strong opinions (source typo 'firmas' corrected to 'firmes')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row639",
+    "front": "poco flexible",
+    "back": "Que se adapta con dificultad a cambios o a las opiniones de otros, rígido. Ejemplo: 'Es poco flexible con los horarios.'",
+    "notes": "= inflexible / not very flexible",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row640",
+    "front": "escrito en piedra",
+    "back": "Algo definitivo, inmutable, que no puede cambiarse. Ejemplo: 'Este plan no está escrito en piedra, todavía podemos cambiarlo.'",
+    "notes": "= written in stone",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row641",
+    "front": "mezcla de paradojas",
+    "back": "Combinación de ideas o rasgos que parecen contradictorios entre sí. Ejemplo: 'Su personalidad es una mezcla de paradojas: tímido pero muy seguro de sí mismo.'",
+    "notes": "= a mix of paradoxes/contradictions (source typo 'paradoxos' corrected to 'paradojas')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row642",
+    "front": "signo de aire",
+    "back": "Signo del zodiaco perteneciente al elemento aire (Géminis, Libra, Acuario). Ejemplo: 'Acuario es un signo de aire.'",
+    "notes": "= air sign (astrology)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row643",
+    "front": "(sin contenido)",
+    "back": "Fragmento vacío del origen; no contiene contenido de vocabulario identificable.",
+    "notes": "No usable content — source row was just an ellipsis placeholder",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source content is just '...' with no actual text — likely not real card-worthy content; consider dropping from the deck"
+  },
+  {
+    "id": "row644",
+    "front": "no juzgar",
+    "back": "No emitir juicios de valor sobre las acciones o decisiones de otras personas. Ejemplo: 'Me gusta que no juzgas a la gente por sus errores.'",
+    "notes": "= to not judge — non-judgmental",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row649",
+    "front": "precavido/a",
+    "back": "Que actúa con cuidado para evitar riesgos, cauteloso. Ejemplo: 'Es una persona precavida, siempre lleva paraguas por si llueve.'",
+    "notes": "= cautious/careful (related: tomar precauciones = to take precautions)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row650",
+    "front": "marea",
+    "back": "Movimiento periódico de subida y bajada del nivel del mar. Ejemplo: 'La marea alta cubre esta playa por completo.'",
+    "notes": "= tide",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row651",
+    "front": "caparazón",
+    "back": "Cubierta dura que protege el cuerpo de ciertos animales, como tortugas y cangrejos. Ejemplo: 'La tortuga se esconde dentro de su caparazón.'",
+    "notes": "= shell (of a turtle, crab, etc.) — distinct from 'concha' (mollusk shell)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row652",
+    "front": "concha",
+    "back": "Cubierta dura de moluscos como caracoles y almejas, comúnmente encontrada en la playa. Ejemplo: 'Recogimos conchas en la orilla del mar.'",
+    "notes": "= (sea)shell (mollusk shell) — distinct from 'caparazón' (turtle/crab shell)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row654",
+    "front": "a la misma hora",
+    "back": "Expresión que indica que algo ocurre en el mismo momento del día. Ejemplo: 'Nos vemos mañana a la misma hora.'",
+    "notes": "= at the same time (of day) — use 'hora', not 'tiempo', for clock time",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row656",
+    "front": "hermano mayor",
+    "back": "El hermano de más edad en una familia. Ejemplo: 'Mi hermano mayor tiene treinta años.'",
+    "notes": "= older/big brother",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row657",
+    "front": "mayor (comparativo de edad)",
+    "back": "'Mayor' ya funciona como comparativo de edad (más grande en años); no es necesario decir 'más grande'. Ejemplo: 'Mi hermano es mayor que yo' (no 'más grande que yo' para edad).",
+    "notes": "= older — already the comparative form for age (reserve 'más grande' for physical size)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source note was garbled ('alr the mas grande') — reconstructed the intended meaning"
+  },
+  {
+    "id": "row659",
+    "front": "camiones",
+    "back": "Vehículos grandes usados para transportar carga. Ejemplo: 'Los camiones bloquean el tráfico en la autopista.'",
+    "notes": "= trucks (singular: camión)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row660",
+    "front": "camión pipa",
+    "back": "Camión cisterna usado para transportar líquidos, como agua o combustible. Ejemplo: 'El camión pipa llenó el tanque de agua del edificio.'",
+    "notes": "= tanker truck (regional term, esp. Mexico)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Regional term (Mexican Spanish) — worth confirming region-specific usage"
+  },
+  {
+    "id": "row662",
+    "front": "consultoría",
+    "back": "Servicio profesional de asesoramiento a empresas u organizaciones. Ejemplo: 'Trabaja en una consultoría de finanzas.'",
+    "notes": "= consulting (firm/field)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row663",
+    "front": "consulta",
+    "back": "Cita o visita con un profesional, especialmente un médico. Ejemplo: 'Tengo una consulta con el médico a las cuatro.'",
+    "notes": "= (doctor's) appointment/office visit — contrast with 'consultoría' (business consulting)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row665",
+    "front": "voluntario/a (adjetivo)",
+    "back": "Que se hace por libre decisión, sin obligación. Ejemplo: 'Su participación fue completamente voluntaria.'",
+    "notes": "= voluntary (adjective)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row666",
+    "front": "voluntariado",
+    "back": "Actividad realizada de forma gratuita y voluntaria para ayudar a otros. Ejemplo: 'Hice un voluntariado en un refugio de animales.'",
+    "notes": "= volunteering/volunteer work (noun; contrast with the adjective 'voluntario/a')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row668",
+    "front": "Ucrania",
+    "back": "País de Europa del Este. Ejemplo: 'Ucrania limita con Rusia y Polonia.'",
+    "notes": "= Ukraine (capitalize as a proper noun)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row670",
+    "front": "laico/a",
+    "back": "Que no tiene relación con ninguna religión, independiente de instituciones religiosas. Ejemplo: 'En Francia, la educación pública es laica.'",
+    "notes": "= secular (e.g. applied to education, the state)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row672",
+    "front": "contrabando",
+    "back": "Comercio ilegal de mercancías, evitando impuestos o controles aduaneros. Ejemplo: 'La policía incautó un cargamento de contrabando.'",
+    "notes": "= smuggling/contraband (note: correct word is 'contrabando', masculine — not 'contrabanda')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row674",
+    "front": "pervertir",
+    "back": "Corromper o desviar algo o a alguien de su estado natural o moralmente correcto, no solo en sentido sexual. Ejemplo: 'El poder puede pervertir incluso a las personas más honestas.'",
+    "notes": "= to corrupt/pervert — broader meaning than the sexual sense, can apply to morals, systems, character",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row676",
+    "front": "pervertirse",
+    "back": "Corromperse moralmente, desviarse de un estado correcto o natural. Ejemplo: 'Temían que el sistema se pervirtiera con el tiempo.'",
+    "notes": "= to become corrupted/perverted (reflexive; 'se pervierta' is the present subjunctive form)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source is just an isolated conjugated form ('se pervierta') pulled from context — reconstructed the base meaning"
+  },
+  {
+    "id": "row678",
+    "front": "tentador/a",
+    "back": "Que provoca deseo o atracción, difícil de resistir. Ejemplo: 'La oferta es muy tentadora, pero no puedo aceptarla.'",
+    "notes": "= tempting",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row680",
+    "front": "montaña rusa",
+    "back": "Atracción de un parque de diversiones con vagones que suben y bajan a gran velocidad por una vía. Ejemplo: 'Trabajó en Disney operando la montaña rusa.'",
+    "notes": "= roller coaster (pulled from a personal anecdote about working at Disney 'hace 10 años' = 10 years ago)",
+    "reversible": true,
+    "confidence": "medium",
+    "flag_reason": "Source is a personal anecdote in mixed English/Spanish — extracted the embedded vocab term as best guess of intended content"
+  },
+  {
+    "id": "row682",
+    "front": "hacer sentir mal a alguien",
+    "back": "Provocar que alguien se sienta triste o culpable. Ejemplo: 'No lo puedes hacer sentir mal por sus errores.'",
+    "notes": "= to make someone feel bad",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row684",
+    "front": "brújula moral",
+    "back": "Sentido interno que guía las decisiones éticas de una persona. Ejemplo: 'Siempre actúa según su brújula moral.'",
+    "notes": "= moral compass",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row686",
+    "front": "orden sustantivo + adjetivo (regla general)",
+    "back": "En español, el orden habitual es sustantivo + adjetivo ('cosa buena'), aunque hay excepciones donde el adjetivo va antes para dar énfasis o un matiz especial ('buena cosa'). Ejemplo: 'Es una cosa buena' vs. 'Fue una buena cosa que llegaras.'",
+    "notes": "Word-order rule: noun+adjective is the default order in Spanish, with exceptions for emphasis/subjectivity",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row688",
+    "front": "piratería",
+    "back": "Reproducción o distribución ilegal de contenido protegido por derechos de autor. Ejemplo: 'La piratería de películas es un delito.'",
+    "notes": "= piracy (e.g. software/media piracy)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row690",
+    "front": "asequible",
+    "back": "Que tiene un precio razonable, que se puede pagar sin dificultad. Ejemplo: 'Buscamos un apartamento asequible en el centro.'",
+    "notes": "= affordable (source's own guesses 'accesible/pagable' are close, but 'asequible' is the more standard, precise word)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source guessed 'accesibles, pagables' — 'asequible' is the more standard/precise translation for 'affordable'"
+  },
+  {
+    "id": "row692",
+    "front": "tener la foto sin viajar",
+    "back": "Expresión coloquial que se refiere a poder mostrar una foto en un lugar famoso sin necesidad de viajar físicamente allí (por ejemplo, con edición digital o IA). Ejemplo: 'Con la inteligencia artificial, ya van a tener la foto sin viajar.'",
+    "notes": "= to get the photo without traveling (likely referring to AI-generated/edited travel photos) — meaning inferred from context",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Fragment pulled from a longer conversation with no surrounding context — meaning inferred, may not be accurate"
+  },
+  {
+    "id": "row697",
+    "front": "literal (posición del adjetivo)",
+    "back": "Cuando 'literal' se usa como adjetivo calificativo estándar, sigue el orden normal sustantivo + adjetivo. Ejemplo: 'Es el significado literal de la palabra.'",
+    "notes": "Grammar note: 'literal' follows the noun+adjective order",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Terse grammar fragment; reconstructed the intended point about word order"
+  },
+  {
+    "id": "row698",
+    "front": "adjetivo + sustantivo (opinión/énfasis)",
+    "back": "Cuando el adjetivo va antes del sustantivo, suele añadir un matiz subjetivo o de opinión, no solo describir objetivamente. Ejemplo: 'una hermosa casa' (énfasis/opinión) vs. 'una casa hermosa' (descripción más neutra).",
+    "notes": "Grammar rule: adjective-before-noun order often signals a subjective/opinion-based nuance",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row699",
+    "front": "la interesante mujer",
+    "back": "Ejemplo de adjetivo antepuesto al sustantivo para dar énfasis subjetivo. Ejemplo de uso: 'La interesante mujer nos contó su historia de vida.'",
+    "notes": "= 'the interesting woman' — adjective-before-noun for emphasis (compare neutral: 'la mujer interesante')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row700",
+    "front": "la gran mujer",
+    "back": "Ejemplo de adjetivo que cambia de significado según su posición: 'gran' (antes del sustantivo) = impresionante/admirable, mientras que 'grande' (después) = de gran tamaño. Ejemplo: 'Es una gran mujer' (great) vs. 'una mujer grande' (physically tall/large).",
+    "notes": "= 'the great woman' — note 'grande' shortens to 'gran' before a singular noun and shifts meaning (great vs. big)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row701",
+    "front": "adjetivos subjetivos (orden flexible)",
+    "back": "Algunos adjetivos, como 'bueno/a', son inherentemente subjetivos, por lo que ambos órdenes (antes o después del sustantivo) son gramaticalmente correctos. Ejemplo: 'una buena comida' = 'una comida buena.'",
+    "notes": "Grammar note: subjective adjectives like 'bueno' can go either before or after the noun with little difference in meaning",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row703",
+    "front": "borroso/a",
+    "back": "Que no se ve con claridad, difuso. Ejemplo: 'La foto salió borrosa porque me moví.'",
+    "notes": "= blurry",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row705",
+    "front": "chirriante",
+    "back": "Que produce un sonido agudo y desagradable, como un chirrido. Ejemplo: 'La puerta vieja tiene unas bisagras chirriantes.'",
+    "notes": "= creaky/screeching/squeaky (sound)",
+    "reversible": true,
+    "confidence": "medium",
+    "flag_reason": "Source gave the bare word with no gloss — definition supplied from general knowledge"
+  },
+  {
+    "id": "row709",
+    "front": "puesto",
+    "back": "Posición o cargo dentro de una empresa u organización. Ejemplo: 'Consiguió un puesto de gerente en la nueva empresa.'",
+    "notes": "= (job) position/role",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row711",
+    "front": "cuatrocientos cuatro",
+    "back": "Forma de decir el número 404 en español; los números compuestos con 'cientos' no llevan 'y' justo después, a diferencia de entre decenas y unidades. Ejemplo: '404' se dice 'cuatrocientos cuatro' (no 'cuatrocientos y cuatro').",
+    "notes": "= four hundred (and) four — no 'y' directly after 'cientos' (unlike between tens and units, e.g. 'treinta y cuatro')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row713",
+    "front": "maleza",
+    "back": "Conjunto de plantas silvestres y malas hierbas que crecen sin control. Ejemplo: 'El jardín estaba cubierto de maleza.'",
+    "notes": "= weeds/undergrowth/brush",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row714",
+    "front": "inalcanzable",
+    "back": "Que no se puede alcanzar o lograr, fuera de nuestro alcance. Ejemplo: 'Ese sueño parecía inalcanzable.'",
+    "notes": "= unreachable/unattainable (source gloss 'inapproachable' looks like a mix-up — it means out of reach, not unfriendly/unapproachable)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source's English gloss looks like a typo/mistranslation ('inapprochalble') — clarified the actual meaning"
+  },
+  {
+    "id": "row716",
+    "front": "deslizar(se)",
+    "back": "Moverse suavemente sobre una superficie, sin fricción brusca; en pantallas táctiles, pasar el dedo. Ejemplo: 'Desliza el dedo hacia la derecha para continuar.'",
+    "notes": "= to slide/swipe (e.g. on a phone screen)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row718",
+    "front": "al cabo (de)",
+    "back": "Después de transcurrido cierto tiempo. Ejemplo: 'Al cabo de un rato, llegó la respuesta.'",
+    "notes": "= after a while / eventually",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row720",
+    "front": "bocina",
+    "back": "Dispositivo que emite sonido, ya sea un altavoz o el claxon de un vehículo. Ejemplo: 'El conductor tocó la bocina para advertir al peatón.'",
+    "notes": "= car horn / speaker, depending on context (horn/'beep beep' use is very common)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row722",
+    "front": "furgón",
+    "back": "Vehículo de carga cerrado, más pequeño que un camión, usado para transportar mercancías. Ejemplo: 'El furgón de reparto llegó temprano.'",
+    "notes": "= van/small cargo truck, distinct from the bigger 'camión'",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row724",
+    "front": "procedente de",
+    "back": "Que viene o tiene su origen en un lugar determinado. Ejemplo: 'El vuelo procedente de Madrid llegó con retraso.'",
+    "notes": "= coming from / originating from",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row726",
+    "front": "granja",
+    "back": "Terreno con instalaciones para la cría de animales o el cultivo. Ejemplo: 'Visitamos una granja de vacas lecheras.'",
+    "notes": "= farm",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row728",
+    "front": "nimio/a",
+    "back": "De poca importancia, insignificante. Ejemplo: 'No te preocupes por detalles nimios.'",
+    "notes": "= trivial/insignificant",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row730",
+    "front": "jalea",
+    "back": "Conserva dulce hecha con jugo de frutas, de textura gelatinosa (a diferencia de la mermelada, que lleva trozos de fruta). Ejemplo: 'Untó el pan con jalea de manzana.'",
+    "notes": "= jelly (more precisely; 'mermelada' is the usual word for jam with fruit pulp)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "'Jalea' is more precisely 'jelly' (clear, no fruit pulp); 'mermelada' is the usual word for 'jam' — worth double-checking intended word"
+  },
+  {
+    "id": "row732",
+    "front": "hervir",
+    "back": "Calentar un líquido hasta que alcance su punto de ebullición y burbujee. Ejemplo: 'Pon a hervir el agua para la pasta.'",
+    "notes": "= to boil",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row734",
+    "front": "apenas",
+    "back": "Casi no, muy poco o con dificultad; también puede significar 'tan pronto como'. Ejemplo: 'Apenas tengo tiempo para comer.'",
+    "notes": "= barely/hardly (also 'as soon as' in some contexts)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row739",
+    "front": "suplementos",
+    "back": "Productos, generalmente vitaminas o nutrientes, que se toman para complementar la dieta. Ejemplo: 'Tomo suplementos de vitamina D en invierno.'",
+    "notes": "= supplements (source typo 'supplementos' with double p — correct Spanish spelling is one p)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row740",
+    "front": "tenis",
+    "back": "Calzado deportivo informal, usado especialmente en América Latina (en España se dice 'zapatillas' o 'deportivas'). Ejemplo: 'Me compré unos tenis nuevos para correr.'",
+    "notes": "= sneakers (Latin American term; Spain uses 'zapatillas'/'deportivas')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row742",
+    "front": "quedar (en/con)",
+    "back": "Acordar una cita o plan con alguien. Ejemplo: 'Hoy quedé con mis amigos para cenar' (se usa el pasado aunque el plan sea para el futuro, porque el acuerdo ya se hizo).",
+    "notes": "= to arrange to meet/make plans — past tense 'quedé' refers to when the plan was made, not necessarily when it happens",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row744",
+    "front": "ser al que le rompen el corazón",
+    "back": "Expresión que significa ser la persona que sufre una decepción amorosa, en vez de causarla. Ejemplo: 'Siempre soy yo al que le rompen el corazón, nunca al revés.'",
+    "notes": "= to be the one whose heart gets broken (uses the indirect-object construction typical of 'romper el corazón a alguien')",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row746",
+    "front": "nunca fue mi culpa",
+    "back": "Expresión que niega la responsabilidad de algo ocurrido en el pasado. Ejemplo: 'Nunca fue mi culpa que las cosas salieran mal.'",
+    "notes": "= it was never my fault (source shows two equivalent word orders: 'nunca fue' / 'no fue nunca' — both correct)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  }
+]
