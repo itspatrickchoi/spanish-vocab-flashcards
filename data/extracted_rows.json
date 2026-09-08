@@ -1,0 +1,7922 @@
+[
+  {
+    "row": 2,
+    "front_raw": "sick/pain in body",
+    "back_raw": "cuerpo cortado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 3,
+    "front_raw": "to stay in (an accomodation, not friends)",
+    "back_raw": "hospedarse -",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 4,
+    "front_raw": "Hostels",
+    "back_raw": "hostales,",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 5,
+    "front_raw": "I don't regret it",
+    "back_raw": "no me arrepiento",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 6,
+    "front_raw": "I went online (on the internet)",
+    "back_raw": "me metía a internet",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 7,
+    "front_raw": "fluff (like the stuff that a towel would shed on your clothes)",
+    "back_raw": "Pelusas",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 8,
+    "front_raw": "excuse",
+    "back_raw": "pretexto",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 9,
+    "front_raw": "sweat/sweaty",
+    "back_raw": "sudar/sudado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 10,
+    "front_raw": "It's rly hot.",
+    "back_raw": "hace mucho calor (not hace muy calor!)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 11,
+    "front_raw": "Depends on the hour when I wake up if I have breakfast or not.",
+    "back_raw": "Depende de la hora cuando me despierto si desayuno o si no. (Use \"si\" twice! Don't say \"...si desayuno o no\")",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 12,
+    "front_raw": "to focus / focus",
+    "back_raw": "poner atención / prestar atención / necesito concentrarme (no focus as verb in Spanish) / enfoque",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 13,
+    "front_raw": "Becoming a master in sth / I have become good at ..",
+    "back_raw": "me hecho experto / he dominado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 14,
+    "front_raw": "moving / static",
+    "back_raw": "en movimiento/estático",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 15,
+    "front_raw": "fear",
+    "back_raw": "el miedo",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 16,
+    "front_raw": "to get excited again",
+    "back_raw": "te regresa la emoción",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 17,
+    "front_raw": "a dish (Latin American?)",
+    "back_raw": "platillo better, not plato, plato is very big or a place (tho actually maybe more regional, like in Mexico)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 18,
+    "front_raw": "i feel bad after eating (like not sick but uncomfortable)",
+    "back_raw": "me cayó pesado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 19,
+    "front_raw": "bucket",
+    "back_raw": "cubeta",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 20,
+    "front_raw": "sticky",
+    "back_raw": "pegajoso/a",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 21,
+    "front_raw": "to crave / I feel like a pizza. / You are craving an ice cream.",
+    "back_raw": "Antojarse. Se + pronoun + antoja. Se me antoja una pizza. Se te antoja un helado.",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 22,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 23,
+    "front_raw": null,
+    "back_raw": "taquería, puestos de comida = imbiss tacos",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 24,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 25,
+    "front_raw": null,
+    "back_raw": "ha estado haciendo = he has been doing",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 26,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 27,
+    "front_raw": null,
+    "back_raw": "apegado / attached (but more negative, like money) / tener pego (?)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 28,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 29,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 30,
+    "front_raw": null,
+    "back_raw": "10.07",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 31,
+    "front_raw": null,
+    "back_raw": "traje completo",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 32,
+    "front_raw": null,
+    "back_raw": "saco",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 33,
+    "front_raw": null,
+    "back_raw": "corbata",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 34,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 35,
+    "front_raw": null,
+    "back_raw": "un amigo se va a quedar en roma un día",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 36,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 37,
+    "front_raw": null,
+    "back_raw": "berenjenas",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 38,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 39,
+    "front_raw": null,
+    "back_raw": "video (emphasize e)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 40,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 41,
+    "front_raw": null,
+    "back_raw": "la gente le compra a la gente",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 42,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 43,
+    "front_raw": null,
+    "back_raw": "confianza",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 44,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 45,
+    "front_raw": null,
+    "back_raw": "no es como que voy a ser reemplazado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 46,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 47,
+    "front_raw": null,
+    "back_raw": "almacén = warehouse",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 48,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 49,
+    "front_raw": null,
+    "back_raw": "en pantalla",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 50,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 51,
+    "front_raw": null,
+    "back_raw": "contrapeso",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 52,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 53,
+    "front_raw": null,
+    "back_raw": "blanco-negro (not negro y blanco)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 54,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 55,
+    "front_raw": null,
+    "back_raw": "matices",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 56,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 57,
+    "front_raw": null,
+    "back_raw": "15.07.2025",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 58,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 59,
+    "front_raw": null,
+    "back_raw": "madrugada",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 60,
+    "front_raw": null,
+    "back_raw": "medianoche",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 61,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 62,
+    "front_raw": null,
+    "back_raw": "desde LAS 6 hasta LAS 10 y media",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 63,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 64,
+    "front_raw": null,
+    "back_raw": "canapes",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 65,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 66,
+    "front_raw": null,
+    "back_raw": "orador -> speaker",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 67,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 68,
+    "front_raw": null,
+    "back_raw": "translator in speaking -> un interprete",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 69,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 70,
+    "front_raw": null,
+    "back_raw": "eran dos chicas",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 71,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 72,
+    "front_raw": null,
+    "back_raw": "apoyar (support) != soportar (aguantar/tolerar)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 73,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 74,
+    "front_raw": null,
+    "back_raw": "ubicar -> recognize",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 75,
+    "front_raw": null,
+    "back_raw": "lo ubico (i recognize this cartoon, )",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 76,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 77,
+    "front_raw": null,
+    "back_raw": "ingeniería",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 78,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 79,
+    "front_raw": null,
+    "back_raw": "edit -> modificar",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 80,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 81,
+    "front_raw": null,
+    "back_raw": "adn = dna",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 82,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 83,
+    "front_raw": null,
+    "back_raw": "doblar = fold",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 84,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 85,
+    "front_raw": null,
+    "back_raw": "duplicar",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 86,
+    "front_raw": null,
+    "back_raw": "se duplica la expectativa de vida",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 87,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 88,
+    "front_raw": null,
+    "back_raw": "purpose = proposito/razon",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 89,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 90,
+    "front_raw": null,
+    "back_raw": "me parece != aparecer",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 91,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 92,
+    "front_raw": null,
+    "back_raw": "mars = marte",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 93,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 94,
+    "front_raw": null,
+    "back_raw": "rueda = wheel",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 95,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 96,
+    "front_raw": null,
+    "back_raw": "!= encontrarme -> better juntarme",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 97,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 98,
+    "front_raw": null,
+    "back_raw": "ir de compras = shopping",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 99,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 100,
+    "front_raw": null,
+    "back_raw": "people come and go -> la gente va y viene",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 101,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 102,
+    "front_raw": null,
+    "back_raw": "sobreponer -> if talking about overlaps",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 103,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 104,
+    "front_raw": null,
+    "back_raw": "mientras crecíamos -> better to add this when talking about a longer narration in the past like when I was growing up with Danya, bc when you only have the imperfecto, one would expect an interrupting event with indefinido",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 105,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 106,
+    "front_raw": null,
+    "back_raw": "nuestros caminos se separaron",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 107,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 108,
+    "front_raw": null,
+    "back_raw": "Japón está en mi lista. -> bc location",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 109,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 110,
+    "front_raw": null,
+    "back_raw": "mandíbula = jaw",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 111,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 112,
+    "front_raw": null,
+    "back_raw": "por tres semanas (no para)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 113,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 114,
+    "front_raw": null,
+    "back_raw": ".. en cuanto ella muriera = as soon as she dies",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 115,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 116,
+    "front_raw": null,
+    "back_raw": "pues",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 117,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 118,
+    "front_raw": null,
+    "back_raw": "en un plan de = in a mood to..",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 119,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 120,
+    "front_raw": null,
+    "back_raw": "no dejes de.. = don't forget/allow yourself...it's very important",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 121,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 122,
+    "front_raw": null,
+    "back_raw": "![[Pasted image 20250723172020.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 123,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 124,
+    "front_raw": null,
+    "back_raw": "se lo seguí diciendo -> i kept telling her so much",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 125,
+    "front_raw": null,
+    "back_raw": "zafarse = liberarse",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 126,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 127,
+    "front_raw": null,
+    "back_raw": "les costó trabajo -> said very often in mexico -> took work/effort",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 128,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 129,
+    "front_raw": null,
+    "back_raw": "Exígelo -> demand what is ours -> mandatory request",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 130,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 131,
+    "front_raw": null,
+    "back_raw": "cobrarse -> ask for paying / charge",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 132,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 133,
+    "front_raw": null,
+    "back_raw": "darle vuelo -> to excite someone about....(bit too much/very enthusiastically - not necessarily bad)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 134,
+    "front_raw": null,
+    "back_raw": "![[Pasted image 20250723173322.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 135,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 136,
+    "front_raw": null,
+    "back_raw": "![[Pasted image 20250724181358.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 137,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 138,
+    "front_raw": null,
+    "back_raw": "canícula -> hottest days of the year, 40 days, in latinoamerica, like in mexico they talk about this, also says in spain",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 139,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 140,
+    "front_raw": null,
+    "back_raw": "soplar -> blow",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 141,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 142,
+    "front_raw": null,
+    "back_raw": "envenenar -> poison",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 143,
+    "front_raw": null,
+    "back_raw": "podrido -> expired",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 144,
+    "front_raw": null,
+    "back_raw": "saponarias -> a flower",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 145,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 146,
+    "front_raw": null,
+    "back_raw": "según -> depending on",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 147,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 148,
+    "front_raw": null,
+    "back_raw": "(this novel is not to take things literally)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 149,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 150,
+    "front_raw": null,
+    "back_raw": "capacitación",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 151,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 152,
+    "front_raw": null,
+    "back_raw": "zoológico",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 153,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 154,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 155,
+    "front_raw": null,
+    "back_raw": "similar a",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 156,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 157,
+    "front_raw": null,
+    "back_raw": "derretir = melt",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 158,
+    "front_raw": null,
+    "back_raw": "derretido",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 159,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 160,
+    "front_raw": null,
+    "back_raw": "auroras boreales = polar lights",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 161,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 162,
+    "front_raw": null,
+    "back_raw": "las nubes",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 163,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 164,
+    "front_raw": null,
+    "back_raw": "anotar = take notes",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 165,
+    "front_raw": null,
+    "back_raw": "notar = notice",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 166,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 167,
+    "front_raw": null,
+    "back_raw": "sean",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 168,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 169,
+    "front_raw": null,
+    "back_raw": "afectivos",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 170,
+    "front_raw": null,
+    "back_raw": "afecto",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 171,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 172,
+    "front_raw": null,
+    "back_raw": "calida = warm people",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 173,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 174,
+    "front_raw": null,
+    "back_raw": "educar, criar",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 175,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 176,
+    "front_raw": null,
+    "back_raw": "13.08.2025",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 177,
+    "front_raw": null,
+    "back_raw": "ingeniería",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 178,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 179,
+    "front_raw": null,
+    "back_raw": "Alemania -> feminina -> es conocida",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 180,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 181,
+    "front_raw": null,
+    "back_raw": "trabajadores calificados -> masculino",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 182,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 183,
+    "front_raw": null,
+    "back_raw": "Podcast -> temas abstractos -> but still listen few more times and try to",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 184,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 185,
+    "front_raw": null,
+    "back_raw": "la gente mayor",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 186,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 187,
+    "front_raw": null,
+    "back_raw": "comformarse",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 188,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 189,
+    "front_raw": null,
+    "back_raw": "paracer = appear",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 190,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 191,
+    "front_raw": null,
+    "back_raw": "polite = educado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 192,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 193,
+    "front_raw": null,
+    "back_raw": "cuestionarse algo",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 194,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 195,
+    "front_raw": null,
+    "back_raw": "grosero = unpolite",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 196,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 197,
+    "front_raw": null,
+    "back_raw": "más de cien euros",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 198,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 199,
+    "front_raw": null,
+    "back_raw": "envuelto = wrapped",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 200,
+    "front_raw": null,
+    "back_raw": "involucrado = involved",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 201,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 202,
+    "front_raw": null,
+    "back_raw": "políticos = politicians",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 203,
+    "front_raw": null,
+    "back_raw": "política = politics (singular)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 204,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 205,
+    "front_raw": null,
+    "back_raw": "la gente se vuelve más de derecha",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 206,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 207,
+    "front_raw": null,
+    "back_raw": "deprimente = depressing",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 208,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 209,
+    "front_raw": null,
+    "back_raw": "que apoyen sus opiniones",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 210,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 211,
+    "front_raw": null,
+    "back_raw": "14.08.2025",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 212,
+    "front_raw": null,
+    "back_raw": "- estoy aliviado, me siento aliviado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 213,
+    "front_raw": null,
+    "back_raw": "- alivio",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 214,
+    "front_raw": null,
+    "back_raw": "- -> relief",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 215,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 216,
+    "front_raw": null,
+    "back_raw": "Plaza: ![[image-72.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 217,
+    "front_raw": null,
+    "back_raw": "concurso",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 218,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 219,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 220,
+    "front_raw": null,
+    "back_raw": "prefiero que esté soleado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 221,
+    "front_raw": null,
+    "back_raw": "prefiero que el clima sea caluroso",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 222,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 223,
+    "front_raw": null,
+    "back_raw": "templado = moderate (climate) (usually used for climate, another one is cristal templado (special glass))",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 224,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 225,
+    "front_raw": null,
+    "back_raw": "ensuciar = make dirty (special word, better than \"hacer sucio tu ropa\")",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 226,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 227,
+    "front_raw": null,
+    "back_raw": "la probabilidad de que el parque sea más cómodo es más alta",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 228,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 229,
+    "front_raw": null,
+    "back_raw": "-",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 230,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 231,
+    "front_raw": null,
+    "back_raw": "Entre más buena sea la calidad es mejor = the better quality the better",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 232,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 233,
+    "front_raw": null,
+    "back_raw": "...un lugar en el que TE sientas",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 234,
+    "front_raw": null,
+    "back_raw": "sentirse (pronominal!)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 235,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 236,
+    "front_raw": null,
+    "back_raw": "---",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 237,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 238,
+    "front_raw": null,
+    "back_raw": "había sol/lluvia",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 239,
+    "front_raw": null,
+    "back_raw": "hacía calor/frío",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 240,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 241,
+    "front_raw": null,
+    "back_raw": "el agua (feminina)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 242,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 243,
+    "front_raw": null,
+    "back_raw": "desconectado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 244,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 245,
+    "front_raw": null,
+    "back_raw": "tentadora",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 246,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 247,
+    "front_raw": null,
+    "back_raw": "sandalias",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 248,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 249,
+    "front_raw": null,
+    "back_raw": "tenis = sneakers",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 250,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 251,
+    "front_raw": null,
+    "back_raw": "cuando oscurece = when it got dark",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 252,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 253,
+    "front_raw": null,
+    "back_raw": "decepcionantes = disappointing",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 254,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 255,
+    "front_raw": null,
+    "back_raw": "estafas = scammers",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 256,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 257,
+    "front_raw": null,
+    "back_raw": "prevenir = prevent",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 258,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 259,
+    "front_raw": null,
+    "back_raw": "estar bien hidratado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 260,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 261,
+    "front_raw": null,
+    "back_raw": "lesiones = injuries",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 262,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 263,
+    "front_raw": null,
+    "back_raw": "tren superior/inferior = upper/lower body (to train)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 264,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 265,
+    "front_raw": null,
+    "back_raw": "saltos = jumps",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 266,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 267,
+    "front_raw": null,
+    "back_raw": "roncar = snore",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 268,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 269,
+    "front_raw": null,
+    "back_raw": "--",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 270,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 271,
+    "front_raw": null,
+    "back_raw": "compraventas = retail, wholesale (more business term)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 272,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 273,
+    "front_raw": null,
+    "back_raw": "reconocimiento = recognition",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 274,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 275,
+    "front_raw": null,
+    "back_raw": "juicio = trial",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 276,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 277,
+    "front_raw": null,
+    "back_raw": "halagar = flatter",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 278,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 279,
+    "front_raw": null,
+    "back_raw": "las pesas = the weights",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 280,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 281,
+    "front_raw": null,
+    "back_raw": "miedo al fracaso",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 282,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 283,
+    "front_raw": null,
+    "back_raw": "el arma de doble filo = double edged sword",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 284,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 285,
+    "front_raw": null,
+    "back_raw": "dejalo ir = let it go",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 286,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 287,
+    "front_raw": null,
+    "back_raw": "advertencia = warning",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 288,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 289,
+    "front_raw": null,
+    "back_raw": "publicidad = marketing",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 290,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 291,
+    "front_raw": null,
+    "back_raw": "anuncio = ads",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 292,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 293,
+    "front_raw": null,
+    "back_raw": "aterrador = frightening",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 294,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 295,
+    "front_raw": null,
+    "back_raw": "beneficiarse = profit",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 296,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 297,
+    "front_raw": null,
+    "back_raw": "dato = fact",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 298,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 299,
+    "front_raw": null,
+    "back_raw": "paz mental",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 300,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 301,
+    "front_raw": null,
+    "back_raw": "sudeste asiatico",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 302,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 303,
+    "front_raw": null,
+    "back_raw": "convertir CO2 (se-o-dos) en oxigeno",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 304,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 305,
+    "front_raw": null,
+    "back_raw": "el planeta",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 306,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 307,
+    "front_raw": null,
+    "back_raw": "concha = shell",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 308,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 309,
+    "front_raw": null,
+    "back_raw": "comercio",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 310,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 311,
+    "front_raw": null,
+    "back_raw": "una senal",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 312,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 313,
+    "front_raw": null,
+    "back_raw": "--",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 314,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 315,
+    "front_raw": null,
+    "back_raw": "- piedras en el riñón/ riñones",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 316,
+    "front_raw": null,
+    "back_raw": "- cuerda = jumping rope",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 317,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 318,
+    "front_raw": null,
+    "back_raw": "![[image-100.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 319,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 320,
+    "front_raw": null,
+    "back_raw": "preparar",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 321,
+    "front_raw": null,
+    "back_raw": "prepararme = get myself ready (pronominal)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 322,
+    "front_raw": null,
+    "back_raw": "apurarme = hurry myself up",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 323,
+    "front_raw": null,
+    "back_raw": "apurar",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 324,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 325,
+    "front_raw": null,
+    "back_raw": "![[image-114.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 326,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 327,
+    "front_raw": null,
+    "back_raw": "apto = apt",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 328,
+    "front_raw": null,
+    "back_raw": "apropiado = appropriate (topic) (maybe better use this than apto)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 329,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 330,
+    "front_raw": null,
+    "back_raw": "![[image-116.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 331,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 332,
+    "front_raw": null,
+    "back_raw": "![[image-117.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 333,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 334,
+    "front_raw": null,
+    "back_raw": "estar más alerta (alerta is a noun here)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 335,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 336,
+    "front_raw": null,
+    "back_raw": "estar alterado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 337,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 338,
+    "front_raw": null,
+    "back_raw": "![[image-118.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 339,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 340,
+    "front_raw": null,
+    "back_raw": "desconocía otros areas en vida",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 341,
+    "front_raw": null,
+    "back_raw": "desconocer = seems like it doesnt exist",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 342,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 343,
+    "front_raw": null,
+    "back_raw": "incluso si = even if",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 344,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 345,
+    "front_raw": null,
+    "back_raw": "incluso si no me enfoco en 2-3 proyectos mi vida no va a pararse, acabarse",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 346,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 347,
+    "front_raw": null,
+    "back_raw": "calma (noun)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 348,
+    "front_raw": null,
+    "back_raw": "calmado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 349,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 350,
+    "front_raw": null,
+    "back_raw": "balanceado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 351,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 352,
+    "front_raw": null,
+    "back_raw": "-",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 353,
+    "front_raw": null,
+    "back_raw": "congestionada -",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 354,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 355,
+    "front_raw": null,
+    "back_raw": "de vez en cuando - every once in a while",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 356,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 357,
+    "front_raw": null,
+    "back_raw": "realizo != me doy cuenta",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 358,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 359,
+    "front_raw": null,
+    "back_raw": "higiene de sueno",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 360,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 361,
+    "front_raw": null,
+    "back_raw": "![[image-119.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 362,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 363,
+    "front_raw": null,
+    "back_raw": "![[image-121.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 364,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 365,
+    "front_raw": null,
+    "back_raw": "![[image-122.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 366,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 367,
+    "front_raw": null,
+    "back_raw": "no me hagas empezar = don't get me started on..",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 368,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 369,
+    "front_raw": null,
+    "back_raw": "![[image-124.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 370,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 371,
+    "front_raw": null,
+    "back_raw": "ingenuo = naive",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 372,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 373,
+    "front_raw": null,
+    "back_raw": "-",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 374,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 375,
+    "front_raw": null,
+    "back_raw": "juez = judge",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 376,
+    "front_raw": null,
+    "back_raw": "vergonzoso = embarassing",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 377,
+    "front_raw": null,
+    "back_raw": "adquirir",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 378,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 379,
+    "front_raw": null,
+    "back_raw": "graduarse - ellos se graduaron",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 380,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 381,
+    "front_raw": null,
+    "back_raw": "recrutamiento",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 382,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 383,
+    "front_raw": null,
+    "back_raw": "mentalidad = mindset",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 384,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 385,
+    "front_raw": null,
+    "back_raw": "ingeniería",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 386,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 387,
+    "front_raw": null,
+    "back_raw": "![[image-139.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 388,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 389,
+    "front_raw": null,
+    "back_raw": "un nicho que lo hace destacar / que destaca al producto",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 390,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 391,
+    "front_raw": null,
+    "back_raw": "arriesgado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 392,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 393,
+    "front_raw": null,
+    "back_raw": "tener prisa",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 394,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 395,
+    "front_raw": null,
+    "back_raw": "viajes muy anticipados",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 396,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 397,
+    "front_raw": null,
+    "back_raw": "![[image-140.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 398,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 399,
+    "front_raw": null,
+    "back_raw": "irreversible",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 400,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 401,
+    "front_raw": null,
+    "back_raw": "terraza común -> no \"comuna\", no hay feminina",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 402,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 403,
+    "front_raw": null,
+    "back_raw": "solo debo acostumbrarme",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 404,
+    "front_raw": null,
+    "back_raw": "aún no estoy acostumbrado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 405,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 406,
+    "front_raw": null,
+    "back_raw": "sotano = basement",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 407,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 408,
+    "front_raw": null,
+    "back_raw": "![[image-149.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 409,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 410,
+    "front_raw": null,
+    "back_raw": "es mejor trabajar presencial (adverbio)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 411,
+    "front_raw": null,
+    "back_raw": "es mejor hacer trámites presenciales (adjetivo)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 412,
+    "front_raw": null,
+    "back_raw": "tramite -> cosas/procesos (admin/bureaucry, can be many other things, like inscribing)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 413,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 414,
+    "front_raw": null,
+    "back_raw": "tomar decision / no hacer",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 415,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 416,
+    "front_raw": null,
+    "back_raw": "blanco y negro (not reverse order!)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 417,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 418,
+    "front_raw": null,
+    "back_raw": "nos benefician",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 419,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 420,
+    "front_raw": null,
+    "back_raw": "![[image-150.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 421,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 422,
+    "front_raw": null,
+    "back_raw": "cosas -> always add articulo -> las cosas",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 423,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 424,
+    "front_raw": null,
+    "back_raw": "parecer != parecerse",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 425,
+    "front_raw": null,
+    "back_raw": "las cosas parecen muy buenas",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 426,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 427,
+    "front_raw": null,
+    "back_raw": "- [ ] Transfer to anki the vocab, i asked chatgpt till before the connector screenshots, but i see that chatgpt cheated and ignored many words...",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 428,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 429,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 430,
+    "front_raw": null,
+    "back_raw": "20.10.2025",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 431,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 432,
+    "front_raw": null,
+    "back_raw": "si no lo sabes / conocess -> differnt meanings",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 433,
+    "front_raw": null,
+    "back_raw": "sweater / suéter",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 434,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 435,
+    "front_raw": null,
+    "back_raw": "![[image-151.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 436,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 437,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 438,
+    "front_raw": null,
+    "back_raw": "maquillaje",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 439,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 440,
+    "front_raw": null,
+    "back_raw": "moda",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 441,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 442,
+    "front_raw": null,
+    "back_raw": "![[image-152.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 443,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 444,
+    "front_raw": null,
+    "back_raw": "fuentes de ingreso",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 445,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 446,
+    "front_raw": null,
+    "back_raw": "![[image-153.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 447,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 448,
+    "front_raw": null,
+    "back_raw": "homebase/ lugarbase",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 449,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 450,
+    "front_raw": null,
+    "back_raw": "tú mismo -> general (yourself)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 451,
+    "front_raw": null,
+    "back_raw": "tú misma -> specifically to Marci",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 452,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 453,
+    "front_raw": null,
+    "back_raw": "hay dos lados -> correcto, pero puede ser aún más avanzado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 454,
+    "front_raw": null,
+    "back_raw": "-> hay dos lados de moneda / no es todo blanco-negro",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 455,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 456,
+    "front_raw": null,
+    "back_raw": "una corrida de caridad",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 457,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 458,
+    "front_raw": null,
+    "back_raw": "record - récord",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 459,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 460,
+    "front_raw": null,
+    "back_raw": "23.10.2025",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 461,
+    "front_raw": null,
+    "back_raw": "Para EL almuerzo",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 462,
+    "front_raw": null,
+    "back_raw": "Cosas difícil para contar como agua o aire, no necesito artículo",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 463,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 464,
+    "front_raw": null,
+    "back_raw": "Después ir a trabajar FALSO",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 465,
+    "front_raw": null,
+    "back_raw": "MEJOR después voy a trabajar",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 466,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 467,
+    "front_raw": null,
+    "back_raw": "Puedo buscar lo que está más cerca.",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 468,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 469,
+    "front_raw": null,
+    "back_raw": "-",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 470,
+    "front_raw": null,
+    "back_raw": "me da lo mismo = no me importa (como neutral, indiferente)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 471,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 472,
+    "front_raw": null,
+    "back_raw": "apenas = just (temporal)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 473,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 474,
+    "front_raw": null,
+    "back_raw": "renglón = line",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 475,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 476,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 477,
+    "front_raw": null,
+    "back_raw": "- [x] Homework: Escribe un resumen del texto La Autopista del Sur de Julio Cortázar first section",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 478,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 479,
+    "front_raw": null,
+    "back_raw": "04.11.2025",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 480,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 481,
+    "front_raw": null,
+    "back_raw": "está a 30min",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 482,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 483,
+    "front_raw": null,
+    "back_raw": "adverbio: -mente, pero no necesariamente",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 484,
+    "front_raw": null,
+    "back_raw": "-> neutral/masculino",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 485,
+    "front_raw": null,
+    "back_raw": "-> se movía lento (not lenta)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 486,
+    "front_raw": null,
+    "back_raw": "-> lentamente is the same as lento, both can be adverbs",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 487,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 488,
+    "front_raw": null,
+    "back_raw": "bastante -> again, depends on what it refers to:",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 489,
+    "front_raw": null,
+    "back_raw": "- Parecían bastante impacientes",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 490,
+    "front_raw": null,
+    "back_raw": "- En el concierto hay bastantes personas.",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 491,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 492,
+    "front_raw": null,
+    "back_raw": "hacian desbordes exasperados",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 493,
+    "front_raw": null,
+    "back_raw": "-> not tenían",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 494,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 495,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 496,
+    "front_raw": null,
+    "back_raw": "![[image-244.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 497,
+    "front_raw": null,
+    "back_raw": "![[image-245.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 498,
+    "front_raw": null,
+    "back_raw": "Anadimos \"a\" pq es muy muy especifico",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 499,
+    "front_raw": null,
+    "back_raw": "![[image-246.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 500,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 501,
+    "front_raw": null,
+    "back_raw": "In this section of the text, el tiempo is the subject here, that's why I was confused, like I was like who is the subject/narrator/central person, bc who is that person or point of reference who is telling us that on the left is that girl and on the right is the other?",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 502,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 503,
+    "front_raw": null,
+    "back_raw": "So in my last sentence I was talking about this, and Marcia was confused I only wrote \"cambiando\" and not \"intercambiando\", even though in the original text was also \"cambiar\", but apparently there it was clear bc of context prior.",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 504,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 505,
+    "front_raw": null,
+    "back_raw": "So she told me to read story again with \"el tiempo\" as subject/narrator. And yes, it's weird that the \"time\" is like apparently looking at the rearview mirror, and all these other actions (infitinitivo verbs), but well, it's a realism fantasy style/epoca, so things don't make literal sense..",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 506,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 507,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 508,
+    "front_raw": null,
+    "back_raw": "![[image-247.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 509,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 510,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 511,
+    "front_raw": null,
+    "back_raw": "--",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 512,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 513,
+    "front_raw": null,
+    "back_raw": "me di cuenta -> not say \"realicé\"",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 514,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 515,
+    "front_raw": null,
+    "back_raw": "colina = hill",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 516,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 517,
+    "front_raw": null,
+    "back_raw": "live music = música en vivo",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 518,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 519,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 520,
+    "front_raw": null,
+    "back_raw": "![[image-365.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 521,
+    "front_raw": null,
+    "back_raw": "-> people -> with \"a\" -> always in general!",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 522,
+    "front_raw": null,
+    "back_raw": "-> object/animals/not people -> not \"a\" except for every specific, most famous",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 523,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 524,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 525,
+    "front_raw": null,
+    "back_raw": "con todo - go for it",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 526,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 527,
+    "front_raw": null,
+    "back_raw": "embotellamiento = traffic jam",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 528,
+    "front_raw": null,
+    "back_raw": "enervante = muy frustante",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 529,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 530,
+    "front_raw": null,
+    "back_raw": "se suma = to add",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 531,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 532,
+    "front_raw": null,
+    "back_raw": "a ras = at the edge (but extremely)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 533,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 534,
+    "front_raw": null,
+    "back_raw": "shave head \"a ras\", shave to the skin",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 535,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 536,
+    "front_raw": null,
+    "back_raw": "orilla = edge",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 537,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 538,
+    "front_raw": null,
+    "back_raw": "para colmo = like what, even more?? (like encima, but in very negativo)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 539,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 540,
+    "front_raw": null,
+    "back_raw": "franja = linea divisoria, tira (?)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 541,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 542,
+    "front_raw": null,
+    "back_raw": "salvo = excepto",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 543,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 544,
+    "front_raw": null,
+    "back_raw": "antipaticos = negative attitude (?)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 545,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 546,
+    "front_raw": null,
+    "back_raw": "trecho y trecho = moment to moment (?)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 547,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 548,
+    "front_raw": null,
+    "back_raw": "quebrar = romper",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 549,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 550,
+    "front_raw": null,
+    "back_raw": "- [x] Make summary of second paragraph until \"...quebrar lo peor del embotellamiento.\"",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 551,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 552,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 553,
+    "front_raw": null,
+    "back_raw": "16.11.2025",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 554,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 555,
+    "front_raw": null,
+    "back_raw": "a mediados de diciembre",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 556,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 557,
+    "front_raw": null,
+    "back_raw": "nme di cuenta DE",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 558,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 559,
+    "front_raw": null,
+    "back_raw": "hectic -> muy intenso",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 560,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 561,
+    "front_raw": null,
+    "back_raw": "MOST cases:",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 562,
+    "front_raw": null,
+    "back_raw": "Pienso que/creo que + subjuntivo",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 563,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 564,
+    "front_raw": null,
+    "back_raw": "Seguro que + indicativo",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 565,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 566,
+    "front_raw": null,
+    "back_raw": "caber = fit",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 567,
+    "front_raw": null,
+    "back_raw": "no cabe duda -> no doubt!",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 568,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 569,
+    "front_raw": null,
+    "back_raw": "frase sentenciosa ->",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 570,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 571,
+    "front_raw": null,
+    "back_raw": "condena -> conviction",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 572,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 573,
+    "front_raw": null,
+    "back_raw": "convenido -> convenience verb",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 574,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 575,
+    "front_raw": null,
+    "back_raw": "huerto -> pequena jardin con frutas, no es solo jardin",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 576,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 577,
+    "front_raw": null,
+    "back_raw": "hortalizas -> frutas, vegetales/verduras",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 578,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 579,
+    "front_raw": null,
+    "back_raw": "cocinera = cook/chef",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 580,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 581,
+    "front_raw": null,
+    "back_raw": "atropello = hit-and-run",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 582,
+    "front_raw": null,
+    "back_raw": "atropellar = run over",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 583,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 584,
+    "front_raw": null,
+    "back_raw": "millar = multiples miles = thousands",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 585,
+    "front_raw": null,
+    "back_raw": "millares = multiple thousands",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 586,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 587,
+    "front_raw": null,
+    "back_raw": "someter = submit, bring under, subject, put through",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 588,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 589,
+    "front_raw": null,
+    "back_raw": "por principio = as a matter of principle != al principio",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 590,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 591,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 592,
+    "front_raw": null,
+    "back_raw": "19.11.25",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 593,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 594,
+    "front_raw": null,
+    "back_raw": "- Mercurio retrogrado -> is a Spanish saying that says it affects the communication etc",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 595,
+    "front_raw": "- ![[image-380.png]]",
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": false
+  },
+  {
+    "row": 596,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 597,
+    "front_raw": null,
+    "back_raw": "OCD = TOC",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 598,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 599,
+    "front_raw": null,
+    "back_raw": "- eres descanchada",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 600,
+    "front_raw": "- It comes from **“cancha” = court/field** (sports).",
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": false
+  },
+  {
+    "row": 601,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": "So _descanchado_ literally means **“off the field / out of practice / rusty.”**",
+    "hidden": true,
+    "is_empty": false
+  },
+  {
+    "row": 602,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": "**It does _not_ mean “off the court physically.”**",
+    "hidden": true,
+    "is_empty": false
+  },
+  {
+    "row": 603,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": "It means your “skills are off,” “you’re out of rhythm,” “you’re not sharp right now.”",
+    "hidden": true,
+    "is_empty": false
+  },
+  {
+    "row": 604,
+    "front_raw": "- How it’s used:",
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": false
+  },
+  {
+    "row": 605,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": "- “Estoy bien descanchado para el fútbol”",
+    "hidden": true,
+    "is_empty": false
+  },
+  {
+    "row": 606,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": "→ “I’m really rusty at football.”",
+    "hidden": true,
+    "is_empty": false
+  },
+  {
+    "row": 607,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": "- “No he tocado el piano en meses, ya ando descanchado.”",
+    "hidden": true,
+    "is_empty": false
+  },
+  {
+    "row": 608,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": "→ “I haven’t played piano in months, I’m kinda out of practice.”",
+    "hidden": true,
+    "is_empty": false
+  },
+  {
+    "row": 609,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": "- “Eres medio descanchado para ligar hoy, ¿eh?”",
+    "hidden": true,
+    "is_empty": false
+  },
+  {
+    "row": 610,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": "→ “You’re kinda off your flirting game today, huh?” 😏 (joking)",
+    "hidden": true,
+    "is_empty": false
+  },
+  {
+    "row": 611,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 612,
+    "front_raw": null,
+    "back_raw": "buscar agradar -> people pleaser",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 613,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 614,
+    "front_raw": null,
+    "back_raw": "![[image-423.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 615,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 616,
+    "front_raw": null,
+    "back_raw": "my astrology chart:",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 617,
+    "front_raw": null,
+    "back_raw": "Acuario:",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 618,
+    "front_raw": null,
+    "back_raw": "lo que me favorecen:",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 619,
+    "front_raw": null,
+    "back_raw": "- need to take care of my corazon, and cardiac",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 620,
+    "front_raw": null,
+    "back_raw": "- miercoles",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 621,
+    "front_raw": null,
+    "back_raw": "- azul electrico",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 622,
+    "front_raw": null,
+    "back_raw": "- amatista",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 623,
+    "front_raw": null,
+    "back_raw": "- flor: orchidia",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 624,
+    "front_raw": null,
+    "back_raw": "- arboles frutales",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 625,
+    "front_raw": null,
+    "back_raw": "- metal: uranio",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 626,
+    "front_raw": null,
+    "back_raw": "- animales grandes",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 627,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 628,
+    "front_raw": null,
+    "back_raw": "mis peligros:",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 629,
+    "front_raw": null,
+    "back_raw": "- innovadores, poco convencional",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 630,
+    "front_raw": null,
+    "back_raw": "- gente poco abierta",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 631,
+    "front_raw": null,
+    "back_raw": "- a veces me meto en situaciones extranas",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 632,
+    "front_raw": null,
+    "back_raw": "- visionario, el futuro",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 633,
+    "front_raw": null,
+    "back_raw": "- gente original",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 634,
+    "front_raw": null,
+    "back_raw": "- poco ortodoxa",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 635,
+    "front_raw": null,
+    "back_raw": "- no les gusta seguir a la multitud (crowd)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 636,
+    "front_raw": null,
+    "back_raw": "- ir a su manera",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 637,
+    "front_raw": null,
+    "back_raw": "- capacidad intellectual muy independiente",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 638,
+    "front_raw": null,
+    "back_raw": "- opiniones firmas",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 639,
+    "front_raw": null,
+    "back_raw": "- poco flexible",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 640,
+    "front_raw": null,
+    "back_raw": "- lo escribes en piedra = written in stone",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 641,
+    "front_raw": null,
+    "back_raw": "- mezcla de paradoxos",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 642,
+    "front_raw": null,
+    "back_raw": "- signo de aire",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 643,
+    "front_raw": null,
+    "back_raw": "- ...",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 644,
+    "front_raw": null,
+    "back_raw": "- no juzgas",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 645,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 646,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 647,
+    "front_raw": null,
+    "back_raw": "27.11.2025",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 648,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 649,
+    "front_raw": null,
+    "back_raw": "precavida - tomar precauciones",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 650,
+    "front_raw": null,
+    "back_raw": "marea - tide",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 651,
+    "front_raw": null,
+    "back_raw": "caparazón - shell para tortuga y cangrejo",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 652,
+    "front_raw": null,
+    "back_raw": "conchas - shells others in the beach",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 653,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 654,
+    "front_raw": null,
+    "back_raw": "a la misma hora (not tiempo)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 655,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 656,
+    "front_raw": null,
+    "back_raw": "hermano mayor",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 657,
+    "front_raw": null,
+    "back_raw": "mayor -> alr the mas grande",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 658,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 659,
+    "front_raw": null,
+    "back_raw": "camiones = trucks",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 660,
+    "front_raw": null,
+    "back_raw": "pipas = truck with liquids",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 661,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 662,
+    "front_raw": null,
+    "back_raw": "consultoría = consulting",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 663,
+    "front_raw": null,
+    "back_raw": "consulta = more for medical",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 664,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 665,
+    "front_raw": null,
+    "back_raw": "voluntaria = adjective voluntary",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 666,
+    "front_raw": null,
+    "back_raw": "voluntariado = noun",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 667,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 668,
+    "front_raw": null,
+    "back_raw": "ucrania = ukraine",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 669,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 670,
+    "front_raw": null,
+    "back_raw": "laico = secular (like education not religious)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 671,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 672,
+    "front_raw": null,
+    "back_raw": "contrabanda = smuggling",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 673,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 674,
+    "front_raw": null,
+    "back_raw": "pervertir -> verb more complex than just a sexual pervert",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 675,
+    "front_raw": null,
+    "back_raw": "![[image-432.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 676,
+    "front_raw": null,
+    "back_raw": "- se pervierta",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 677,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 678,
+    "front_raw": null,
+    "back_raw": "tentador = tempting",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 679,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 680,
+    "front_raw": null,
+    "back_raw": "she worked at disney in orlando, at an attraction park, hace 10 anos, roller coaster, through school program",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 681,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 682,
+    "front_raw": null,
+    "back_raw": "no lo puedes hacer sentir mal = you cant make them feel bad",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 683,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 684,
+    "front_raw": null,
+    "back_raw": "una brújula moral = moral compass",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 685,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 686,
+    "front_raw": null,
+    "back_raw": "cosa buena -> generally order is noun adjetivo - but hay excepciones",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 687,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 688,
+    "front_raw": null,
+    "back_raw": "piratería = pirating",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 689,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 690,
+    "front_raw": null,
+    "back_raw": "affordable = accessibles, pagables",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 691,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 692,
+    "front_raw": null,
+    "back_raw": "- ya van a tener la foto sin viajar",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 693,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 694,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 695,
+    "front_raw": null,
+    "back_raw": "-",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 696,
+    "front_raw": null,
+    "back_raw": "07.12.2025",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 697,
+    "front_raw": null,
+    "back_raw": "literal -> noun adjetivo",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 698,
+    "front_raw": null,
+    "back_raw": "adjetivo noun -> opinion",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 699,
+    "front_raw": null,
+    "back_raw": "la interesante mujer",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 700,
+    "front_raw": null,
+    "back_raw": "la gran mujer",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 701,
+    "front_raw": null,
+    "back_raw": "some adjectives are naturally subjective like buena, both orders are good",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 702,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 703,
+    "front_raw": null,
+    "back_raw": "borroso = blurry",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 704,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 705,
+    "front_raw": null,
+    "back_raw": "chirriante",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 706,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 707,
+    "front_raw": null,
+    "back_raw": "- [ ] Create excel file to work with, where i can export file to Anki flashcards",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 708,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 709,
+    "front_raw": null,
+    "back_raw": "puesto = job role",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 710,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 711,
+    "front_raw": null,
+    "back_raw": "404 = cuatro cientos cuatro (without y)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 712,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 713,
+    "front_raw": null,
+    "back_raw": "maleza = a lot of plants, vegtation",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 714,
+    "front_raw": null,
+    "back_raw": "inalcanzable = inapprochalble",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 715,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 716,
+    "front_raw": null,
+    "back_raw": "deslizar = swipe, move like a snake?",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 717,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 718,
+    "front_raw": null,
+    "back_raw": "al cabo = después de un momento",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 719,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 720,
+    "front_raw": null,
+    "back_raw": "bocina = speaker, horn (claxon) (beep beep)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 721,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 722,
+    "front_raw": null,
+    "back_raw": "furgón = truck",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 723,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 724,
+    "front_raw": null,
+    "back_raw": "procedentes = vienen de",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 725,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 726,
+    "front_raw": null,
+    "back_raw": "granja = farm",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 727,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 728,
+    "front_raw": null,
+    "back_raw": "nimio = insignificant",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 729,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 730,
+    "front_raw": null,
+    "back_raw": "jalea = jam",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 731,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 732,
+    "front_raw": null,
+    "back_raw": "hervir = boil",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 733,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 734,
+    "front_raw": null,
+    "back_raw": "apenas = muy poco",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 735,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 736,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 737,
+    "front_raw": null,
+    "back_raw": "17.12.2025",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 738,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 739,
+    "front_raw": null,
+    "back_raw": "supplementos",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 740,
+    "front_raw": null,
+    "back_raw": "tenis = sneakers (Latin America)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 741,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 742,
+    "front_raw": null,
+    "back_raw": "hoy quedé (planned/organized sth, so actually in the past)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 743,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 744,
+    "front_raw": null,
+    "back_raw": "yo soy al que le rompen el corazon",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 745,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 746,
+    "front_raw": null,
+    "back_raw": "nunca fue mi culpa = no fue nunca mi culpa",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 747,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 748,
+    "front_raw": null,
+    "back_raw": "no eran compatibles",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 749,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 750,
+    "front_raw": null,
+    "back_raw": "todo llegó al pico",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 751,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 752,
+    "front_raw": null,
+    "back_raw": "se distanció / se retractó",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 753,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 754,
+    "front_raw": null,
+    "back_raw": "le da me gusta = she liked",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 755,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 756,
+    "front_raw": null,
+    "back_raw": "cualidad = character/personal quality",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 757,
+    "front_raw": null,
+    "back_raw": "calidad = object",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 758,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 759,
+    "front_raw": null,
+    "back_raw": "el que persevera, alcanza.",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 760,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 761,
+    "front_raw": null,
+    "back_raw": "Marcia: #lesson",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 762,
+    "front_raw": "She never writes, but if the girls from Budapest trip said they were interested in seeing you again, then that's alr a lot. Ofc they would like you to write them again. Not just leave the conversation like this. Maybe you break their hearts.",
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": false
+  },
+  {
+    "row": 763,
+    "front_raw": "And like, yeah, well, now in person, you will have to pay attention to the signals, like how do they behave. Yeah, sometimes girls get more nervous, play around with hair, get more introverted.",
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": false
+  },
+  {
+    "row": 764,
+    "front_raw": "But whatever with relationships that dont work, dont take it personally. There is nothing wrong with you most cases.",
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": false
+  },
+  {
+    "row": 765,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 766,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 767,
+    "front_raw": null,
+    "back_raw": "no me senté = i sat",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 768,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 769,
+    "front_raw": null,
+    "back_raw": "estaba celoso",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 770,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 771,
+    "front_raw": null,
+    "back_raw": "me quedé -> ...",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 772,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 773,
+    "front_raw": null,
+    "back_raw": "de último minuto...",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 774,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 775,
+    "front_raw": null,
+    "back_raw": "sentimos mucha quimica",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 776,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 777,
+    "front_raw": null,
+    "back_raw": "cúal fue la impresión de.../qué impresion tuvo...",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 778,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 779,
+    "front_raw": null,
+    "back_raw": "ya sabía",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 780,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 781,
+    "front_raw": null,
+    "back_raw": "te atraigo o no?",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 782,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 783,
+    "front_raw": null,
+    "back_raw": "no es reciproco..",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 784,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 785,
+    "front_raw": null,
+    "back_raw": "epifania",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 786,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 787,
+    "front_raw": null,
+    "back_raw": "estaba en mi mejor momento, no le alcanzo",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 788,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 789,
+    "front_raw": null,
+    "back_raw": "lo normal es que no funciona",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 790,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 791,
+    "front_raw": null,
+    "back_raw": "para agarrar vuelo = to go back for sprinting...",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 792,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 793,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 794,
+    "front_raw": null,
+    "back_raw": "12.01.2026:",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 795,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 796,
+    "front_raw": null,
+    "back_raw": "![[image-619.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 797,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 798,
+    "front_raw": null,
+    "back_raw": "-> use imperfecto",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 799,
+    "front_raw": null,
+    "back_raw": "estas brincando de un lugar al otro",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 800,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 801,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 802,
+    "front_raw": null,
+    "back_raw": "![[image-620.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 803,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 804,
+    "front_raw": null,
+    "back_raw": "stuck = atorrada",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 805,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 806,
+    "front_raw": null,
+    "back_raw": "perrico = parrot",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 807,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 808,
+    "front_raw": null,
+    "back_raw": "amarillista = llama la atencion but negative, dramatical",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 809,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 810,
+    "front_raw": null,
+    "back_raw": "![[image-621.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 811,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 812,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 813,
+    "front_raw": null,
+    "back_raw": "21.01.2025",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 814,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 815,
+    "front_raw": null,
+    "back_raw": "timida",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 816,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 817,
+    "front_raw": null,
+    "back_raw": "house party = fiesta casera (not fiesta de casa)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 818,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 819,
+    "front_raw": null,
+    "back_raw": "two objects = los dos / ambos (not los ambos)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 820,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 821,
+    "front_raw": null,
+    "back_raw": "we had a good time = not \"tuvimos un buen tiempo\" (-> pasamos un buen rato more natural)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 822,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 823,
+    "front_raw": null,
+    "back_raw": "waste time = perder tiempo",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 824,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 825,
+    "front_raw": null,
+    "back_raw": "![[image-635.png]]",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 826,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 827,
+    "front_raw": null,
+    "back_raw": "eternidad / eterno",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 828,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 829,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 830,
+    "front_raw": null,
+    "back_raw": "-",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 831,
+    "front_raw": null,
+    "back_raw": "28.01.2026:",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 832,
+    "front_raw": null,
+    "back_raw": "noche de juegos de mesa",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 833,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 834,
+    "front_raw": null,
+    "back_raw": "principal preocupacion",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 835,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 836,
+    "front_raw": null,
+    "back_raw": "los aldeanos = villagers",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 837,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 838,
+    "front_raw": null,
+    "back_raw": "hombres lobo = werewolfs",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 839,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 840,
+    "front_raw": null,
+    "back_raw": "culpable -> culprit",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 841,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 842,
+    "front_raw": null,
+    "back_raw": "alcalde",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 843,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 844,
+    "front_raw": null,
+    "back_raw": "yo debí haber votado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 845,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 846,
+    "front_raw": null,
+    "back_raw": "a mí siempre se me olvidan las reglas",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 847,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 848,
+    "front_raw": null,
+    "back_raw": "fui con mis amigos a jugar /not fui a",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 849,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 850,
+    "front_raw": null,
+    "back_raw": "no lo prometo, espero",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 851,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 852,
+    "front_raw": null,
+    "back_raw": "julio - marci bday",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 853,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 854,
+    "front_raw": null,
+    "back_raw": "República Czecha",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 855,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 856,
+    "front_raw": null,
+    "back_raw": "solo está lloviendo.",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 857,
+    "front_raw": null,
+    "back_raw": "restaurante hindu",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 858,
+    "front_raw": null,
+    "back_raw": "las otras dos personas (not dos otras)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 859,
+    "front_raw": null,
+    "back_raw": "me caí (pronominal)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 860,
+    "front_raw": null,
+    "back_raw": "hice mal (not malo)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 861,
+    "front_raw": null,
+    "back_raw": "lo tenía sin cuidado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 862,
+    "front_raw": null,
+    "back_raw": "como si hubiera",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 863,
+    "front_raw": null,
+    "back_raw": "se mueve (the cars move (pronominal!)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 864,
+    "front_raw": null,
+    "back_raw": "saber (más de conocimiento, habilidades) / Conocer (gente, lugares, marcas,..)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 865,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 866,
+    "front_raw": "Calling someone \"una persona ____\" means they're super energetic and always buzzing with activity—think of someone who's constantly hustling, jumping from one thing to the next without sitting still.\n\nIt often paints a picture of a social dynamo too: outgoing, quick on their feet, and right in the thick of whatever's happening around them, like the life of every party or project.",
+    "back_raw": "movido (cumplido de Marci, describiendo yo). Explicación: En español coloquial, decir que alguien “es una persona movida” suele significar que es alguien muy activo, inquieto, con mucha iniciativa y que siempre está haciendo cosas o metido en planes. Dependiendo del país puede matizarse un poco: en muchos sitios de Latinoamérica también puede implicar que es alguien despierto, espabilado, que se mueve bien socialmente o en el ambiente (sale mucho, conoce a mucha gente, siempre está en la **movida**).",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 867,
+    "front_raw": "complement",
+    "back_raw": "cumplido (complemento es algo que anadimos a otra cosa)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 868,
+    "front_raw": null,
+    "back_raw": "visitar/escribir A alguien, y A otra persona",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 869,
+    "front_raw": null,
+    "back_raw": "not \"la cosa buena\" (unnatural) -> better \"lo bueno es que\"",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 870,
+    "front_raw": null,
+    "back_raw": "gente del medio (medio = sector), better than \"gente del mundo de startups\"",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 871,
+    "front_raw": null,
+    "back_raw": "me tomo -- pronominal",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 872,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 873,
+    "front_raw": null,
+    "back_raw": "anotar / anotarse (goal tambien)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 874,
+    "front_raw": "introduce someone",
+    "back_raw": "presentar a alguien",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 875,
+    "front_raw": null,
+    "back_raw": "trastes",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 876,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 877,
+    "front_raw": null,
+    "back_raw": "vendas",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 878,
+    "front_raw": null,
+    "back_raw": "paciente",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 879,
+    "front_raw": null,
+    "back_raw": "volverse (transformarse en algo diferente, pero más sobre un caracteristica personal que pasa poco a poco, generalmente involuntario, you didnt decide on that, just happened) (being sick doesnt work bc very temporary)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 880,
+    "front_raw": null,
+    "back_raw": "poner cuerno",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 881,
+    "front_raw": null,
+    "back_raw": "desconfiado",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 882,
+    "front_raw": "going with train",
+    "back_raw": "fui en tren",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 883,
+    "front_raw": null,
+    "back_raw": "qué me queda bien",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 884,
+    "front_raw": "Discuss / Argue",
+    "back_raw": "Hablar / Discutir (different things)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 885,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 886,
+    "front_raw": null,
+    "back_raw": "navegar (more for boats than on land), o more in google maps -> recorrer la isla, andar por la isla con autobus",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 887,
+    "front_raw": null,
+    "back_raw": "laico (sth not religiousm like state/country, school))",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 888,
+    "front_raw": null,
+    "back_raw": "fijar (fix, but physically sth, immovilizar)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 889,
+    "front_raw": null,
+    "back_raw": "fijarse (poner atencion a algo, pronominal)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 890,
+    "front_raw": null,
+    "back_raw": "sureste asiatico",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 891,
+    "front_raw": null,
+    "back_raw": "presentar nuestro producto (introducir nuestro product, put sth in it)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 892,
+    "front_raw": null,
+    "back_raw": "hay sol (not tiene sol)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 893,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 894,
+    "front_raw": null,
+    "back_raw": "criticaba",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 895,
+    "front_raw": null,
+    "back_raw": "solo me quedaron 20 minutos",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 896,
+    "front_raw": null,
+    "back_raw": "el sol no da / el sol no pega (LA) (not el sol va a mi apartamento)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 897,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 898,
+    "front_raw": null,
+    "back_raw": "logistica",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 899,
+    "front_raw": null,
+    "back_raw": "entendería",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 900,
+    "front_raw": null,
+    "back_raw": "puede verse ->",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 901,
+    "front_raw": null,
+    "back_raw": "En la historia de octavio puede ver este hombre mayor.",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 902,
+    "front_raw": null,
+    "back_raw": "En la historia de octavio se puede ver}7... Diferente",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 903,
+    "front_raw": null,
+    "back_raw": "En la historia de octavio la audiencia puede ver este hombre mayor",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 904,
+    "front_raw": null,
+    "back_raw": "siguió haciendo (not siguió hacer)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 905,
+    "front_raw": null,
+    "back_raw": "ME temo que",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 906,
+    "front_raw": null,
+    "back_raw": "perro -> can also mean \"dificil\", colloquial _> examen muy perro, soy muy perro/perrisima para el trabajo -> (muy bueno para el trabajo),  very slang, street-level, perra feminine version is always more negative, like a bitch.",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 907,
+    "front_raw": null,
+    "back_raw": "me vuelva parte/me una -> join team",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 908,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 909,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 910,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 911,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 912,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 913,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 914,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 915,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 916,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 917,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 918,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 919,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 920,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 921,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 922,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 923,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 924,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 925,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 926,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 927,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 928,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 929,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 930,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 931,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 932,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 933,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 934,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 935,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 936,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 937,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 938,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 939,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 940,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 941,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 942,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 943,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 944,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 945,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 946,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 947,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 948,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 949,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 950,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 951,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 952,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 953,
+    "front_raw": null,
+    "back_raw": null,
+    "overflow_raw": null,
+    "hidden": true,
+    "is_empty": true
+  },
+  {
+    "row": 954,
+    "front_raw": null,
+    "back_raw": "subirme de puesto / ascenderme -> promote me",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 955,
+    "front_raw": null,
+    "back_raw": "ascenso - sustantivo\nascender- mi jefe ME ascendió\nyo puedo ascender\npromoverme\ndarme un aumento\ncambiar de puesto, subirme de puesto\ninternet",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 956,
+    "front_raw": null,
+    "back_raw": "estaciones -> weather seasons",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 957,
+    "front_raw": null,
+    "back_raw": "entrenamiento (more like training for dogs, or physical training)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 958,
+    "front_raw": null,
+    "back_raw": "training, capacitación",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 959,
+    "front_raw": null,
+    "back_raw": "tomar a decision",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 960,
+    "front_raw": null,
+    "back_raw": "cambiarme de equipo",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 961,
+    "front_raw": null,
+    "back_raw": "reposo -> stop / be in recovery / descansar / reposar /inmovilidad. mariposa en reposo",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 962,
+    "front_raw": null,
+    "back_raw": "suspensión -> stop / pausar / ship suspended in the air",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 963,
+    "front_raw": null,
+    "back_raw": "cazar -> hunt / cazadora",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 964,
+    "front_raw": null,
+    "back_raw": "aletear -> flap wings",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 965,
+    "front_raw": null,
+    "back_raw": "asomo -> appear from an edge",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 966,
+    "front_raw": null,
+    "back_raw": "corear -> chant together",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 967,
+    "front_raw": null,
+    "back_raw": "sacudida -> shake",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 968,
+    "front_raw": null,
+    "back_raw": "cuentas de rosario",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 969,
+    "front_raw": null,
+    "back_raw": "planear -> glide",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 970,
+    "front_raw": null,
+    "back_raw": "ser indeciso",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 971,
+    "front_raw": null,
+    "back_raw": "sudar - estoy sudando",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 972,
+    "front_raw": null,
+    "back_raw": "priorizar",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 973,
+    "front_raw": null,
+    "back_raw": "ruedas",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 974,
+    "front_raw": null,
+    "back_raw": "volcar",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 975,
+    "front_raw": null,
+    "back_raw": "grieta",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 976,
+    "front_raw": null,
+    "back_raw": "bocina - speaker or car hoop",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 977,
+    "front_raw": null,
+    "back_raw": "convenir -> algo es mejor por alguna razón",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 978,
+    "front_raw": null,
+    "back_raw": "contener -> contuvo -> contain or resist (resist a smile)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 979,
+    "front_raw": null,
+    "back_raw": "bursátil",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 980,
+    "front_raw": null,
+    "back_raw": "empenyarse -> esforzarse",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 981,
+    "front_raw": null,
+    "back_raw": "orilla",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 982,
+    "front_raw": null,
+    "back_raw": "mendigo (mendigar, pedir limosna (alms))",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 983,
+    "front_raw": null,
+    "back_raw": "vagabondo (no tiene hogar, pero no pide dinero)",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 984,
+    "front_raw": null,
+    "back_raw": "bisnieto",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 985,
+    "front_raw": null,
+    "back_raw": "cantante",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 986,
+    "front_raw": null,
+    "back_raw": "entrelazar",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 987,
+    "front_raw": null,
+    "back_raw": "nudillo",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 988,
+    "front_raw": null,
+    "back_raw": "apuesta",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 989,
+    "front_raw": null,
+    "back_raw": "apenas",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 990,
+    "front_raw": null,
+    "back_raw": "cadena de suministro",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  },
+  {
+    "row": 991,
+    "front_raw": null,
+    "back_raw": "no he descansado mucho (not \"no tenía descanso\")",
+    "overflow_raw": null,
+    "hidden": false,
+    "is_empty": false
+  }
+]
