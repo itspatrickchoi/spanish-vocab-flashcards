@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "row214",
+    "front": "alivio",
+    "back": "Sensación de tranquilidad que se siente cuando termina algo molesto o doloroso. Ejemplo: Sentí un gran alivio cuando terminó el examen.",
+    "notes": "relief (guessed word — source only had a dash before the gloss, original Spanish term was lost)",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source text was just '- -> relief' with no actual Spanish word; 'alivio' is a best-guess reconstruction, please verify against the original row."
+  },
+  {
+    "id": "row217",
+    "front": "concurso",
+    "back": "Competencia en la que varias personas participan para ganar un premio. Ejemplo: Se inscribió en un concurso de fotografía.",
+    "notes": "contest / competition",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row220",
+    "front": "prefiero que esté soleado",
+    "back": "Se usa para expresar una preferencia sobre algo incierto o futuro, por eso el verbo va en subjuntivo. Ejemplo: Prefiero que esté soleado el día de la boda.",
+    "notes": "I prefer it to be sunny — subjunctive after 'preferir que'",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row221",
+    "front": "prefiero que el clima sea caluroso",
+    "back": "Expresa preferencia sobre el clima usando el subjuntivo tras 'preferir que'. Ejemplo: Prefiero que el clima sea caluroso en la playa.",
+    "notes": "I prefer the weather to be hot — subjunctive drill, same pattern as 'prefiero que esté soleado'",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row223",
+    "front": "templado",
+    "back": "Que no es ni muy frío ni muy caliente; moderado. Ejemplo: El clima de la región es templado todo el año.",
+    "notes": "moderate/mild (climate); also 'cristal templado' = tempered glass",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row225",
+    "front": "ensuciar",
+    "back": "Hacer que algo quede sucio. Ejemplo: No quiero ensuciar mi ropa nueva jugando en el barro.",
+    "notes": "to make dirty/soil — better word than the literal 'hacer sucio tu ropa'",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row227",
+    "front": "la probabilidad de que el parque sea más cómodo es más alta",
+    "back": "Frase que expresa probabilidad sobre algo incierto, por eso 'sea' va en subjuntivo. Ejemplo: La probabilidad de que el parque sea más cómodo es más alta si lo remodelan.",
+    "notes": "the probability that the park is more comfortable is higher — subjunctive after 'probabilidad de que'",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row231",
+    "front": "entre más buena sea la calidad, mejor",
+    "back": "Estructura correlativa para expresar que dos cosas aumentan juntas. Ejemplo: Entre más buena sea la calidad, mejor será el resultado.",
+    "notes": "the better the quality, the better (the result) — correlative comparative pattern ('cuanto más... mejor' is the more standard version)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row233",
+    "front": "un lugar en el que te sientas [cómodo/a]",
+    "back": "Cláusula relativa con subjuntivo usada para describir un lugar hipotético o deseado. Ejemplo: Busco un lugar en el que te sientas cómoda.",
+    "notes": "a place where you feel [comfortable] — TE marks 'sentirse' as reflexive/pronominal",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Fragment cut off after 'sientas'; reconstructed with a plausible completion."
+  },
+  {
+    "id": "row234",
+    "front": "sentirse",
+    "back": "Verbo pronominal que expresa el estado de ánimo o físico de una persona. Ejemplo: Me siento muy cansado hoy.",
+    "notes": "to feel (pronominal — always used with a reflexive pronoun: me siento, te sientes, se siente...)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row236",
+    "front": "(sin contenido)",
+    "back": "Esta fila del origen solo contenía un separador ('---') sin ninguna palabra o frase real.",
+    "notes": "no real content in source row — likely a stray divider that slipped past filtering",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source text is just '---' with no vocabulary content; consider dropping this card."
+  },
+  {
+    "id": "row238",
+    "front": "había sol/lluvia",
+    "back": "Se usa el imperfecto para describir cómo estaba el clima en el pasado. Ejemplo: Ayer había sol por la mañana, pero por la tarde había lluvia.",
+    "notes": "it was sunny/rainy (imperfect, describing past weather)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row239",
+    "front": "hacía calor/frío",
+    "back": "Imperfecto usado para describir la temperatura en el pasado. Ejemplo: Cuando llegamos a la montaña, hacía mucho frío.",
+    "notes": "it was hot/cold (imperfect, describing past weather)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row241",
+    "front": "el agua",
+    "back": "Sustantivo femenino que, en singular, lleva el artículo 'el' (no 'la') porque empieza con 'a' tónica. Ejemplo: El agua del río está muy fría.",
+    "notes": "water — feminine noun, but takes 'el' in the singular because it starts with stressed 'a' (still 'la' + adjectives stay feminine: el agua fría)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row243",
+    "front": "desconectado",
+    "back": "Que no está conectado a algo, o que se ha alejado voluntariamente de la tecnología o del trabajo. Ejemplo: Pasé el fin de semana totalmente desconectado del teléfono.",
+    "notes": "disconnected / unplugged / off-grid",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row245",
+    "front": "tentadora",
+    "back": "Que provoca ganas de hacer o tener algo, aunque no siempre convenga. Ejemplo: La oferta era muy tentadora, pero decidí no aceptarla.",
+    "notes": "tempting (feminine form of 'tentador')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row247",
+    "front": "sandalias",
+    "back": "Calzado abierto y ligero, típico del verano, que se sujeta con tiras. Ejemplo: Me compré unas sandalias nuevas para la playa.",
+    "notes": "sandals",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row249",
+    "front": "tenis",
+    "back": "Calzado deportivo usado para caminar, correr o hacer ejercicio (en varios países de Latinoamérica). Ejemplo: Me puse los tenis para ir a correr.",
+    "notes": "sneakers/trainers (Latin American usage; Spain usually says 'zapatillas')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row251",
+    "front": "cuando oscurece",
+    "back": "Se usa para referirse al momento en que empieza a hacerse de noche. Ejemplo: Cuando oscurece, encendemos las luces del jardín.",
+    "notes": "when it gets dark (present tense — note the source gloss 'when it got dark' is past tense, but 'oscurece' itself is present; use 'cuando oscurecía' for the past)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source gave a past-tense English gloss for a present-tense Spanish verb; flagged the mismatch in notes."
+  },
+  {
+    "id": "row253",
+    "front": "decepcionantes",
+    "back": "Que no cumplen las expectativas y causan decepción. Ejemplo: Los resultados del equipo fueron decepcionantes esta temporada.",
+    "notes": "disappointing (plural)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row255",
+    "front": "estafa",
+    "back": "Engaño para obtener dinero o beneficios de otra persona de forma ilegal. Ejemplo: Cayó en una estafa por internet y perdió sus ahorros.",
+    "notes": "scam/fraud (the act itself — NOT 'scammer', which is 'estafador/a'; source gloss was incorrect)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source glossed 'estafas' as 'scammers', but it actually means 'scams/frauds'; a scammer is 'estafador/a'."
+  },
+  {
+    "id": "row257",
+    "front": "prevenir",
+    "back": "Tomar medidas con anticipación para evitar que algo malo ocurra. Ejemplo: Es importante prevenir las enfermedades con una buena alimentación.",
+    "notes": "to prevent",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row259",
+    "front": "estar bien hidratado",
+    "back": "Haber tomado suficiente agua para que el cuerpo funcione correctamente. Ejemplo: Es importante estar bien hidratado antes de hacer ejercicio.",
+    "notes": "to be well hydrated",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row261",
+    "front": "lesiones",
+    "back": "Daños físicos causados al cuerpo, comunes en accidentes o deportes. Ejemplo: El futbolista sufrió varias lesiones durante la temporada.",
+    "notes": "injuries",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row263",
+    "front": "tren superior / tren inferior",
+    "back": "Expresión usada en fitness para referirse a la parte de arriba o de abajo del cuerpo. Ejemplo: Hoy entreno tren superior; mañana toca tren inferior.",
+    "notes": "upper/lower body (gym term for training — 'tren' here means 'section of the body', not 'train')",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row265",
+    "front": "saltos",
+    "back": "Movimientos en los que el cuerpo se impulsa hacia arriba y se separa del suelo. Ejemplo: Hicimos treinta saltos como parte del calentamiento.",
+    "notes": "jumps",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row267",
+    "front": "roncar",
+    "back": "Hacer un ruido fuerte al respirar mientras se duerme. Ejemplo: Mi pareja ronca tan fuerte que no me deja dormir.",
+    "notes": "to snore",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row271",
+    "front": "compraventa",
+    "back": "Operación mediante la cual una persona compra y otra vende un bien, muy usado en contextos legales e inmobiliarios. Ejemplo: Firmamos el contrato de compraventa de la casa.",
+    "notes": "purchase-and-sale / sale transaction (a more formal/legal-business term for a buy-sell deal, e.g. real estate; not exactly 'retail/wholesale' as the source suggested)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source glossed as 'retail, wholesale' but 'compraventa' more precisely means a buy-sell transaction/contract — flagged for verification."
+  },
+  {
+    "id": "row273",
+    "front": "reconocimiento",
+    "back": "Acto de aceptar o valorar públicamente el mérito de alguien o algo. Ejemplo: Recibió un reconocimiento por sus años de servicio.",
+    "notes": "recognition",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row275",
+    "front": "juicio",
+    "back": "Proceso legal en el que un juez decide si alguien es culpable o inocente; también puede significar 'buen sentido' o capacidad de razonar. Ejemplo: El juicio contra el exfuncionario comenzará la próxima semana.",
+    "notes": "trial (legal); can also mean 'judgment/good sense' depending on context",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Word has multiple common meanings (trial vs. judgment/sense) — flagged as not a clean one-to-one reversible pair."
+  },
+  {
+    "id": "row277",
+    "front": "halagar",
+    "back": "Decir cosas agradables a alguien para elogiarlo o hacerlo sentir bien. Ejemplo: Le encanta halagar a sus compañeros de trabajo.",
+    "notes": "to flatter/compliment",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row279",
+    "front": "las pesas",
+    "back": "Objetos de peso que se usan para hacer ejercicio y fortalecer los músculos. Ejemplo: Voy al gimnasio a levantar pesas tres veces por semana.",
+    "notes": "(the) weights",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row281",
+    "front": "miedo al fracaso",
+    "back": "Temor a no tener éxito en algo que se intenta. Ejemplo: El miedo al fracaso le impidió emprender su propio negocio.",
+    "notes": "fear of failure",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row283",
+    "front": "el arma de doble filo",
+    "back": "Expresión que describe algo que puede tener tanto beneficios como consecuencias negativas. Ejemplo: La tecnología es un arma de doble filo: nos conecta, pero también nos distrae.",
+    "notes": "a double-edged sword (idiom)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row285",
+    "front": "déjalo ir",
+    "back": "Expresión coloquial (con influencia del inglés) para decir que hay que dejar de pensar en algo o soltar un sentimiento negativo. Ejemplo: Ya no puedes cambiar lo que pasó, tienes que dejarlo ir.",
+    "notes": "let it go — common colloquial calque from English; more traditional Spanish alternatives are 'déjalo así' or 'suéltalo'",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "'Déjalo ir' is a widely used but English-influenced phrasing; flagged so the user knows more 'native' alternatives exist."
+  },
+  {
+    "id": "row287",
+    "front": "advertencia",
+    "back": "Aviso que se da para prevenir a alguien de un peligro o error. Ejemplo: El médico le dio una advertencia sobre los riesgos de fumar.",
+    "notes": "warning",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row289",
+    "front": "publicidad",
+    "back": "Conjunto de técnicas y medios usados para dar a conocer o vender un producto; se traduce más precisamente como 'advertising' que como 'marketing' (que en español también se dice 'mercadotecnia' o 'marketing'). Ejemplo: La empresa invierte mucho en publicidad digital.",
+    "notes": "advertising (source gloss said 'marketing', but 'publicidad' is closer to 'advertising'; 'marketing/mercadotecnia' is the broader field)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source glossed 'publicidad' as 'marketing', but it more precisely means 'advertising' — flagged the distinction."
+  },
+  {
+    "id": "row291",
+    "front": "anuncio",
+    "back": "Mensaje público, comercial o informativo, que se transmite por distintos medios. Ejemplo: Vi un anuncio de ese producto en la televisión.",
+    "notes": "ad/advertisement (plural: anuncios = ads)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row293",
+    "front": "aterrador",
+    "back": "Que provoca mucho miedo o terror. Ejemplo: Fue una experiencia aterradora que nunca voy a olvidar.",
+    "notes": "frightening/terrifying",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row295",
+    "front": "beneficiarse",
+    "back": "Obtener una ventaja o provecho de algo. Ejemplo: Muchas empresas se beneficiaron del cambio en la ley.",
+    "notes": "to benefit/profit (from something) — pronominal, usually with 'de'",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row297",
+    "front": "dato",
+    "back": "Información concreta y específica sobre algo. Ejemplo: Ese dato no coincide con lo que dice el informe.",
+    "notes": "fact / piece of data",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row299",
+    "front": "paz mental",
+    "back": "Estado de tranquilidad y ausencia de preocupación en la mente. Ejemplo: Meditar todos los días me da paz mental.",
+    "notes": "peace of mind",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row301",
+    "front": "sudeste asiático",
+    "back": "Región geográfica que incluye países como Tailandia, Vietnam e Indonesia. Ejemplo: Muchos mochileros viajan por el sudeste asiático.",
+    "notes": "Southeast Asia (note the accent: asiático)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row303",
+    "front": "convertir CO2 en oxígeno",
+    "back": "Proceso por el cual las plantas transforman el dióxido de carbono en oxígeno. Ejemplo: Los árboles ayudan a convertir el CO2 en oxígeno.",
+    "notes": "to convert CO2 into oxygen — 'CO2' is pronounced 'se-o-dos' in Spanish",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row305",
+    "front": "el planeta",
+    "back": "Cuerpo celeste que orbita alrededor de una estrella, como la Tierra. Ejemplo: Debemos cuidar el planeta para las futuras generaciones.",
+    "notes": "the planet — note it's masculine despite ending in -a (el planeta, not la planeta)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row307",
+    "front": "concha",
+    "back": "Caparazón duro que cubre y protege a ciertos animales marinos como los caracoles o las almejas. Ejemplo: Encontramos una concha muy bonita en la playa. ADVERTENCIA: en Argentina, Uruguay y Chile es una palabra vulgar para referirse a los genitales femeninos.",
+    "notes": "shell — CAUTION: in Argentina/Uruguay/Chile this is vulgar slang for female genitalia; avoid using it there outside the literal 'seashell' context",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Strong regional vulgar slang meaning in the Southern Cone — flagged for register/safety."
+  },
+  {
+    "id": "row309",
+    "front": "comercio",
+    "back": "Actividad de comprar y vender bienes o servicios. Ejemplo: El comercio entre los dos países ha crecido mucho.",
+    "notes": "commerce/trade",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row311",
+    "front": "una señal",
+    "back": "Signo o indicio que comunica algo o advierte de algo. Ejemplo: Vimos una señal de tráfico que indicaba el desvío.",
+    "notes": "a signal/sign (typo fixed: 'senal' -> 'señal')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row315",
+    "front": "piedras en el riñón",
+    "back": "Depósitos duros de minerales que se forman dentro de los riñones y pueden causar mucho dolor. Ejemplo: Tuvieron que operarlo por piedras en el riñón.",
+    "notes": "kidney stones (also 'piedras en los riñones')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row316",
+    "front": "saltar la cuerda",
+    "back": "Ejercicio o juego que consiste en saltar mientras se hace girar una cuerda por encima de la cabeza y bajo los pies. Ejemplo: Hago diez minutos de saltar la cuerda como calentamiento.",
+    "notes": "to jump rope ('cuerda' alone = rope/cord; the activity is 'saltar la cuerda')",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row320",
+    "front": "preparar",
+    "back": "Hacer que algo o alguien esté listo para un fin determinado. Ejemplo: Voy a preparar la cena para mis invitados.",
+    "notes": "to prepare (something/someone else)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row321",
+    "front": "prepararme",
+    "back": "Forma pronominal de 'preparar': alistarme yo mismo. Ejemplo: Necesito prepararme antes de la entrevista.",
+    "notes": "to get myself ready (pronominal form of 'preparar')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row322",
+    "front": "apurarme",
+    "back": "Forma pronominal de 'apurar': darme prisa. Ejemplo: Tengo que apurarme o voy a perder el autobús.",
+    "notes": "to hurry (myself) up (pronominal form of 'apurar')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row323",
+    "front": "apurar",
+    "back": "Meter prisa a alguien o algo, o hacer algo con rapidez. Ejemplo: El jefe nos apura para terminar el proyecto a tiempo.",
+    "notes": "to hurry/rush (someone or something) — compare pronominal 'apurarse/apurarme' = to hurry oneself",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row327",
+    "front": "apto",
+    "back": "Que tiene las condiciones o cualidades necesarias para algo. Ejemplo: No es apto para este tipo de trabajo.",
+    "notes": "apt/suitable/fit (for something)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row328",
+    "front": "apropiado",
+    "back": "Que resulta adecuado o conveniente para una situación determinada. Ejemplo: No es el momento apropiado para hablar de eso.",
+    "notes": "appropriate (e.g. for a topic) — often a more natural choice than 'apto' in everyday contexts",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row334",
+    "front": "estar más alerta",
+    "back": "Estar más atento o vigilante ante lo que ocurre alrededor. Ejemplo: Después del robo, el barrio está más alerta. Aquí 'alerta' funciona como sustantivo/adjetivo invariable, no como adverbio.",
+    "notes": "to be more alert/on guard ('alerta' here functions as an invariable adjective, not a verb form)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row336",
+    "front": "estar alterado",
+    "back": "Estar nervioso, agitado o fuera de control emocional. Ejemplo: Se puso muy alterado cuando escuchó la noticia.",
+    "notes": "to be upset/agitated",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row340",
+    "front": "desconocía otras áreas de la vida",
+    "back": "Imperfecto de 'desconocer': no tener conocimiento de algo. Ejemplo: Antes de estudiar Economía, desconocía otras áreas de la vida financiera.",
+    "notes": "I was unaware of other areas of life (typo fixed: 'otras areas' -> 'otras áreas', feminine plural agreement)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source had a typo/agreement error ('otros areas'); corrected to 'otras áreas'."
+  },
+  {
+    "id": "row341",
+    "front": "desconocer",
+    "back": "No tener conocimiento o información sobre algo; ignorar que algo existe. Ejemplo: Desconozco los detalles de ese acuerdo.",
+    "notes": "to be unaware of / not know about something (implies it seems like it doesn't exist to you)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row343",
+    "front": "incluso si",
+    "back": "Se usa para introducir una condición que no cambia el resultado. Ejemplo: Incluso si llueve, iremos a la fiesta.",
+    "notes": "even if",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row345",
+    "front": "incluso si no me enfoco en 2-3 proyectos, mi vida no va a pararse ni acabarse",
+    "back": "Frase que expresa que, aunque no se cumpla una condición, las consecuencias no serán tan graves. Ejemplo: Incluso si no me enfoco en 2-3 proyectos, mi vida no va a pararse ni acabarse.",
+    "notes": "even if I don't focus on 2-3 projects, my life isn't going to stop or end",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row347",
+    "front": "la calma",
+    "back": "Estado de tranquilidad, ausencia de agitación o ruido. Ejemplo: Necesito un poco de calma después de un día tan ocupado.",
+    "notes": "calm (noun)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row348",
+    "front": "calmado",
+    "back": "Que está tranquilo, sin nerviosismo ni agitación. Ejemplo: A pesar de la crisis, se mantuvo calmado.",
+    "notes": "calm (adjective)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row350",
+    "front": "balanceado",
+    "back": "Que tiene un equilibrio adecuado entre sus partes. Ejemplo: Trato de llevar una dieta balanceada.",
+    "notes": "balanced",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row353",
+    "front": "congestionada",
+    "back": "Que está llena de tráfico o gente, con poco espacio para moverse. Ejemplo: La avenida principal está muy congestionada a esta hora.",
+    "notes": "congested (feminine form, e.g. for 'la calle/avenida')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row355",
+    "front": "de vez en cuando",
+    "back": "Expresión que indica que algo ocurre con poca frecuencia, no regularmente. Ejemplo: Voy al cine de vez en cuando.",
+    "notes": "every once in a while / from time to time",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row357",
+    "front": "realizo",
+    "back": "Del verbo 'realizar': llevar a cabo o completar algo. NO significa 'darse cuenta' (to realize), que es un falso amigo. Ejemplo: Realizo mis tareas todos los días antes de las seis.",
+    "notes": "I carry out/accomplish — false friend! 'realizar' != 'to realize'; use 'me doy cuenta' for 'I realize'",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row359",
+    "front": "higiene del sueño",
+    "back": "Conjunto de hábitos que ayudan a dormir mejor. Ejemplo: Mejorar mi higiene del sueño me ayudó a dormir más profundamente.",
+    "notes": "sleep hygiene (typo fixed: 'higiene de sueno' -> 'higiene del sueño')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row367",
+    "front": "no me hagas empezar",
+    "back": "Expresión coloquial que indica que un tema molesta tanto que preferimos no hablar de él con detalle. Ejemplo: No me hagas empezar con lo que pasó en la reunión de ayer.",
+    "notes": "don't get me started (on that)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row371",
+    "front": "ingenuo",
+    "back": "Que cree fácilmente lo que le dicen, sin malicia ni desconfianza. Ejemplo: Fue muy ingenuo al confiar en un desconocido.",
+    "notes": "naive",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row375",
+    "front": "juez",
+    "back": "Persona con autoridad para juzgar y resolver casos legales. Ejemplo: El juez dictó sentencia después de escuchar a ambas partes.",
+    "notes": "judge",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row376",
+    "front": "vergonzoso",
+    "back": "Que causa vergüenza o incomodidad. Ejemplo: Fue un momento muy vergonzoso cuando se me olvidó su nombre.",
+    "notes": "embarrassing",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row377",
+    "front": "adquirir",
+    "back": "Obtener o conseguir algo, especialmente mediante compra o esfuerzo. Ejemplo: La empresa planea adquirir una nueva sede este año.",
+    "notes": "to acquire",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row379",
+    "front": "graduarse",
+    "back": "Terminar oficialmente un ciclo de estudios y obtener el título correspondiente. Ejemplo: Ellos se graduaron de la universidad el año pasado.",
+    "notes": "to graduate (reflexive) — example: ellos se graduaron",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row381",
+    "front": "reclutamiento",
+    "back": "Proceso de buscar y seleccionar personas para un trabajo o una organización. Ejemplo: El área de reclutamiento contrató a diez personas este mes.",
+    "notes": "recruitment (typo fixed: 'recrutamiento' -> 'reclutamiento')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row383",
+    "front": "mentalidad",
+    "back": "Forma de pensar o de ver las cosas que tiene una persona. Ejemplo: Tiene una mentalidad muy positiva ante los problemas.",
+    "notes": "mindset",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row389",
+    "front": "un nicho que hace destacar al producto",
+    "back": "Segmento específico de mercado que le da a un producto una ventaja o identidad propia. Ejemplo: Encontraron un nicho que hace destacar al producto frente a la competencia.",
+    "notes": "a niche that makes the product stand out",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row391",
+    "front": "arriesgado",
+    "back": "Que implica peligro o riesgo; también se dice de una persona que toma riesgos. Ejemplo: Invertir todos tus ahorros en una sola empresa es arriesgado.",
+    "notes": "risky (also: someone who takes risks)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row393",
+    "front": "tener prisa",
+    "back": "Necesitar hacer algo rápidamente por falta de tiempo. Ejemplo: No puedo hablar ahora, tengo prisa.",
+    "notes": "to be in a hurry",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row395",
+    "front": "viajes muy anticipados",
+    "back": "Viajes que se planean o reservan con mucha antelación. Ejemplo: Prefiero los viajes muy anticipados para conseguir mejores precios.",
+    "notes": "trips planned/booked far in advance",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row399",
+    "front": "irreversible",
+    "back": "Que no se puede deshacer ni volver a su estado anterior. Ejemplo: El daño causado al ecosistema es irreversible.",
+    "notes": "irreversible",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row401",
+    "front": "terraza común",
+    "back": "Espacio exterior compartido por varios vecinos o residentes de un edificio. Ejemplo: Los vecinos organizaron una parrillada en la terraza común.",
+    "notes": "common/shared terrace — note: 'común' has no separate feminine form ('comuna' is wrong here; común stays común)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row403",
+    "front": "solo debo acostumbrarme",
+    "back": "Expresa que solamente falta adaptarse a una nueva situación. Ejemplo: Es un trabajo diferente, pero solo debo acostumbrarme.",
+    "notes": "I just need to get used to it",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row404",
+    "front": "aún no estoy acostumbrado",
+    "back": "Indica que todavía no te has adaptado a algo. Ejemplo: Llevo un mes en la ciudad, pero aún no estoy acostumbrado al ruido.",
+    "notes": "I'm still not used to it",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row406",
+    "front": "sótano",
+    "back": "Piso de un edificio que está total o parcialmente bajo el nivel de la calle. Ejemplo: Guardamos las cajas viejas en el sótano.",
+    "notes": "basement (typo fixed: 'sotano' -> 'sótano')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row410",
+    "front": "es mejor trabajar presencial",
+    "back": "Se prefiere hacer el trabajo en persona, no de manera remota. Aquí 'presencial' funciona como adverbio (modifica 'trabajar'). Ejemplo: Para este tipo de proyecto, es mejor trabajar presencial.",
+    "notes": "it's better to work in person (adverbial use of 'presencial')",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row411",
+    "front": "es mejor hacer trámites presenciales",
+    "back": "Se prefiere realizar los trámites en persona. Aquí 'presenciales' es adjetivo y concuerda en plural con 'trámites'. Ejemplo: Es mejor hacer trámites presenciales cuando el proceso es complicado.",
+    "notes": "it's better to do paperwork in person (adjectival use of 'presencial', agreeing with 'trámites')",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row412",
+    "front": "trámite",
+    "back": "Gestión o proceso administrativo necesario para conseguir algo, como un documento o un permiso. Ejemplo: Tengo que hacer un trámite en el banco mañana.",
+    "notes": "bureaucratic procedure/paperwork (can refer to many kinds of admin processes, e.g. registering/enrolling for something)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row414",
+    "front": "tomar una decisión / no hacer nada",
+    "back": "Contraste entre actuar decidiendo algo y quedarse sin actuar. Ejemplo: A veces es mejor tomar una decisión que no hacer nada.",
+    "notes": "to make a decision / to not act — fragment contrasting action vs. inaction",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source fragment 'tomar decision / no hacer' was incomplete/ungrammatical; reconstructed with articles added, please verify intended meaning."
+  },
+  {
+    "id": "row416",
+    "front": "blanco y negro",
+    "back": "Expresión fija para referirse a los dos colores juntos; en español el orden no se invierte. Ejemplo: Prefiero las fotos en blanco y negro.",
+    "notes": "black and white (fixed word order — never 'negro y blanco')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row418",
+    "front": "nos benefician",
+    "back": "Del verbo 'beneficiar': nos dan una ventaja o provecho. Ejemplo: Estas nuevas políticas nos benefician a todos.",
+    "notes": "they benefit us",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row422",
+    "front": "las cosas",
+    "back": "Sustantivo genérico que casi siempre se usa con artículo en español. Ejemplo: Las cosas han cambiado mucho este año.",
+    "notes": "things — always add the article (las cosas, not just 'cosas')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row424",
+    "front": "parecer",
+    "back": "Dar la impresión de ser algo, sin implicar semejanza física; distinto de 'parecerse' (asemejarse a alguien o algo). Ejemplo: Ese plan parece bueno, aunque no se parece en nada al anterior.",
+    "notes": "to seem — different from 'parecerse' (to resemble/look like someone or something)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row425",
+    "front": "las cosas parecen muy buenas",
+    "back": "Se usa 'parecer' para expresar una impresión general sobre una situación. Ejemplo: Después de la reunión, las cosas parecen muy buenas para el proyecto.",
+    "notes": "things seem very good",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row432",
+    "front": "si no lo sabes / si no lo conoces",
+    "back": "Contraste entre 'saber' (tener información o un dato) y 'conocer' (tener familiaridad con algo o alguien); tienen significados diferentes. Ejemplo: Si no lo sabes, pregúntame; si no lo conoces, te lo presento.",
+    "notes": "if you don't know it (a fact) / if you're not familiar with it — 'saber' vs. 'conocer' have different meanings (typo fixed: 'conocess' -> 'conoces')",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row433",
+    "front": "suéter",
+    "back": "Prenda de vestir de manga larga, generalmente de lana o tejido grueso, que se usa para abrigarse. Ejemplo: Hace frío, ponte un suéter.",
+    "notes": "sweater (loanword from English, spelled 'suéter' in Spanish)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row438",
+    "front": "maquillaje",
+    "back": "Productos cosméticos que se aplican en el rostro para embellecerlo o transformarlo. Ejemplo: Se tarda veinte minutos en ponerse el maquillaje.",
+    "notes": "makeup",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row440",
+    "front": "moda",
+    "back": "Conjunto de tendencias de vestimenta y estilo que predominan en una época. Ejemplo: Esa marca siempre está a la moda.",
+    "notes": "fashion",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row444",
+    "front": "fuentes de ingreso",
+    "back": "Formas distintas en las que una persona o empresa gana dinero. Ejemplo: Tener varias fuentes de ingreso te da más estabilidad financiera.",
+    "notes": "sources of income",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row448",
+    "front": "base/casa base",
+    "back": "Lugar que sirve como punto de partida o residencia principal de alguien. Ejemplo: Madrid es mi base mientras viajo por Europa. Nota: 'lugarbase' no es una palabra estándar del español.",
+    "notes": "home base — the source's 'lugarbase' is not a standard Spanish word; better options are 'base' or 'casa base'",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Source coined a non-standard compound ('lugarbase'); flagged with more natural alternatives."
+  },
+  {
+    "id": "row450",
+    "front": "tú mismo",
+    "back": "Forma enfática de 'tú' usada para un hombre o de forma general/neutra. Ejemplo: Tú mismo puedes resolver este problema.",
+    "notes": "yourself (masculine/general form)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row451",
+    "front": "tú misma",
+    "back": "Forma enfática de 'tú' usada específicamente para una mujer. Ejemplo: Tú misma dijiste que ibas a intentarlo.",
+    "notes": "yourself (feminine form) — source note ties this specifically to addressing 'Marci'",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row453",
+    "front": "hay dos lados",
+    "back": "Frase básica para indicar que una situación tiene dos perspectivas. Es correcta, pero se puede decir de forma más elaborada (ver 'hay dos lados de la moneda'). Ejemplo: En esta discusión, hay dos lados.",
+    "notes": "there are two sides — correct but can be phrased more elegantly/advanced (see 'hay dos lados de la moneda')",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": null
+  },
+  {
+    "id": "row454",
+    "front": "hay dos lados de la moneda",
+    "back": "Expresión idiomática que significa que una situación tiene dos perspectivas válidas, ni todo es bueno ni todo es malo. Ejemplo: No juzgues tan rápido, hay dos lados de la moneda; no es todo blanco y negro.",
+    "notes": "there are two sides of the coin / it's not all black and white",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row456",
+    "front": "una corrida de caridad",
+    "back": "Evento deportivo de carrera cuyo propósito es recaudar fondos para una causa benéfica. Ejemplo: Participé en una corrida de caridad para ayudar al hospital infantil.",
+    "notes": "a charity run",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row458",
+    "front": "récord",
+    "back": "Marca o resultado más alto o mejor alcanzado hasta el momento en una actividad. Ejemplo: Batió el récord mundial de los 100 metros. Nota: en español se escribe con tilde: récord.",
+    "notes": "record — note the accent mark in Spanish: récord (not 'record')",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row461",
+    "front": "para el almuerzo",
+    "back": "Se usa el artículo masculino 'el' con 'almuerzo'. Ejemplo: Voy a preparar pasta para el almuerzo.",
+    "notes": "for lunch (testing the masculine article 'el' with 'almuerzo')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row462",
+    "front": "sustantivos incontables (como agua o aire)",
+    "back": "Sustantivos que se refieren a algo que no se puede contar en unidades individuales; en ciertos usos no necesitan artículo. Ejemplo: Necesito agua para sobrevivir; no puedo vivir sin aire.",
+    "notes": "uncountable/mass nouns like water or air — the source's note claims they don't need an article, though in practice this depends on context (compare 'el agua es esencial' with article vs. 'quiero agua' without)",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Source fragment is a general grammar note, not a clean vocab item; the 'no article needed' claim is context-dependent and should be double-checked against 'el agua' (row241), which does use an article."
+  },
+  {
+    "id": "row464",
+    "front": "después ir a trabajar (incorrecto)",
+    "back": "Uso incorrecto: un infinitivo ('ir') no puede funcionar como verbo conjugado de una oración independiente. Ejemplo (incorrecto): Después ir a trabajar.",
+    "notes": "'after, go to work' — marked FALSE/incorrect in the source; contrast with the correct version in row465 ('después voy a trabajar')",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row465",
+    "front": "después voy a trabajar",
+    "back": "Versión correcta: el verbo debe ir conjugado, no en infinitivo. Ejemplo: Desayuno, y después voy a trabajar.",
+    "notes": "after that, I go to work — correct version (marked MEJOR in source), contrasts with the incorrect infinitive form in row464",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row467",
+    "front": "puedo buscar lo que está más cerca",
+    "back": "Expresión para indicar que se puede elegir la opción más próxima entre varias. Ejemplo: Si no hay parqueo aquí, puedo buscar lo que está más cerca.",
+    "notes": "I can look for what's closest",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row470",
+    "front": "me da lo mismo",
+    "back": "Expresión que indica indiferencia ante dos o más opciones, de forma neutral (no negativa). Ejemplo: ¿Quieres ir al cine o quedarte en casa? Me da lo mismo.",
+    "notes": "it's all the same to me / I don't care (neutral, indifferent tone — synonym: no me importa)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row472",
+    "front": "apenas",
+    "back": "Indica que algo acaba de ocurrir hace muy poco tiempo (sentido temporal). Ejemplo: Apenas llegué a casa cuando empezó a llover.",
+    "notes": "just/barely (temporal sense — 'apenas llegué' = I just arrived)",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row474",
+    "front": "renglón",
+    "back": "Línea de escritura en una página o cuaderno. Ejemplo: Escribe tu nombre en el primer renglón.",
+    "notes": "line (of text/writing)",
+    "reversible": true,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row477",
+    "front": "escribir un resumen",
+    "back": "Hacer un texto breve que recoge las ideas principales de algo más extenso. Ejemplo: Tengo que escribir un resumen de la primera parte de 'La autopista del sur', de Julio Cortázar.",
+    "notes": "to write a summary — this source row is actually a homework assignment note ('Homework: write a summary of the first section of Cortázar's La autopista del sur'), not a vocab entry",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "This row is a homework/task note, not real vocabulary content — consider excluding it from the deck rather than drilling it as a card."
+  },
+  {
+    "id": "row481",
+    "front": "está a 30 minutos",
+    "back": "Expresión para indicar la distancia en tiempo hasta un lugar. Ejemplo: La playa está a 30 minutos de aquí.",
+    "notes": "it's 30 minutes away",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row483",
+    "front": "adverbios en -mente (no siempre necesarios)",
+    "back": "La mayoría de los adverbios se forman añadiendo '-mente' a la forma femenina del adjetivo, pero no todos los adverbios se forman así. Ejemplo: 'rápidamente' es correcto, pero también se puede decir 'habla rápido' usando la forma adjetival como adverbio.",
+    "notes": "adverbs often end in -mente, but not necessarily — some adjectives (like rápido, lento) double as adverbs in their masculine singular form",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Part of a multi-row grammar note (continues in rows 484-486) about adjectives doubling as adverbs."
+  },
+  {
+    "id": "row484",
+    "front": "forma neutra/masculina como adverbio",
+    "back": "Cuando un adjetivo como 'rápido' o 'lento' se usa como adverbio, se usa la forma masculina singular (neutra), sin concordar en género con el sujeto. Ejemplo: Ella corre rápido (no 'rápida').",
+    "notes": "the neutral/masculine singular form is used when the adjective functions as an adverb, regardless of the subject's gender",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Continuation of the grammar note started in row483; standalone it's just a fragment, reconstructed with an example."
+  },
+  {
+    "id": "row485",
+    "front": "se movía lento",
+    "back": "Ejemplo de adjetivo usado como adverbio: se mantiene en forma masculina singular aunque el sujeto sea femenino. Ejemplo: La tortuga se movía lento, no 'lenta'.",
+    "notes": "it moved slowly — 'lento' used adverbially stays masculine ('lento', not 'lenta') regardless of the subject's gender",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row486",
+    "front": "lentamente = lento (como adverbios)",
+    "back": "Tanto 'lentamente' como 'lento' pueden funcionar como adverbios con el mismo significado. Ejemplo: Caminaba lentamente / Caminaba lento — ambas son correctas.",
+    "notes": "'lentamente' and 'lento' are equivalent when both are used as adverbs",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row488",
+    "front": "bastante (depende de a qué se refiere)",
+    "back": "'Bastante' puede ser adverbio (invariable) o adjetivo (concuerda en número con el sustantivo), según lo que modifique. Ejemplo: Está bastante cansado (adverbio) vs. Hay bastantes personas (adjetivo).",
+    "notes": "'bastante' behaves differently depending on what it modifies — adverb (invariable) vs. adjective (agrees in number)",
+    "reversible": false,
+    "confidence": "medium",
+    "flag_reason": "Intro fragment to the 'bastante' grammar point continued in rows 489-490."
+  },
+  {
+    "id": "row489",
+    "front": "parecían bastante impacientes",
+    "back": "Aquí 'bastante' funciona como adverbio (modifica al adjetivo 'impacientes') y por eso es invariable. Ejemplo: Parecían bastante impacientes mientras esperaban el resultado.",
+    "notes": "they seemed quite impatient — 'bastante' as an invariable adverb here",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row490",
+    "front": "en el concierto hay bastantes personas",
+    "back": "Aquí 'bastante' funciona como adjetivo y concuerda en número con el sustantivo ('personas'), por eso lleva 's'. Ejemplo: En el concierto hay bastantes personas esta noche.",
+    "notes": "there are quite a few people at the concert — 'bastantes' as an adjective, agreeing in number with 'personas'",
+    "reversible": false,
+    "confidence": "high",
+    "flag_reason": null
+  },
+  {
+    "id": "row492",
+    "front": "desbordes exasperados",
+    "back": "Reacciones o estallidos de frustración intensa que se salen de control ('hacían desbordes exasperados'), del lenguaje literario del cuento 'La autopista del sur' de Cortázar. Ejemplo: Ante la espera interminable, algunos hacían desbordes exasperados.",
+    "notes": "exasperated outbursts/overflows — literary phrase, likely from the Cortázar reading assignment (see row477)",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Obscure literary phrase pulled from a reading assignment; uncommon in everyday speech, verify against the original text before drilling it as core vocab."
+  },
+  {
+    "id": "row493",
+    "front": "no tenían (corrección de verbo)",
+    "back": "Nota de corrección: el verbo correcto en ese contexto es una forma de 'hacían', no de 'tenían'. Ejemplo de contraste: hacían desbordes exasperados (correcto), no tenían desbordes exasperados (incorrecto).",
+    "notes": "'not tenían' — a correction note (likely tied to row492) pointing out that 'hacían' is the right verb, not 'tenían'",
+    "reversible": false,
+    "confidence": "low",
+    "flag_reason": "Very sparse fragment ('-> not tenían') with no clear standalone content; reconstructed as a correction note linked to row492, please verify against the original source row."
+  }
+]
